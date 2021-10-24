@@ -27,10 +27,10 @@ Chem_Exam_Ballen_annotated_GitHub.html | HTML Output of Rmarkdown Analysis File 
 <img src="TableS2.JPG" width="800">
 
 
-## Statistical and Data Visualization Code
+# Statistical and Data Visualization Code
 
 
-# Load all Necessary Packages
+## Load all Necessary Packages
 ```ruby
 library(reshape2)
 library(nlme)
@@ -55,8 +55,8 @@ library(psych)
 library(janitor)
 ```
 
-# Read in Survey data and Institutional Data
-## Merge the two data files for use in analysis
+## Read in Survey data and Institutional Data
+### Merge the two data files for use in analysis
 
 ```ruby
 chem.cfa.raw=read.csv("CHEM_CFA.csv", header=T, na.strings = c("", "NA"))
@@ -73,11 +73,11 @@ chem.cfa <- merge(chem.cfa.raw,institut, by="GID", all=TRUE, incomparables = FAL
 > Data is often scewed to the right. Only a couple of the data columns are normal. So data will need to be transformed. Go to this website to see alternitives to normalizing data within the cfa model: https://lavaan.ugent.be/tutorial/est.html
 > "MLM": maximum likelihood estimation with robust standard errors and a Satorra-Bentler scaled test statistic. For complete data only.See this pub for justification of test statistic choice: https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.382.6856&rep=rep1&type=pdf
 
-# CONFIRMATORY FACTOR ANALYSIS OF PREVIOUSLY VALIDATED CONSTRUCTS
+## CONFIRMATORY FACTOR ANALYSIS OF PREVIOUSLY VALIDATED CONSTRUCTS
 
 > Really helpful youtube tutorial showing cfa function and semPlot: https://www.youtube.com/watch?v=KirEhSRSVI8
 
-## CFA of Instrinsic Goal Orientation (written as grit in code) Measures
+### CFA of Instrinsic Goal Orientation (written as grit in code) Measures
 ```ruby
 #Intrinsic Goal Orientation
 
@@ -99,7 +99,7 @@ semPlot::semPaths(solution1, "std", edge.label.cex =1, label.cex=1)
 
 > Grit Measures did not meet the standard for CFA success using all variables. This will be redone, removing the lowest fit variable (V1)
 
-### Try improving Model 1 by removing V1 (high variance and low estimate)
+#### Try improving Model 1 by removing V1 (high variance and low estimate)
 ```ruby
 #Intrinsic Goal Orientation
 (c1b.model <- '
@@ -125,7 +125,7 @@ head(chem.cfa)
 > Improvement of Model 1 was successful. These are the values that will be used for all future analyses. All parameters are within the cutoff when Variable 1 for grit is removed.
 
 
-## CFA of Perceived Value of Chemistry (written as value in code) Measures
+### CFA of Perceived Value of Chemistry (written as value in code) Measures
 ```ruby
 #See code above for annotation details.
 
@@ -164,7 +164,7 @@ http://sachaepskamp.com/documentation/semPlot/semPaths.html
 > See this publication and references within on reporting CFA results properly: https://www.researchgate.net/publication/24187223_Reporting_Practices_in_Confirmatory_Factor_Analysis_An_Overview_and_Some_Recommendations
 
 
-## Incoming Preparation Measures
+### Incoming Preparation Measures
 ```ruby
 #Design a data set for PCA analysis. The goal of this is to combine multiple highly correlated variables of incoming preparation.
 #subset whole data to include all data points which have ACT and High school GPA measures available. Cumulative GPA when entering class was also available, and included in the data set.
@@ -200,7 +200,7 @@ rename(chem.cfa, Prep = Comp.1)
 ```
 
 
-## Write new data frame with Loaded Latent Variable Values
+### Write new data frame with Loaded Latent Variable Values
 ```ruby
 write.csv(chem.cfa,"CFA_Loadings.csv", row.names = FALSE)
 
@@ -208,7 +208,7 @@ write.csv(chem.cfa,"CFA_Loadings.csv", row.names = FALSE)
 
 ```
 
-# Assess Appropriateness of combining Fall and Summer Performance Measures
+## Assess Appropriateness of combining Fall and Summer Performance Measures
 
 ```ruby
 chem=read.csv("CHEM_long2.csv")
@@ -221,7 +221,7 @@ anova(lme(Performance~ semester.x, random= ~1|ID, data=chem, na.action=na.omit))
 
 > There is not a statistical difference between the two semesters, and they are therefore combined.
 
-# Test for Outliers, and retrieve statistical measures of data quality for latent variables
+## Test for Outliers, and retrieve statistical measures of data quality for latent variables
 ```ruby
 
 #outlier test
@@ -252,7 +252,7 @@ kurtosi(online$Prep)
 
 ```
 
-# Quantitative Analysis
+## Quantitative Analysis
 ```ruby
 #read in longitudinal repeated measures data set including all data
 chem=read.csv("CHEM_long2.csv")
@@ -291,7 +291,7 @@ summary(chem.lm3)
 
 > Class form, exam number, grit, values, and incoming preparation all significantly effected performance in the course when taking "ID" into account as a repeated measure.  Because incoming prepartion has a clear affect on performance, and our focus is on how the two testing formats effect performance, a second linear model was performed examining the effect of testing format on performance when incominging preparation is taken into account.  Even when incoming preparation is taken into account, testing format significantly effected class performance. 
 
-# Visualization of Performance Data by Exam and Testing Modality 
+## Visualization of Performance Data by Exam and Testing Modality 
 ```ruby
 
 #make a data frame that includes all student data for which we have testing format designations. 
@@ -360,7 +360,7 @@ rain
 ggsave(rain, file="rain_perf.png", height=8, width=8, dpi = 300)
 ```
 
-# Affect Measure Data Frame Manipulation
+## Affect Measure Data Frame Manipulation
 ```ruby
 #affective measures were collected at one time. To avoid pseudoreplication, the values were subsetted to occur only one time (exam 1). In other words, the students took the survey one time and a measure of perceived value and intrinsic goal orientation was calculated as a single value, then applied to each student at each of the three time points. One time point was chosen for analysis to not inflate the sample size by using the same value at three time points. 
 
@@ -372,7 +372,7 @@ df_melted = melt(aff, id.vars=c("ID", "Format"), variable.name="Construct", valu
 df_melted=df_melted[complete.cases(df_melted),]
 ```
 
-# Analysis of Intrinsic Goal Orientation, Perceived Value of Chemistry, and Incoming Preparation
+## Analysis of Intrinsic Goal Orientation, Perceived Value of Chemistry, and Incoming Preparation
 ```ruby
 anova(lme(Grit~ Format, data=aff, random=~1|ID, na.action=na.omit))
 anova(lme(Prep~ Format, data=aff, random=~1|ID, na.action=na.omit))
@@ -431,7 +431,7 @@ ggsave(cor.prep, file="cor.prep.png", height=2, width=3, dpi = 300)
 
 ```
 
-# Engagement by Performance Outcomes Analysis
+## Engagement by Performance Outcomes Analysis
 ```ruby
 #Upload long data including additional variables for visual analysis only
 sec_var=read.csv("CHEM_long.csv")
@@ -488,7 +488,7 @@ his
 ggsave(his, file="his.eng.png", height=2, width=6, dpi = 300)
 ```
 
-# Descriptive Statistics for Demographics Analysis
+## Descriptive Statistics for Demographics Analysis
 ```ruby
 
 
