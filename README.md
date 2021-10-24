@@ -24,7 +24,7 @@ Chem_Exam_Ballen_annotated_GitHub.html | HTML Output of Rmarkdown Analysis File 
 
 <img src="TableS1.JPG" width="1200">
 
-<img src="TableS2.JPG" width="800">
+<img src="TableS2.JPG" width="600">
 
 
 # Statistical and Data Visualization Code
