@@ -10,20 +10,13 @@ This repository holds all supplemental files for "Students who prefer face-to-fa
 
 ### Quick Key to File Directory: Detailed Descriptions of file use can be found below.
 
-Note: Due to IRB Restrictions, the final data set used in analysis is available for public use. Raw survey data, and pipeline data are available upon direct request. Following approval, all deidentified data will be shared directly.
+Note: The final data set used in analysis is available for public use. Additionally, deidentified raw survey data is available here. Due to IRB Restrictions all data files used in analysis that contain institutional information (Grades, GPA, etc.) prior to the final merged, and deidientified data are available upon direct request. Following approval, all deidentified data including institutional info will be shared directly.
 
 
 Analysis and File Names| Brief Description | Link to File
 -------------------------------------|------------------------------------ | -----------------------------------------------------
-CHEM master file_May2021.xlsb        |Excel File Containing All Raw Survey Data  | [Raw Survey Data](CHEM master file_May2021.xlsb)
-CHEM_CFA.csv                         |CSV File Used in Latent Variable Analysis  | [Latent Variable CFA File](CHEM_CFA.csv)
-Institutional_info.csv               |CSV File Containing all
-CHEM_long.csv
-CHEM_long2.csv
-Chem_Qualitative.csv
-
-### File Use and Description
-
+CHEM master file_Deidentified.xlsb   |Excel File Containing All Raw Survey Data  | [Raw Survey Data](CHEM master file_Deidentified.xlsb)
+CHEM_deidentified.csv                |CSV File Use in R Statistical Analysis     | [CSV used in Statistical Analysis](CHEM_deidentified.csv)
 
 
 ## Supplementary Materials: 
