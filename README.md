@@ -403,7 +403,7 @@ ggsave(cor.prep, file="cor.prep.png", height=2, width=3, dpi = 300)
 
 ```
 
-
+# Create visual depiction of categorical engagement by performance effects
 ```ruby
 #Upload long data including additional variables for visual analysis only
 sec_var=read.csv("CHEM_long.csv")
