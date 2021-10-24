@@ -1,0 +1,922 @@
+GID,ID,semester.x,Exam,Performance,Format,semester.y,ACTHIGHEST,SATHIGHEST,ACTcalc,HS_GPA,first_generation,gender,race,PELL_ELIGIBLE,CUM_GPA,CAREER_LEVEL,class,Term,Instructor,PIDM,Grit,Anxiety,Values,Prep
+AAP0049,aap0049@auburn.edu,Su20,Exam 1,75,Face to Face,Su20,32,NA,32,4.57,N,F,Caucasian / White,,NA,U,FR,202130,Curtiss,3934831,NA,NA,NA,NA
+AAR0036,aar0036@auburn.edu,Su20,Exam 1,89.5,Online,Su20,22,0,22,4.07,Y,F,Two or more races,,NA,U,FR,202130,Curtiss,3843719,NA,NA,NA,NA
+AAT0038,aat0038@auburn.edu,Fa20,Exam 1,71.5,Face to Face,Fa20,26,NA,26,4.05,N,F,Caucasian / White,Pell eliglble filer,3.07,U,FR,202010,Curtiss,4061986,-0.676604087,1.717988444,-0.984354731,-0.643860162
+ABM0054,abm0054@auburn.edu,Fa20,Exam 1,91,NA,Fa20,28,NA,28,NA,N,F,Two or more races,,NA,U,JR,202010,Curtiss,3890541,NA,NA,NA,NA
+ABR0032,abr0032@auburn.edu,Su20,Exam 1,63.5,Online,Su20,30,NA,30,4.57,N,F,Two or more races,,NA,U,SO,202130,Curtiss,3912438,NA,NA,NA,NA
+ABR0033,abr0033@auburn.edu,Fa20,Exam 1,105,Face to Face,Fa20,34,NA,34,4.4,N,M,Caucasian / White,Pell ineligible filer,4,U,SO,202010,Curtiss,3911101,0.861113099,-1.968156881,1.271331041,1.796914442
+ACA0044,aca0044@auburn.edu,Su20,Exam 1,69,Online,Su20,22,NA,22,NA,Y,F,Hispanic,,NA,U,JR,202130,Curtiss,3921197,NA,NA,NA,NA
+ACA0044,aca0044@auburn.edu,Su20,Exam 1,69,Online,Su20,NA,NA,NA,NA,,F,Hispanic,,NA,P,P1,202130,Curtiss,3921197,NA,NA,NA,NA
+ACC0130,acc0130@auburn.edu,Fa20,Exam 1,86,Online,Fa20,32,NA,32,4.23,N,F,Caucasian / White,Pell ineligible filer,3.5,U,FR,202010,Curtiss,3954511,-0.040126419,-2.852027956,1.222680035,1.016645732
+ACT0044,act0044@auburn.edu,Su20,Exam 1,80.5,Face to Face,Su20,31,NA,31,4.5,N,F,Caucasian / White,,NA,U,FR,202130,Curtiss,3960070,NA,NA,NA,NA
+ADH0069,adh0069@auburn.edu,Su20,Exam 1,39,NA,Su20,NA,NA,NA,NA,,F,Caucasian / White,,NA,U,SO,202130,Curtiss,3961041,NA,NA,NA,NA
+ADH0074,adh0074@auburn.edu,Fa20,Exam 1,60,NA,Fa20,33,NA,33,4.14,N,F,Black or African American,Pell ineligible filer,2.4,U,SO,202010,Curtiss,3926027,NA,NA,NA,1.046014809
+ADS0074,ads0074@auburn.edu,Fa20,Exam 1,78.5,Online,Fa20,31,NA,31,4.45,N,F,Caucasian / White,Pell ineligible filer,3.6,U,FR,202010,Curtiss,3995485,0.922454374,-1.805070735,0.715737835,1.255273718
+AEB0128,aeb0128@auburn.edu,Fa20,Exam 1,72,Face to Face,Fa20,26,NA,26,4.09,Y,F,Caucasian / White,Pell ineligible filer,2.71,U,FR,202010,Curtiss,3983545,0.983795649,0.572344975,1.318569285,-0.561399527
+AEB0158,aeb0158@auburn.edu,Fa20,Exam 1,68,Online,Fa20,27,NA,27,NA,,F,Caucasian / White,,NA,U,JR,202010,Curtiss,4155399,0.218910122,0.154100977,1.461210272,NA
+AEC0098,aec0098@auburn.edu,Fa20,Exam 1,77,Face to Face,Fa20,29,NA,29,4.55,N,F,Caucasian / White,Pell ineligible filer,3.36,U,FR,202010,Curtiss,4050781,0.776870584,1.717988444,0.762976079,1.031614294
+AEC0121,aec0121@auburn.edu,Fa20,Exam 1,86,NA,Fa20,31,NA,31,4.31,N,F,Caucasian / White,,NA,U,SO,202010,Curtiss,3898355,NA,NA,NA,NA
+AEG0055,aeg0055@auburn.edu,Fa20,Exam 1,90,Face to Face,Fa20,31,NA,31,4.6,N,F,Caucasian / White,Pell ineligible filer,3.81,U,FR,202010,Curtiss,4006215,0.861113099,-2.907780939,0.011325246,1.5645011
+AEJ0035,aej0035@auburn.edu,Su20,Exam 1,62,Online,Su20,26,0,26,4.37,N,F,Caucasian / White,,NA,U,FR,202130,Curtiss,3934565,NA,NA,NA,NA
+AES0063,aes0063@auburn.edu,Su20,Exam 1,NA,NA,Su20,30,0,30,3.67,N,F,Hispanic,,NA,U,FR,202130,Curtiss,3683985,NA,NA,NA,NA
+AFP0025,afp0025@auburn.edu,Fa20,Exam 1,69,Online,Fa20,NA,NA,NA,NA,,F,Caucasian / White,,NA,U,SR,202010,Curtiss,4121140,0.531505484,-0.779580146,-1.273109551,NA
+AGS0071,ags0071@auburn.edu,Fa20,Exam 1,86,Online,Fa20,31,NA,31,4.16,N,F,Caucasian / White,Non-filer,3.75,U,FR,202010,Curtiss,3970750,-0.24326526,1.609176933,-0.410877269,0.657434114
+AJM0120,ajm0120@auburn.edu,Fa20,Exam 1,72,Online,Fa20,34,NA,34,4.05,N,M,Caucasian / White,Non-filer,4,U,FR,202010,Curtiss,4024624,-0.162808969,-1.717725857,-0.110992371,1.075383886
+AJO0019,ajo0019@auburn.edu,Fa20,Exam 1,72,Online,Fa20,31,NA,31,4.45,Y,F,Caucasian / White,Pell ineligible filer,3.29,U,FR,202010,Curtiss,3910538,-0.448624921,1.057683325,0.165098169,1.255273718
+AJR0053,ajr0053@auburn.edu,Fa20,Exam 1,68,Online,Fa20,29,0,29,3.71,N,F,Caucasian / White,Non-filer,2.52,U,FR,202010,Curtiss,3831362,-2.254326712,1.5632722,0.770535072,-0.700059042
+AJW0093,ajw0093@auburn.edu,Fa20,Exam 1,94,Face to Face,Fa20,22,NA,22,4.12,N,F,Caucasian / White,Pell ineligible filer,3.33,U,FR,202010,Curtiss,4010083,0.861113099,1.500365423,0.13927589,-1.359176075
+AKH0053,akh0053@auburn.edu,Su20,Exam 1,73.5,Online,Su20,31,NA,31,3.56,N,F,Two or more races,,NA,U,FR,202130,Curtiss,3955084,NA,NA,NA,NA
+AKL0049,akl0049@auburn.edu,Fa20,Exam 1,92,Online,Fa20,29,NA,29,4.08,N,M,Caucasian / White,Non-filer,3.57,U,FR,202010,Curtiss,4053835,0.794046514,-2.114503222,1.030314933,0.062701832
+ALH0137,alh0137@auburn.edu,Fa20,Exam 1,74.28,Online,Fa20,32,NA,32,4.33,,F,Caucasian / White,,NA,U,JR,202010,Curtiss,3997127,0.654188034,1.717988444,-1.803792771,NA
+ALN0030,aln0030@auburn.edu,Fa20,Exam 1,67.5,Online,Fa20,26,NA,26,4.27,N,M,Caucasian / White,Pell ineligible filer,3.5,U,FR,202010,Curtiss,4062619,0.903339359,0.608124445,-0.678309639,-0.190326669
+AMC0166,amc0166@auburn.edu,Fa20,Exam 1,77,Face to Face,Fa20,NA,1250,26,4.97,N,F,Caucasian / White,Pell ineligible filer,3.96,U,FR,202010,Curtiss,3875957,0.861113099,-3.635457424,-0.042338161,1.252734444
+AMG0106,amg0106@auburn.edu,Su20,Exam 1,38.5,Online,Su20,25,0,25,4.01,N,F,Caucasian / White,,NA,U,FR,202130,Curtiss,3795747,NA,NA,NA,NA
+AMK0095,amk0095@auburn.edu,Fa20,Exam 1,61,Online,Fa20,30,NA,30,4.24,N,F,Two or more races,Pell ineligible filer,4,U,FR,202010,Curtiss,4016670,1.045136924,-3.635457424,1.461210272,0.607449878
+ANC0057,anc0057@auburn.edu,Fa20,Exam 1,53,NA,Fa20,27,0,27,3.71,N,F,Caucasian / White,Pell ineligible filer,2.71,U,FR,202010,Curtiss,3930304,NA,NA,NA,-1.129870054
+ANC0070,anc0070@auburn.edu,Fa20,Exam 1,65,Online,Fa20,30,NA,30,4.06,Y,F,Caucasian / White,Pell ineligible filer,2.4,U,FR,202010,Curtiss,3978553,0.159507932,0.671031223,-0.170347668,0.236377021
+ANG0047,ang0047@auburn.edu,Fa20,Exam 1,93,Face to Face,Fa20,31,NA,31,4.31,N,F,Caucasian / White,Pell ineligible filer,3.73,U,FR,202010,Curtiss,4024448,0.849662479,-2.488058594,0.483693482,0.966661496
+ANG0049,ang0049@auburn.edu,Su20,Exam 1,77,Face to Face,Su20,31,NA,31,4.34,,F,Caucasian / White,,NA,U,SR,202130,Curtiss,3111091,NA,NA,NA,NA
+ANH0062,anh0062@auburn.edu,Su20,Exam 1,66,Online,Su20,34,0,34,3.76,N,F,Caucasian / White,,NA,U,FR,202130,Curtiss,3845174,NA,NA,NA,NA
+ARK0048,ark0048@auburn.edu,Fa20,Exam 1,67,Face to Face,Fa20,NA,1370,30,3.88,N,F,Caucasian / White,Pell ineligible filer,3.45,U,FR,202010,Curtiss,4063498,-1.008150788,1.717988444,1.270404786,-0.134695837
+ART0043,art0043@auburn.edu,Fa20,Exam 1,75,Online,Fa20,27,NA,27,4.14,N,F,Caucasian / White,Non-filer,3.5,U,FR,202010,Curtiss,4059870,0.569571838,1.45446069,1.461210272,-0.243418227
+ASH0063,ash0063@auburn.edu,Su20,Exam 1,66,Face to Face,Su20,25,NA,25,3.81,N,F,Caucasian / White,,NA,U,FR,202130,Curtiss,3980767,NA,NA,NA,NA
+ASK0051,ask0051@auburn.edu,Fa20,Exam 1,96,Face to Face,Fa20,31,NA,31,4.19,Y,M,Two or more races,Pell ineligible filer,4,U,SO,202010,Curtiss,4054083,0.715529309,-3.235708591,1.413972028,0.71927959
+ATB0052,atb0052@auburn.edu,Fa20,Exam 1,93,Face to Face,Fa20,32,NA,32,4.99,N,F,Caucasian / White,Pell ineligible filer,3.79,U,FR,202010,Curtiss,3928804,-0.732220052,-0.530642242,-0.207468223,2.583397797
+AZA0153,aza0153@auburn.edu,Su20,Exam 1,73.5,Online,Su20,NA,NA,NA,NA,,M,Non-Resident Alien,,NA,U,FR,202130,Curtiss,3950803,NA,NA,NA,NA
+AZW0109,azw0109@auburn.edu,Su20,Exam 1,52,Online,Su20,NA,930,17,3.38,,F,Caucasian / White,,NA,U,FR,202130,Curtiss,3894352,NA,NA,NA,NA
+BAB0089,bab0089@auburn.edu,Su20,Exam 1,NA,NA,Su20,0,1300,28,4.21,N,F,Caucasian / White,,NA,U,FR,202130,Curtiss,3678955,NA,NA,NA,NA
+BAH0074,bah0074@auburn.edu,Fa20,Exam 1,71,Online,Fa20,29,NA,29,4.19,N,M,Caucasian / White,Pell ineligible filer,3.38,U,FR,202010,Curtiss,3984559,-0.438739705,-0.392928044,-0.562110982,0.289468579
+BAN0019,ban0019@auburn.edu,Fa20,Exam 1,71,NA,Fa20,NA,1300,28,4.03,N,F,Caucasian / White,Pell ineligible filer,3.73,U,FR,202010,Curtiss,4049618,NA,NA,NA,-0.255279468
+BDP0041,bdp0041@auburn.edu,Fa20,Exam 1,22,NA,Fa20,NA,NA,NA,3.71,Y,F,Caucasian / White,,NA,U,JR,202010,Curtiss,3915949,NA,NA,NA,NA
+BEC0035,bec0035@auburn.edu,Fa20,Exam 1,101,Online,Fa20,31,NA,31,4.31,N,M,Two or more races,Pell ineligible filer,4,U,FR,202010,Curtiss,4016505,-1.668021435,1.5632722,0.346831804,0.966661496
+BEP0015,bep0015@auburn.edu,Fa20,Exam 1,98,Face to Face,Fa20,28,NA,28,4.16,N,F,Caucasian / White,Pell ineligible filer,3.86,U,SO,202010,Curtiss,3952767,0.190073567,0.431941569,-1.292932452,0.012717596
+BFM0010,bfm0010@auburn.edu,Fa20,Exam 1,60,Online,Fa20,NA,NA,NA,NA,Y,F,Caucasian / White,,NA,U,JR,202010,Curtiss,4117690,0.397372314,-1.192163469,1.032361056,NA
+BGM0020,bgm0020@auburn.edu,Fa20,Exam 1,88,Face to Face,Fa20,25,NA,25,4.03,N,M,Caucasian / White,Pell ineligible filer,3.5,U,FR,202010,Curtiss,4080379,0.021214856,0.801309366,0.484766592,-0.899995986
+BGW0012,bgw0012@auburn.edu,Fa20,Exam 1,71.5,Online,Fa20,NA,1400,31,3.78,N,F,Caucasian / White,Non-filer,4,U,FR,202010,Curtiss,4040566,-0.310331845,0.417628731,-0.477412531,-0.125941919
+BMM0063,bmm0063@auburn.edu,Fa20,Exam 1,74.5,Online,Fa20,31,NA,31,4.09,N,F,Caucasian / White,Pell ineligible filer,3.25,U,FR,202010,Curtiss,4009922,-0.718830346,-1.296510392,-0.954353421,0.513128003
+BMM0070,bmm0070@auburn.edu,Fa20,Exam 1,95,Face to Face,Fa20,24,NA,24,4.03,N,M,Caucasian / White,Pell ineligible filer,4,U,FR,202010,Curtiss,4079950,0.799771824,-1.594601509,1.461210272,-1.114901492
+BOM0005,bom0005@auburn.edu,Fa20,Exam 1,68,Online,Fa20,32,NA,32,3.76,N,F,Caucasian / White,Non-filer,3.17,U,FR,202010,Curtiss,4041783,-1.428099909,1.717988444,-0.617008316,0.04773327
+BTP0013,btp0013@auburn.edu,Su20,Exam 1,46.5,Online,Su20,28,0,28,4.05,Y,M,Caucasian / White,,NA,U,FR,202130,Curtiss,3912262,NA,NA,NA,NA
+BVB0006,bvb0006@auburn.edu,Fa20,Exam 1,64,Online,Fa20,30,NA,30,4.17,N,F,Caucasian / White,Non-filer,3.21,U,FR,202010,Curtiss,4009675,0.105831052,1.717988444,0.243750485,0.463143767
+BWM0022,bwm0022@auburn.edu,Fa20,Exam 1,93,NA,Fa20,30,NA,30,4.05,N,M,Caucasian / White,Non-filer,3.73,U,FR,202010,Curtiss,4028930,NA,NA,NA,0.215761862
+CDC0077,cdc0077@auburn.edu,Fa20,Exam 1,80,Face to Face,Fa20,28,NA,28,3.95,N,M,Caucasian / White,Pell ineligible filer,3.77,U,FR,202010,Curtiss,4016513,-1.082881768,-1.693287757,-0.436220422,-0.420200738
+CED0065,ced0065@auburn.edu,Fa20,Exam 1,85,Online,Fa20,31,NA,31,4.41,N,F,Caucasian / White,Pell ineligible filer,3.8,U,FR,202010,Curtiss,3984048,1.045136924,1.609176933,0.991828375,1.172813083
+CEG0054,ceg0054@auburn.edu,Su20,Exam 1,94,Face to Face,Su20,32,NA,32,4.43,N,F,Caucasian / White,,NA,U,FR,202130,Curtiss,3985866,NA,NA,NA,NA
+CGG0031,cgg0031@auburn.edu,Fa20,Exam 1,93,Online,Fa20,25,NA,25,3.82,N,M,Caucasian / White,Pell ineligible filer,3.53,U,FR,202010,Curtiss,4040330,0.627408623,1.717988444,1.125277928,-1.33291432
+CGJ0018,cgj0018@auburn.edu,Fa20,Exam 1,68,Online,Fa20,21,NA,21,3.57,N,F,Black or African American,Pell eliglble filer,2.38,U,FR,202010,Curtiss,3983170,-0.38312374,1.717988444,1.365807529,-2.707915313
+CGL0015,cgl0015@auburn.edu,Fa20,Exam 1,76,Face to Face,Fa20,32,NA,32,4.4,N,F,Caucasian / White,Non-filer,3.5,U,FR,202010,Curtiss,3959800,0.307030807,-0.93429639,0.386877978,1.36710343
+CJK0048,cjk0048@auburn.edu,Fa20,Exam 1,97,Face to Face,Fa20,35,NA,35,4.19,N,M,Caucasian / White,Pell eliglble filer,4,U,FR,202010,Curtiss,3954489,0.103891967,-0.000615266,0.356876668,1.578901614
+CLC0133,clc0133@auburn.edu,Fa20,Exam 1,88,Face to Face,Fa20,27,NA,27,4.04,N,M,Caucasian / White,Pell ineligible filer,3.8,U,FR,202010,Curtiss,3993993,-0.37739843,-1.76363059,0.176188871,-0.449569815
+CLH0103,clh0103@auburn.edu,Su20,Exam 1,79,Face to Face,Su20,25,NA,25,NA,Y,M,Caucasian / White,,NA,U,JR,202130,Curtiss,3795296,NA,NA,NA,NA
+CMB0195,cmb0195@auburn.edu,Fa20,Exam 1,94,Face to Face,Fa20,32,NA,32,4.08,N,F,Caucasian / White,Pell ineligible filer,4,U,SO,202010,Curtiss,3928128,0.385548013,-0.351487899,0.59849334,0.70741835
+CMC0195,cmc0195@auburn.edu,Fa20,Exam 1,80,Face to Face,Fa20,28,NA,28,4.2,N,F,Caucasian / White,,NA,U,JR,202010,Curtiss,3983573,-0.50580629,1.253839714,-2.701584134,NA
+CML0082,cml0082@auburn.edu,Fa20,Exam 1,91,Face to Face,Fa20,30,NA,30,4.3,N,F,Asian,Pell ineligible filer,3.63,U,FR,202010,Curtiss,4063765,0.032665476,0.28437912,0.011925812,0.731140831
+CMM0216,cmm0216@auburn.edu,Fa20,Exam 1,69,Face to Face,Fa20,NA,NA,NA,NA,,M,Caucasian / White,,NA,G,PHD,202010,Curtiss,4152437,0.048276002,0.871652199,0.263959796,NA
+CNF0022,cnf0022@auburn.edu,Fa20,Exam 1,71.5,Online,Fa20,23,NA,23,4.29,N,F,Caucasian / White,Pell ineligible filer,2.45,U,FR,202010,Curtiss,4009775,0.978070339,1.717988444,1.04155249,-0.79381287
+CPM0050,cpm0050@auburn.edu,Fa20,Exam 1,85.5,Face to Face,Fa20,30,NA,30,3.73,N,F,Caucasian / White,Non-filer,2,U,FR,202010,Curtiss,4065927,-0.37167312,0.112660832,-1.870340138,-0.443923219
+CRC0106,crc0106@auburn.edu,Fa20,Exam 1,64,Face to Face,Fa20,NA,1220,25,4.49,N,F,Caucasian / White,Pell ineligible filer,3.5,U,FR,202010,Curtiss,4030830,0.299366412,-0.196771655,0.244236991,0.048301317
+CRJ0025,crj0025@auburn.edu,Su20,Exam 1,84.5,Online,Su20,28,NA,28,4.52,N,M,Caucasian / White,,NA,U,FR,202130,Curtiss,3945555,NA,NA,NA,NA
+CSS0049,css0049@auburn.edu,Su20,Exam 1,70,Face to Face,Su20,31,0,31,4.14,N,M,Asian,,NA,U,FR,202130,Curtiss,3695981,NA,NA,NA,NA
+CTC0061,ctc0061@auburn.edu,Fa20,Exam 1,80,Face to Face,Fa20,27,NA,27,3.92,N,M,Caucasian / White,Non-filer,4,U,FR,202010,Curtiss,4068840,1.045136924,-0.477583714,0.873496808,-0.69695172
+CVP0008,cvp0008@auburn.edu,Fa20,Exam 1,68,Online,Fa20,26,NA,26,4.1,N,F,Caucasian / White,Non-filer,3.02,U,FR,202010,Curtiss,3990763,-1.181005728,-1.538571513,-2.694025141,-0.540784368
+CZA0008,cza0008@auburn.edu,Su20,Exam 1,62.5,Face to Face,Su20,28,0,28,4.12,Y,F,Caucasian / White,,NA,U,FR,202130,Curtiss,2462079,NA,NA,NA,NA
+CZH0106,czh0106@auburn.edu,Fa20,Exam 1,69,Online,Fa20,NA,1290,27,3.5,N,M,Caucasian / White,Pell eliglble filer,3.02,U,FR,202010,Curtiss,3962354,-2.240937007,1.717988444,-2.549971393,-1.562788388
+CZX0017,czx0017@auburn.edu,Fa20,Exam 1,47.75,NA,Fa20,NA,NA,NA,NA,,M,Non-Resident Alien,Non-filer,1.68,U,FR,202010,Curtiss,4064357,NA,NA,NA,NA
+DAG0040,dag0040@auburn.edu,Fa20,Exam 1,73,Online,Fa20,29,NA,29,3.88,N,F,Caucasian / White,Non-filer,3.54,U,FR,202010,Curtiss,4085948,0.502505253,0.608124445,0.349317675,-0.349601343
+DAS0057,das0057@auburn.edu,Fa20,Exam 1,98,Face to Face,Fa20,30,0,30,3.88,N,M,Hispanic,,NA,U,FR,202010,Curtiss,3903480,0.497061678,-3.48074118,0.216953337,NA
+DCR0023,dcr0023@auburn.edu,Su20,Exam 1,97,Face to Face,Su20,33,NA,33,4.33,N,M,Caucasian / White,,NA,U,FR,202130,Curtiss,3945132,NA,NA,NA,NA
+DEL0019,del0019@auburn.edu,Fa20,Exam 1,66,Online,Fa20,29,NA,29,4.17,N,F,Caucasian / White,Pell ineligible filer,3.57,U,FR,202010,Curtiss,4064954,-0.187649295,-1.451226635,0.677571443,0.248238261
+DEM0040,dem0040@auburn.edu,Fa20,Exam 1,94,Face to Face,Fa20,32,NA,32,4.43,N,F,Caucasian / White,Pell ineligible filer,4,U,FR,202010,Curtiss,3926046,0.861113099,0.20000571,0.762976079,1.428948907
+DGH0020,dgh0020@auburn.edu,Fa20,Exam 1,65,NA,Fa20,30,NA,30,4.03,N,M,Caucasian / White,Non-filer,2.93,U,FR,202010,Curtiss,3982460,NA,NA,NA,0.174531544
+DHK0005,dhk0005@auburn.edu,Fa20,Exam 1,39,NA,Fa20,0,1120,22,2.88,N,M,Asian,Pell ineligible filer,1.86,U,FR,202010,Curtiss,3923789,NA,NA,NA,-3.915455761
+DMD0042,dmd0042@auburn.edu,Fa20,Exam 1,65.7,Online,Fa20,24,NA,24,3.99,N,F,Hispanic,Pell ineligible filer,3,U,FR,202010,Curtiss,4061314,0.978070339,1.408555957,1.029875185,-1.197362127
+DRP0020,drp0020@auburn.edu,Su20,Exam 1,60,Online,Su20,0,1310,28,4.23,N,F,Two or more races,,NA,U,FR,202130,Curtiss,3904608,NA,NA,NA,NA
+DRT0012,drt0012@auburn.edu,Fa20,Exam 1,80.11,Online,Fa20,24,NA,24,4.07,N,F,Caucasian / White,Pell eliglble filer,3.42,U,FR,202010,Curtiss,4016831,0.732705239,0.477846301,1.365807529,-1.032440857
+DRW0026,drw0026@auburn.edu,Fa20,Exam 1,75.5,Online,Fa20,33,NA,33,4.19,N,M,Caucasian / White,Pell ineligible filer,3.83,U,FR,202010,Curtiss,3952791,0.238025137,1.45446069,-1.610601511,1.149090602
+DWC0018,dwc0018@auburn.edu,Fa20,Exam 1,72.5,Face to Face,Fa20,29,NA,29,3.65,N,M,Caucasian / White,Pell eliglble filer,1.92,U,FR,202010,Curtiss,3977477,-0.925473677,0.913092344,1.114026409,-0.823749995
+DWP0019,dwp0019@auburn.edu,Fa20,Exam 1,74,Online,Fa20,NA,1310,28,4.86,N,M,Caucasian / White,Non-filer,2.6,U,FR,202010,Curtiss,4049877,1.045136924,1.717988444,1.461210272,1.45577871
+DZW0028,dzw0028@auburn.edu,Fa20,Exam 1,0,NA,Fa20,27,0,27,4.2,N,M,Caucasian / White,Non-filer,2.29,U,FR,202010,Curtiss,3731590,NA,NA,NA,-0.119727275
+EAC0082,eac0082@auburn.edu,Su20,Exam 1,82,Online,Su20,31,NA,31,4.71,N,F,Two or more races,,NA,U,SO,202130,Curtiss,3955414,NA,NA,NA,NA
+EAD0047,ead0047@auburn.edu,Su20,Exam 1,48,Online,Su20,0,1050,20,3.42,,F,Caucasian / White,,NA,U,SO,202130,Curtiss,3624337,NA,NA,NA,NA
+EAS0100,eas0100@auburn.edu,Fa20,Exam 1,80,Face to Face,Fa20,NA,1200,25,3.71,N,F,Caucasian / White,Pell ineligible filer,3.6,U,FR,202010,Curtiss,4059863,0.441163978,-0.547644287,0.777607559,-1.559681066
+EBJ0011,ebj0011@auburn.edu,Su20,Exam 1,81.5,Online,Su20,34,NA,34,4.56,,F,Caucasian / White,,NA,U,FR,202130,Curtiss,4059179,NA,NA,NA,NA
+ECD0037,ecd0037@auburn.edu,Fa20,Exam 1,91,Online,Fa20,28,NA,28,4.24,N,F,Caucasian / White,Pell ineligible filer,3.67,U,FR,202010,Curtiss,3994018,0.855387789,1.500365423,-0.17378835,0.177638866
+EGA0010,ega0010@auburn.edu,Fa20,Exam 1,97,Online,Fa20,33,NA,33,4.4,N,F,Caucasian / White,Non-filer,4,U,FR,202010,Curtiss,4045201,-0.101467694,0.045289466,1.223166542,1.582008936
+EGL0021,egl0021@auburn.edu,Fa20,Exam 1,89,Online,Fa20,25,NA,25,4.52,N,F,Caucasian / White,Pell ineligible filer,3.57,U,FR,202010,Curtiss,4033877,1.045136924,0.695469323,1.461210272,0.110146794
+EJM0045,ejm0045@auburn.edu,Fa20,Exam 1,106,Face to Face,Fa20,32,NA,32,4.4,N,M,Caucasian / White,Pell ineligible filer,4,U,SO,202010,Curtiss,4034090,0.916729064,-2.852027956,1.327760719,1.36710343
+EJZ0003,ejz0003@auburn.edu,Fa20,Exam 1,99,Face to Face,Fa20,33,NA,33,4.56,N,M,Asian,Pell ineligible filer,4,U,FR,202010,Curtiss,4055903,0.861113099,-1.317977024,0.27979793,1.911851477
+ELK0025,elk0025@auburn.edu,Fa20,Exam 1,74.5,NA,Fa20,25,NA,25,3.96,N,F,Caucasian / White,Non-filer,3.57,U,FR,202010,Curtiss,4038113,NA,NA,NA,-1.044302097
+EMN0017,emn0017@auburn.edu,Su20,Exam 1,65.5,Online,Su20,31,0,31,4.14,N,F,Caucasian / White,,NA,U,FR,202130,Curtiss,3835124,NA,NA,NA,NA
+EPS0018,eps0018@auburn.edu,Fa20,Exam 1,54.5,Online,Fa20,23,NA,23,4.15,N,F,Caucasian / White,Pell ineligible filer,3.21,U,FR,202010,Curtiss,4024816,0.911003754,1.717988444,0.411187399,-1.082425092
+ERB0062,erb0062@auburn.edu,Fa20,Exam 1,107,Face to Face,Fa20,35,NA,35,4.57,N,F,Caucasian / White,Pell ineligible filer,4,U,FR,202010,Curtiss,3983507,0.732705239,-1.739192489,0.166510931,2.362277647
+ETS0021,ets0021@auburn.edu,Fa20,Exam 1,75,Face to Face,Fa20,33,NA,33,4.54,N,M,Caucasian / White,Pell ineligible filer,3.5,U,FR,202010,Curtiss,4056693,-1.775257136,-0.112398245,-2.827474694,1.870621159
+EZH0040,ezh0040@auburn.edu,Fa20,Exam 1,88,Face to Face,Fa20,30,NA,30,4.18,N,F,Caucasian / White,Pell ineligible filer,3.75,U,FR,202010,Curtiss,4013887,-0.596147796,0.871652199,-0.580374267,0.483758926
+FEL0002,fel0002@auburn.edu,Fa20,Exam 1,76,Face to Face,Fa20,27,NA,27,4.24,N,F,Caucasian / White,Pell ineligible filer,3.73,U,FR,202010,Curtiss,4018597,1.045136924,0.586657812,1.461210272,-0.03726664
+GCH0021,gch0021@auburn.edu,Su20,Exam 1,87,Online,Su20,26,NA,26,3.93,N,M,Caucasian / White,,NA,U,FR,202130,Curtiss,3954180,NA,NA,NA,NA
+GCK0012,gck0012@auburn.edu,Fa20,Exam 1,78,Face to Face,Fa20,24,NA,24,4.03,N,F,Caucasian / White,Pell ineligible filer,3.71,U,FR,202010,Curtiss,3960294,0.782595894,0.847214099,0.86686407,-1.114901492
+GMH0056,gmh0056@auburn.edu,Fa20,Exam 1,58,Online,Fa20,22,NA,22,NA,Y,F,Caucasian / White,,NA,U,JR,202010,Curtiss,3975095,-0.246769749,1.067808588,0.406174996,NA
+GMT0015,gmt0015@auburn.edu,Su20,Exam 1,86.5,Online,Su20,27,NA,27,2.83,N,M,Caucasian / White,,NA,U,FR,202130,Curtiss,3991359,NA,NA,NA,NA
+GSM0025,gsm0025@auburn.edu,Fa20,Exam 1,96.5,Face to Face,Fa20,29,NA,29,4.12,N,M,Caucasian / White,Non-filer,3.73,U,FR,202010,Curtiss,3972971,0.861113099,-0.126428822,-1.314228835,0.145162467
+HAP0022,hap0022@auburn.edu,Fa20,Exam 1,0,NA,Fa20,25,NA,25,4.03,N,M,Caucasian / White,Non-filer,1.97,U,FR,202010,Curtiss,3973035,NA,NA,NA,-0.899995986
+HAT0020,hat0020@auburn.edu,Fa20,Exam 1,73.5,Face to Face,Fa20,34,NA,34,4.11,N,F,Caucasian / White,Pell ineligible filer,3.71,U,FR,202010,Curtiss,4042054,0.721254619,1.717988444,-2.397652466,1.199074838
+HER0043,her0043@auburn.edu,Fa20,Exam 1,51,Online,Fa20,31,NA,31,4.06,N,F,Caucasian / White,Pell ineligible filer,3.8,U,FR,202010,Curtiss,4024755,-1.006211702,-0.443297364,0.111374042,0.451282527
+HKC0013,hkc0013@auburn.edu,Su20,Exam 1,61.5,Face to Face,Su20,23,0,23,3.87,N,F,Caucasian / White,,NA,U,FR,202130,Curtiss,3781997,NA,NA,NA,NA
+HLB0036,hlb0036@auburn.edu,Fa20,Exam 1,61,NA,Fa20,24,NA,24,4.03,N,F,Caucasian / White,Pell ineligible filer,3.57,U,FR,202010,Curtiss,4037502,NA,NA,NA,-1.114901492
+HMB0066,hmb0066@auburn.edu,Fa20,Exam 1,77,Face to Face,Fa20,NA,1170,24,4.03,N,F,Caucasian / White,Pell ineligible filer,3.79,U,FR,202010,Curtiss,4053999,0.496779943,-1.100354003,1.365807529,-1.114901492
+HTS0017,hts0017@auburn.edu,Fa20,Exam 1,70,Face to Face,Fa20,31,NA,31,4.45,N,M,Caucasian / White,Non-filer,4,U,SO,202010,Curtiss,3960364,-1.150230088,0.277225325,0.358889995,1.255273718
+HWF0006,hwf0006@auburn.edu,Su20,Exam 1,95,Online,Su20,NA,NA,NA,NA,,M,Caucasian / White,,NA,U,FR,202130,Curtiss,4167818,NA,NA,NA,NA
+HZN0021,hzn0021@auburn.edu,Fa20,Exam 1,46,Online,Fa20,NA,NA,NA,NA,,F,Non-Resident Alien,Non-filer,3.24,U,FR,202010,Curtiss,4050421,-2.093414131,-2.124351472,-2.134900227,NA
+HZP0041,hzp0041@auburn.edu,Su20,Exam 1,64,Online,Su20,26,NA,26,3.76,N,M,Asian,,NA,U,FR,202130,Curtiss,3995159,NA,NA,NA,NA
+ICM0011,icm0011@auburn.edu,Fa20,Exam 1,67,Face to Face,Fa20,23,NA,23,NA,Y,M,Caucasian / White,,NA,U,JR,202010,Curtiss,3911563,0.441163978,1.5632722,-0.265310663,NA
+ILH0002,ilh0002@auburn.edu,Fa20,Exam 1,86,Face to Face,Fa20,31,NA,31,4.06,N,M,Caucasian / White,Pell ineligible filer,3.56,U,FR,202010,Curtiss,4034795,0.441163978,-0.375925999,0.309151917,0.451282527
+IMH0007,imh0007@auburn.edu,Fa20,Exam 1,65.5,Online,Fa20,NA,1140,23,3.22,Y,F,Caucasian / White,Non-filer,2.64,U,FR,202010,Curtiss,4088408,NA,NA,1.461210272,-2.999634857
+IML0006,iml0006@auburn.edu,Fa20,Exam 1,65,Online,Fa20,23,0,23,3.81,N,F,Caucasian / White,Non-filer,3.43,U,FR,202010,Curtiss,3932060,-0.25471588,1.717988444,-0.415290963,-1.78334049
+IMP0006,imp0006@auburn.edu,Fa20,Exam 1,75,Face to Face,Fa20,29,NA,29,4.15,N,F,Caucasian / White,Pell ineligible filer,3.57,U,FR,202010,Curtiss,4065981,-0.181923985,0.716935955,-0.227691496,0.207007943
+INS0003,ins0003@auburn.edu,Fa20,Exam 1,69,Face to Face,Fa20,31,0,31,4.55,N,F,Caucasian / White,Pell ineligible filer,3.3,U,FR,202010,Curtiss,3860431,-0.920030102,1.717988444,-0.701660009,1.461425306
+JAC0151,jac0151@auburn.edu,Su20,Exam 1,94.5,Face to Face,Su20,30,NA,30,4.24,N,F,Hispanic,,NA,U,FR,202130,Curtiss,3983061,NA,NA,NA,NA
+JAG0117,jag0117@auburn.edu,Fa20,Exam 1,89,Face to Face,Fa20,25,NA,25,4.37,N,F,Hispanic,Pell ineligible filer,3.8,U,FR,202010,Curtiss,4041570,0.502505253,-0.474612247,0.398555283,-0.199080588
+JAL0085,jal0085@auburn.edu,Fa20,Exam 1,92,Face to Face,Fa20,29,NA,29,4.05,N,F,Caucasian / White,Pell ineligible filer,4,U,FR,202010,Curtiss,3960309,0.861113099,1.057683325,0.539077323,0.000856356
+JBP0055,jbp0055@auburn.edu,Fa20,Exam 1,89.5,Face to Face,Fa20,33,NA,33,4.4,N,M,Caucasian / White,Non-filer,4,U,SO,202010,Curtiss,3729741,0.274689764,0.789690983,-1.355081109,1.582008936
+JDB0162,jdb0162@auburn.edu,Fa20,Exam 1,79,NA,Fa20,28,NA,28,4,Y,M,Caucasian / White,Pell eliglble filer,2.62,U,FR,202010,Curtiss,4075699,NA,NA,NA,-0.317124944
+JDP0077,jdp0077@auburn.edu,Su20,Exam 1,100.5,Face to Face,Su20,34,NA,34,4.14,Y,M,Caucasian / White,,NA,U,FR,202130,Curtiss,3925948,NA,NA,NA,NA
+JEB0119,jeb0119@auburn.edu,Fa20,Exam 1,85,Face to Face,Fa20,30,NA,30,3.98,N,F,Caucasian / White,Non-filer,3.09,U,FR,202010,Curtiss,4046105,-0.174259589,NA,0.194999383,0.071455751
+JHH0057,jhh0057@auburn.edu,Fa20,Exam 1,83,Face to Face,Fa20,28,NA,28,4.17,N,M,Caucasian / White,Non-filer,3.38,U,FR,202010,Curtiss,4018980,0.048276002,1.717988444,0.18630656,0.033332755
+JHL0050,jhl0050@auburn.edu,Fa20,Exam 1,85,Face to Face,Fa20,19,NA,19,NA,N,M,Caucasian / White,,NA,U,JR,202010,Curtiss,3750971,-0.24326526,0.787278788,0.706059895,NA
+JKB0055,jkb0055@auburn.edu,Fa20,Exam 1,54,Online,Fa20,30,NA,30,3.95,N,M,Hispanic,Pell ineligible filer,3.79,U,FR,202010,Curtiss,4059133,0.165233242,0.460561996,0.435042477,0.009610274
+JKB0058,jkb0058@auburn.edu,Fa20,Exam 1,54,Face to Face,Fa20,NA,1240,26,3.85,N,F,Black or African American,Pell eliglble filer,3,U,FR,202010,Curtiss,4082771,-0.994761082,0.825747466,-0.408877905,-1.056163337
+JKC0036,jkc0036@auburn.edu,Su20,Exam 1,56,Online,Su20,23,0,23,3.82,N,F,Black or African American,,NA,U,FR,202130,Curtiss,3687703,NA,NA,NA,NA
+JKD0030,jkd0030@auburn.edu,Su20,Exam 1,39,Face to Face,Su20,21,NA,21,3.45,Y,F,Two or more races,,NA,U,SO,202130,Curtiss,3804682,NA,NA,NA,NA
+JKD0031,jkd0031@auburn.edu,Fa20,Exam 1,76.5,Online,Fa20,23,NA,23,3.53,N,F,Black or African American,Pell ineligible filer,3.6,U,FR,202010,Curtiss,4067729,0.983795649,0.045289466,1.128690054,-2.360564936
+JMG0119,jmg0119@auburn.edu,Fa20,Exam 1,74,Online,Fa20,28,NA,28,4.17,N,M,Caucasian / White,Pell ineligible filer,3.18,U,FR,202010,Curtiss,4044226,0.861113099,-0.61798712,1.222680035,0.033332755
+JMH0197,jmh0197@auburn.edu,Fa20,Exam 1,75,Online,Fa20,30,NA,30,4.05,Y,F,Asian,Pell eliglble filer,3.27,U,FR,202010,Curtiss,4023439,-0.176198675,0.439095364,-2.09506016,0.215761862
+JML0104,jml0104@auburn.edu,Su20,Exam 1,61.5,Face to Face,Su20,NA,NA,NA,NA,Y,F,Caucasian / White,,NA,U,SR,202130,Curtiss,4052584,NA,NA,NA,NA
+JML0104,jml0104@auburn.edu,Su20,Exam 1,61.5,Face to Face,Su20,NA,NA,NA,NA,,F,Caucasian / White,,NA,P,P1,202130,Curtiss,4052584,NA,NA,NA,NA
+JPG0040,jpg0040@auburn.edu,Fa20,Exam 1,76.5,Online,Fa20,22,NA,22,4,Y,M,Two or more races,,NA,U,FR,202010,Curtiss,4033571,0.032665476,0.499312934,0.770535072,NA
+JRD0050,jrd0050@auburn.edu,Su20,Exam 1,68.5,Online,Su20,23,0,23,4.38,N,M,Caucasian / White,,NA,U,JR,202130,Curtiss,3572945,NA,NA,NA,NA
+JSC0063,jsc0063@auburn.edu,Fa20,Exam 1,68,Online,Fa20,32,NA,32,4.3,N,F,Caucasian / White,Pell ineligible filer,3.33,U,FR,202010,Curtiss,4000624,-0.147198443,0.042317999,-2.299377442,1.160951843
+JTB0094,jtb0094@auburn.edu,Su20,Exam 1,91.5,Face to Face,Su20,26,NA,26,3.71,Y,M,Caucasian / White,,NA,U,FR,202130,Curtiss,3875907,NA,NA,NA,NA
+JTH0096,jth0096@auburn.edu,Fa20,Exam 1,82,Online,Fa20,25,NA,25,3.73,N,M,Caucasian / White,Pell ineligible filer,3.09,U,FR,202010,Curtiss,3970863,0.635073018,-0.196771655,0.790271839,-1.518450748
+JTM0095,jtm0095@auburn.edu,Fa20,Exam 1,83,Online,Fa20,27,NA,27,3.6,N,M,Caucasian / White,,NA,U,SR,202010,Curtiss,3829915,1.045136924,-0.087960145,0.711619523,NA
+JTR0047,jtr0047@auburn.edu,Fa20,Exam 1,52,NA,Fa20,27,NA,27,3.68,Y,F,Caucasian / White,Pell ineligible filer,2.33,U,FR,202010,Curtiss,4038471,NA,NA,NA,-1.19171553
+JWB0071,jwb0071@auburn.edu,Fa20,Exam 1,34,Face to Face,Fa20,0,1030,20,3.62,N,M,Caucasian / White,Pell ineligible filer,2.01,U,FR,202010,Curtiss,3789068,-3.0614385,-3.635457424,-2.969189426,-2.819745025
+JWG0024,jwg0024@auburn.edu,Fa20,Exam 1,76,NA,Fa20,26,0,26,3.82,Y,F,Caucasian / White,Pell ineligible filer,2.43,U,FR,202010,Curtiss,3824560,NA,NA,NA,-1.118008814
+JWG0033,jwg0033@auburn.edu,Fa20,Exam 1,87.5,Face to Face,Fa20,30,NA,30,4,N,M,Caucasian / White,Pell ineligible filer,2.87,U,FR,202010,Curtiss,3859887,0.165233242,-2.476717224,-0.382009788,0.112686068
+JWP0046,jwp0046@auburn.edu,Fa20,Exam 1,92,Face to Face,Fa20,24,NA,24,3.75,N,M,Caucasian / White,Non-filer,3.79,U,FR,202010,Curtiss,4070728,0.094006751,-3.37192967,1.280522475,-1.692125937
+JZM0094,jzm0094@auburn.edu,Su20,Exam 1,106,Online,Su20,31,0,31,4.41,N,M,Caucasian / White,,NA,U,FR,202130,Curtiss,3805972,NA,NA,NA,NA
+JZP0096,jzp0096@auburn.edu,Fa20,Exam 1,82,NA,Fa20,24,0,24,3.22,N,M,Black or African American,Pell eliglble filer,2.45,U,FR,202010,Curtiss,3917603,NA,NA,NA,-2.784729351
+KBB0042,kbb0042@auburn.edu,Fa20,Exam 1,83,Face to Face,Fa20,27,NA,27,4.41,Y,F,Caucasian / White,Pell ineligible filer,3.6,U,FR,202010,Curtiss,4037473,0.318481428,-0.874361079,0.127537866,0.313191059
+KBH0045,kbh0045@auburn.edu,Fa20,Exam 1,71,NA,Fa20,NA,1210,25,3.83,N,F,Caucasian / White,Pell ineligible filer,2.88,U,FR,202010,Curtiss,4058183,NA,NA,NA,-1.312299161
+KDW0052,kdw0052@auburn.edu,Fa20,Exam 1,82,Online,Fa20,26,NA,26,3.05,N,F,Caucasian / White,Pell eliglble filer,2.14,U,FR,202010,Curtiss,4024941,0.630913113,1.408555957,1.461210272,-2.705376038
+KEG0067,keg0067@auburn.edu,Fa20,Exam 1,88,Face to Face,Fa20,0,1310,28,3.92,N,F,Caucasian / White,Pell ineligible filer,3.58,U,FR,202010,Curtiss,3939950,-0.933419807,-3.417834402,-1.263918117,-0.482046214
+KFR0006,kfr0006@auburn.edu,Su20,Exam 1,77,Online,Su20,27,NA,27,4.71,N,F,Caucasian / White,,NA,U,FR,202130,Curtiss,4000314,NA,NA,NA,NA
+KGC0029,kgc0029@auburn.edu,Su20,Exam 1,68,Face to Face,Su20,25,0,25,4.21,N,F,Caucasian / White,,NA,U,FR,202130,Curtiss,3882588,NA,NA,NA,NA
+KHC0026,khc0026@auburn.edu,Fa20,Exam 1,75,Online,Fa20,29,NA,29,4.58,Y,F,Caucasian / White,Non-filer,3.5,U,FR,202010,Curtiss,4006133,0.303526318,0.221472342,-0.194644983,1.09345977
+KJB0059,kjb0059@auburn.edu,Fa20,Exam 1,86,Online,Fa20,29,NA,29,4.3,N,F,Caucasian / White,Pell ineligible filer,3.79,U,FR,202010,Curtiss,3993966,0.677089274,-2.076968391,1.461210272,0.516235325
+KJS0049,kjs0049@auburn.edu,Fa20,Exam 1,79.5,NA,Fa20,26,NA,26,3.5,N,M,Caucasian / White,Pell ineligible filer,3.79,U,FR,202010,Curtiss,4063719,NA,NA,NA,-1.777693894
+KMC0130,kmc0130@auburn.edu,Fa20,Exam 1,51.5,Online,Fa20,30,NA,30,4.01,N,F,Caucasian / White,Pell eliglble filer,3.8,U,FR,202010,Curtiss,4039471,-0.310331845,-0.066493512,-0.477412531,0.133301227
+KMJ0048,kmj0048@auburn.edu,Fa20,Exam 1,44.5,Online,Fa20,NA,1080,21,3.33,,F,Two or more races,Pell ineligible filer,2.5,U,SO,202010,Curtiss,3949688,-0.657489071,1.717988444,-1.592878071,-3.202679123
+KMQ0006,kmq0006@auburn.edu,Fa20,Exam 1,57,Online,Fa20,NA,NA,NA,NA,Y,F,Hispanic,Pell ineligible filer,2,U,JR,202010,Curtiss,4082762,-0.310331845,-0.087960145,-1.042683677,NA
+KMR0065,kmr0065@auburn.edu,Su20,Exam 1,91,Online,Su20,30,0,30,4.06,Y,F,Caucasian / White,,NA,U,FR,202130,Curtiss,3915297,NA,NA,NA,NA
+KMR0080,kmr0080@auburn.edu,Su20,Exam 1,84,Face to Face,Su20,NA,NA,NA,NA,,F,Caucasian / White,,NA,U,SR,202130,Curtiss,4104965,NA,NA,NA,NA
+KNE0015,kne0015@auburn.edu,Su20,Exam 1,64,Online,Su20,NA,1090,21,3.96,N,F,Black or African American,,NA,U,FR,202130,Curtiss,3990297,NA,NA,NA,NA
+KNF0020,knf0020@auburn.edu,Fa20,Exam 1,94.5,Face to Face,Fa20,30,NA,30,4.36,Y,F,Caucasian / White,Pell eliglble filer,3.79,U,FR,202010,Curtiss,3904026,0.032665476,0.913092344,1.318569285,0.854831783
+KPS0017,kps0017@auburn.edu,Su20,Exam 1,60,Online,Su20,NA,1230,26,3.79,N,F,Two or more races,,NA,U,FR,202130,Curtiss,3992013,NA,NA,NA,NA
+KRC0066,krc0066@auburn.edu,Fa20,Exam 1,68,Online,Fa20,32,NA,32,4.15,N,F,Caucasian / White,Pell ineligible filer,3.63,U,FR,202010,Curtiss,3994001,-1.485936695,-0.087960145,-2.336676832,0.851724461
+KRM0064,krm0064@auburn.edu,Fa20,Exam 1,79,Face to Face,Fa20,NA,1380,30,4.04,N,F,Caucasian / White,Non-filer,3.65,U,FR,202010,Curtiss,4024181,0.916729064,1.04068128,-0.677336626,0.195146703
+KSP0025,ksp0025@auburn.edu,Fa20,Exam 1,99,Face to Face,Fa20,31,NA,31,4.04,N,F,Caucasian / White,Pell ineligible filer,4,U,FR,202010,Curtiss,4042396,0.983795649,-0.470424672,-0.213834524,0.410052209
+KSW0029,ksw0029@auburn.edu,Fa20,Exam 1,95,Face to Face,Fa20,35,NA,35,4.99,Y,F,Caucasian / White,Pell ineligible filer,4,U,SO,202010,Curtiss,4043717,-0.095742384,-1.497131368,-1.244020534,3.228114315
+KZA0048,kza0048@auburn.edu,Su20,Exam 1,86,Online,Su20,NA,NA,NA,NA,,M,Non-Resident Alien,,NA,U,FR,202130,Curtiss,3965070,NA,NA,NA,NA
+KZL0075,kzl0075@auburn.edu,Fa20,Exam 1,64,Online,Fa20,26,NA,26,3.93,N,F,Caucasian / White,Non-filer,2.79,U,FR,202010,Curtiss,4083392,0.299366412,1.500365423,0.024089623,-0.891242067
+KZP0041,kzp0041@auburn.edu,Su20,Exam 1,67,Online,Su20,26,0,26,4.31,Y,F,Hispanic,,NA,U,FR,202130,Curtiss,3867734,NA,NA,NA,NA
+LAC0090,lac0090@auburn.edu,Fa20,Exam 1,75,Face to Face,Fa20,26,NA,26,4.25,Y,F,Caucasian / White,Pell ineligible filer,3.33,U,FR,202010,Curtiss,4033289,0.098166657,-0.330021266,1.461210272,-0.231556987
+LAK0027,lak0027@auburn.edu,Su20,Exam 1,97,Face to Face,Su20,27,0,27,3.58,N,F,Caucasian / White,,NA,U,FR,202130,Curtiss,3931343,NA,NA,NA,NA
+LAS0111,las0111@auburn.edu,Fa20,Exam 1,70,Online,Fa20,31,NA,31,4.06,N,F,Caucasian / White,Pell ineligible filer,3.27,U,FR,202010,Curtiss,4042045,-0.168534279,0.695469323,0.887234198,0.451282527
+LAW0073,law0073@auburn.edu,Fa20,Exam 1,64,Face to Face,Fa20,NA,1160,24,3.84,N,F,Two or more races,Pell ineligible filer,3.13,U,FR,202010,Curtiss,4068879,0.922454374,1.717988444,0.865937815,-1.506589508
+LCH0053,lch0053@auburn.edu,Fa20,Exam 1,82.5,NA,Fa20,27,NA,27,4.08,N,F,Two or more races,Pell ineligible filer,3.54,U,FR,202010,Curtiss,4043361,NA,NA,NA,-0.36710918
+LDW0025,ldw0025@auburn.edu,Fa20,Exam 1,52,Face to Face,Fa20,27,NA,27,4.24,N,M,Caucasian / White,Pell ineligible filer,3.69,U,FR,202010,Curtiss,4027721,0.493275453,0.791184103,NA,-0.03726664
+LGB0029,lgb0029@auburn.edu,Fa20,Exam 1,67,Online,Fa20,33,NA,33,4.34,N,F,Caucasian / White,Pell ineligible filer,3.57,U,FR,202010,Curtiss,3993975,-1.288241429,-1.968156881,-0.713337314,1.458317984
+LGT0008,lgt0008@auburn.edu,Fa20,Exam 1,84.5,Online,Fa20,32,NA,32,4.35,N,F,Caucasian / White,Non-filer,4,U,FR,202010,Curtiss,4059868,-1.422374599,0.130878984,-1.1507507,1.264027637
+LLR0008,llr0008@auburn.edu,Fa20,Exam 1,80,Face to Face,Fa20,NA,1190,24,3.68,N,F,Caucasian / White,Pell ineligible filer,2.73,U,FR,202010,Curtiss,3986776,0.707864914,0.245910443,1.049551232,-1.836432048
+LNP0013,lnp0013@auburn.edu,Fa20,Exam 1,79.5,Face to Face,Fa20,29,NA,29,4.25,N,F,Caucasian / White,Pell ineligible filer,3.77,U,FR,202010,Curtiss,3970695,0.170958552,0.671031223,0.263473289,0.413159531
+LRT0015,lrt0015@auburn.edu,Fa20,Exam 1,69,Online,Fa20,28,NA,28,4.48,N,F,Caucasian / White,Pell ineligible filer,3.7,U,FR,202010,Curtiss,4064601,0.257140153,-1.166232248,-0.948913375,0.672402677
+LRW0023,lrw0023@auburn.edu,Fa20,Exam 1,60,Online,Fa20,22,NA,22,4.23,N,F,Caucasian / White,Pell ineligible filer,3.8,U,FR,202010,Curtiss,3972956,-0.32944686,-0.066493512,-0.275355527,-1.132409328
+LSF0014,lsf0014@auburn.edu,Fa20,Exam 1,78,Online,Fa20,31,NA,31,4.34,N,F,Caucasian / White,Non-filer,3.38,U,FR,202010,Curtiss,4024441,1.045136924,-0.51902386,1.461210272,1.028506972
+LTG0012,ltg0012@auburn.edu,Fa20,Exam 1,108,NA,Fa20,34,NA,34,4.36,N,M,Caucasian / White,Non-filer,4,U,SO,202010,Curtiss,4054751,NA,NA,NA,1.714453807
+MAC0161,mac0161@auburn.edu,Fa20,Exam 1,66,NA,Fa20,33,NA,33,4.07,N,F,Caucasian / White,Pell ineligible filer,4,U,FR,202010,Curtiss,4016512,NA,NA,NA,0.901708697
+MAK0076,mak0076@auburn.edu,Fa20,Exam 1,94,NA,Fa20,30,NA,30,4.35,N,M,Caucasian / White,Non-filer,3.38,U,FR,202010,Curtiss,3934972,NA,NA,NA,0.834216625
+MAM0232,mam0232@auburn.edu,Fa20,Exam 1,38,NA,Fa20,30,NA,30,3.96,N,F,Hispanic,Pell ineligible filer,3.03,U,FR,202010,Curtiss,3959848,NA,NA,NA,0.030225433
+MAW0110,maw0110@auburn.edu,Su20,Exam 1,95.5,Face to Face,Su20,33,NA,33,4.55,N,M,Caucasian / White,,NA,U,FR,202130,Curtiss,3935950,NA,NA,NA,NA
+MCH0098,mch0098@auburn.edu,Fa20,Exam 1,82,Face to Face,Fa20,24,NA,24,4.1,N,F,Caucasian / White,Pell eliglble filer,3.41,U,FR,202010,Curtiss,4024485,-2.162419802,1.717988444,-0.11206548,-0.97059538
+MCM0134,mcm0134@auburn.edu,Su20,Exam 1,82,Face to Face,Su20,26,NA,26,4.31,N,F,Asian,,NA,U,FR,202130,Curtiss,3946972,NA,NA,NA,NA
+MCM0148,mcm0148@auburn.edu,Fa20,Exam 1,65,Face to Face,Fa20,29,NA,29,4,N,F,Caucasian / White,Pell ineligible filer,3.5,U,FR,202010,Curtiss,3904036,-0.162808969,0.958997077,-1.740757053,-0.102219438
+MCT0060,mct0060@auburn.edu,Fa20,Exam 1,86.5,Face to Face,Fa20,NA,1170,24,4.05,N,F,Caucasian / White,,NA,U,FR,202010,Curtiss,4060181,0.493275453,-0.392928044,1.461210272,NA
+MEB0062,meb0062@auburn.edu,Su20,Exam 1,42.5,NA,Su20,21,0,21,3.41,Y,F,Caucasian / White,,NA,U,SO,202130,Curtiss,3673765,NA,NA,NA,NA
+MEH0134,meh0134@auburn.edu,Fa20,Exam 1,77,Online,Fa20,32,NA,32,4.31,N,F,Caucasian / White,Pell ineligible filer,4,U,FR,202010,Curtiss,4048923,-0.37739843,1.717988444,-1.398352788,1.181567002
+MEH0137,meh0137@auburn.edu,Fa20,Exam 1,55,Face to Face,Fa20,28,NA,28,4.27,N,F,Caucasian / White,Non-filer,3.57,U,FR,202010,Curtiss,4046231,-1.064048488,1.717988444,1.175928298,0.239484343
+MEM0244,mem0244@auburn.edu,Fa20,Exam 1,70,Online,Fa20,29,NA,29,3.97,N,F,Caucasian / White,Pell ineligible filer,2.86,U,FR,202010,Curtiss,4057007,0.922454374,1.717988444,0.463530929,-0.164064914
+MGB0048,mgb0048@auburn.edu,Su20,Exam 1,111,Face to Face,Su20,NA,1430,32,4.8,N,F,Hispanic,,NA,U,SO,202130,Curtiss,3995002,NA,NA,NA,NA
+MGM0082,mgm0082@auburn.edu,Fa20,Exam 1,68,Online,Fa20,29,NA,29,3.72,N,F,Caucasian / White,Pell ineligible filer,3.08,U,FR,202010,Curtiss,4018633,-1.192174613,1.717988444,-1.004636867,-0.679443883
+MGP0033,mgp0033@auburn.edu,Fa20,Exam 1,61,Online,Fa20,27,NA,27,4,N,F,Hispanic,Pell ineligible filer,2.93,U,FR,202010,Curtiss,4028982,0.732705239,-1.666160449,-2.376356083,-0.53203045
+MGS0074,mgs0074@auburn.edu,Fa20,Exam 1,73,Face to Face,Fa20,NA,NA,NA,NA,Y,M,Caucasian / White,,NA,U,JR,202010,Curtiss,4109700,-1.080942683,-0.042055412,-0.141480187,NA
+MGW0028,mgw0028@auburn.edu,Fa20,Exam 1,95.5,Face to Face,Fa20,NA,1370,30,4,N,F,Caucasian / White,Pell ineligible filer,2.94,U,SO,202010,Curtiss,3938605,1.045136924,1.717988444,0.934971053,0.112686068
+MHC0035,mhc0035@auburn.edu,Fa20,Exam 1,95.5,Face to Face,Fa20,31,NA,31,4.6,N,F,Caucasian / White,Non-filer,4,U,FR,202010,Curtiss,4006136,-0.438739705,-0.846951512,-0.026841146,1.5645011
+MIW0005,miw0005@auburn.edu,Fa20,Exam 1,69,Online,Fa20,27,NA,27,3.75,N,F,Caucasian / White,Pell ineligible filer,3.29,U,FR,202010,Curtiss,4052310,0.226574517,-1.826537368,0.580169335,-1.047409419
+MJK0045,mjk0045@auburn.edu,Su20,Exam 1,51,Online,Su20,0,830,15,2.16,,F,Non-Resident Alien,,NA,U,FR,202130,Curtiss,3936385,NA,NA,NA,NA
+MKH0061,mkh0061@auburn.edu,Fa20,Exam 1,68,Face to Face,Fa20,26,NA,26,4.22,N,F,Caucasian / White,Pell ineligible filer,2.93,U,FR,202010,Curtiss,4065383,-0.860627912,-0.087960145,-0.484971524,-0.293402463
+MKP0045,mkp0045@auburn.edu,Fa20,Exam 1,101,Face to Face,Fa20,32,NA,32,4.46,N,F,Caucasian / White,Pell ineligible filer,4,U,FR,202010,Curtiss,3926373,0.983795649,-0.327049798,1.220680671,1.490794383
+MLM0132,mlm0132@auburn.edu,Su20,Exam 1,51.5,Online,Su20,24,0,24,3.21,N,F,Caucasian / White,,NA,U,FR,202130,Curtiss,3930541,NA,NA,NA,NA
+MLM0150,mlm0150@auburn.edu,Su20,Exam 1,41,Online,Su20,25,NA,25,4.07,N,F,Caucasian / White,,NA,U,FR,202130,Curtiss,3941636,NA,NA,NA,NA
+MMS0121,mms0121@auburn.edu,Fa20,Exam 1,104,Online,Fa20,33,NA,33,4.33,N,F,Caucasian / White,Non-filer,4,U,FR,202010,Curtiss,3956747,0.983795649,-0.175305023,0.232559686,1.437702825
+MNB0025,mnb0025@auburn.edu,Su20,Exam 1,104,Face to Face,Su20,33,NA,33,4.14,N,F,Caucasian / White,,NA,U,FR,202130,Curtiss,3909693,NA,NA,NA,NA
+MNE0008,mne0008@auburn.edu,Fa20,Exam 1,61,NA,Fa20,29,NA,29,3.81,N,F,Caucasian / White,Non-filer,3.07,U,FR,202010,Curtiss,3928452,NA,NA,NA,-0.493907454
+MNM0064,mnm0064@auburn.edu,Fa20,Exam 1,75,Face to Face,Fa20,27,NA,27,4.27,N,F,Caucasian / White,Pell ineligible filer,3,U,FR,202010,Curtiss,4072441,0.312756117,1.717988444,1.080039048,0.024578837
+MNP0022,mnp0022@auburn.edu,Fa20,Exam 1,72.25,Face to Face,Fa20,29,NA,29,4.01,Y,F,Two or more races,Pell eliglble filer,2.91,U,FR,202010,Curtiss,4038397,-0.107193004,0.231597605,-1.267843448,-0.081604279
+MPB0034,mpb0034@auburn.edu,Fa20,Exam 1,75,Online,Fa20,25,NA,25,3.95,N,F,Caucasian / White,Pell ineligible filer,2.79,U,FR,202010,Curtiss,4028633,-0.131751595,-2.852027956,0.780652761,-1.064917256
+MRK0057,mrk0057@auburn.edu,Fa20,Exam 1,80,Face to Face,Fa20,31,NA,31,4.35,N,F,Caucasian / White,Pell ineligible filer,3.79,U,FR,202010,Curtiss,4052948,0.111556362,-2.730119715,0.089551775,1.049122131
+MRM0120,mrm0120@auburn.edu,Su20,Exam 1,49.5,Face to Face,Su20,30,NA,30,3.95,N,F,Caucasian / White,,NA,U,FR,202130,Curtiss,3998482,NA,NA,NA,NA
+MRW0077,mrw0077@auburn.edu,Fa20,Exam 1,62,Online,Fa20,25,NA,25,4.13,N,F,Caucasian / White,Pell ineligible filer,3.07,U,FR,202010,Curtiss,4037069,0.403097624,1.067808588,-2.214478798,-0.693844398
+MTR0033,mtr0033@auburn.edu,Fa20,Exam 1,92,Face to Face,Fa20,27,NA,27,4,N,F,Caucasian / White,Pell ineligible filer,4,U,FR,202010,Curtiss,4018734,-0.10913209,-0.980201122,-0.015589628,-0.53203045
+MWD0021,mwd0021@auburn.edu,Fa20,Exam 1,54,Online,Fa20,22,NA,22,3.6,Y,F,Caucasian / White,,NA,U,SO,202010,Curtiss,3974783,-0.582758091,-1.113450733,-0.752530058,NA
+MZB0112,mzb0112@auburn.edu,Su20,Exam 1,42,Online,Su20,25,0,25,3.66,N,F,Caucasian / White,,NA,U,FR,202130,Curtiss,3932493,NA,NA,NA,NA
+NAC0031,nac0031@auburn.edu,Fa20,Exam 1,35.25,Online,Fa20,28,NA,28,3.48,N,M,Two or more races,Pell ineligible filer,2.27,U,FR,202010,Curtiss,4109267,-1.004646298,1.5632722,0.237164504,-1.3891132
+NAJ0018,naj0018@auburn.edu,Fa20,Exam 1,95,Online,Fa20,34,NA,34,4.42,N,F,Caucasian / White,Non-filer,4,U,FR,202010,Curtiss,4056979,0.496779943,1.500365423,0.627407579,1.83814476
+NAS0063,nas0063@auburn.edu,Fa20,Exam 1,95,Face to Face,Fa20,NA,1180,24,4.04,N,F,Caucasian / White,Non-filer,4,U,FR,202010,Curtiss,4047734,0.665638654,-2.897932689,-0.82231663,-1.094286333
+NCY0002,ncy0002@auburn.edu,Fa20,Exam 1,86.5,Face to Face,Fa20,28,NA,28,3.88,N,M,Caucasian / White,Non-filer,4,U,FR,202010,Curtiss,4055904,0.788321204,-3.238680059,1.318569285,-0.564506849
+NFJ0003,nfj0003@auburn.edu,Fa20,Exam 1,77,Online,Fa20,25,NA,25,4.17,N,F,Caucasian / White,Pell ineligible filer,3.12,U,FR,202010,Curtiss,3859828,0.721254619,1.717988444,-0.420496347,-0.611383763
+NJK0009,njk0009@auburn.edu,Fa20,Exam 1,78,Online,Fa20,27,NA,27,4.33,N,F,Caucasian / White,Pell eliglble filer,4,U,FR,202010,Curtiss,3985386,0.032665476,0.431941569,-2.011935287,0.148269789
+NPY0001,npy0001@auburn.edu,Su20,Exam 1,86,Online,Su20,33,NA,33,4.03,Y,M,Caucasian / White,,NA,U,FR,202130,Curtiss,3993156,NA,NA,NA,NA
+NZB0052,nzb0052@auburn.edu,Su20,Exam 1,70,Face to Face,Su20,NA,NA,NA,NA,,F,Native Hawaiian or Pacific Islander,,NA,U,FR,202130,Curtiss,4137968,NA,NA,NA,NA
+OPF0002,opf0002@auburn.edu,Fa20,Exam 1,53,NA,Fa20,24,NA,24,3.41,N,F,Caucasian / White,Non-filer,2.97,U,FR,202010,Curtiss,3991547,NA,NA,NA,-2.393041335
+PAE0007,pae0007@auburn.edu,Fa20,Exam 1,82,Face to Face,Fa20,29,NA,29,4.33,N,M,Hispanic,Pell ineligible filer,3.07,U,FR,202010,Curtiss,4024422,1.045136924,0.958997077,1.269918279,0.578080801
+PTA0003,pta0003@auburn.edu,Fa20,Exam 1,100,Online,Fa20,35,NA,35,4.54,N,M,Asian,Pell ineligible filer,4,U,JR,202010,Curtiss,3873301,0.088281441,-2.533963327,1.125277928,2.300432171
+PZX0005,pzx0005@auburn.edu,Su20,Exam 1,52,Online,Su20,NA,NA,NA,NA,,M,Non-Resident Alien,,NA,U,FR,202130,Curtiss,3925226,NA,NA,NA,NA
+RAS0097,ras0097@auburn.edu,Fa20,Exam 1,87,Online,Fa20,28,NA,28,4.48,N,F,Caucasian / White,Pell ineligible filer,3.49,U,FR,202010,Curtiss,3975726,-0.858688827,-1.742163957,-0.939235435,0.672402677
+RBJ0012,rbj0012@auburn.edu,Fa20,Exam 1,92,Online,Fa20,33,NA,33,4.31,N,M,Caucasian / White,Pell ineligible filer,4,U,FR,202010,Curtiss,3984565,-0.011126188,-2.259094203,-0.141480187,1.396472508
+RCS0065,rcs0065@auburn.edu,Fa20,Exam 1,61,NA,Fa20,31,NA,31,3.78,N,M,Caucasian / White,Pell ineligible filer,2.71,U,FR,202010,Curtiss,4026305,NA,NA,NA,-0.125941919
+REC0056,rec0056@auburn.edu,Fa20,Exam 1,51,Online,Fa20,28,NA,28,4.31,N,F,Caucasian / White,Pell eliglble filer,2.2,U,FR,202010,Curtiss,3970532,-0.137476905,1.717988444,-0.928484385,0.321944978
+RFS0018,rfs0018@auburn.edu,Su20,Exam 1,90.5,Face to Face,Su20,35,NA,35,4.19,Y,M,Caucasian / White,,NA,U,SO,202130,Curtiss,3925848,NA,NA,NA,NA
+RMB0072,rmb0072@auburn.edu,Fa20,Exam 1,64,Online,Fa20,NA,1230,26,3.85,N,F,Caucasian / White,Pell ineligible filer,2.31,U,FR,202010,Curtiss,4057376,0.226574517,1.717988444,0.674645823,-1.056163337
+RMG0041,rmg0041@auburn.edu,Su20,Exam 1,54.5,Online,Su20,30,0,30,3.86,,F,Caucasian / White,,NA,U,FR,202130,Curtiss,3809697,NA,NA,NA,NA
+RMW0034,rmw0034@auburn.edu,Su20,Exam 1,33,Online,Su20,25,0,25,4.19,Y,F,Caucasian / White,,NA,U,SO,202130,Curtiss,3613848,NA,NA,NA,NA
+RNS0019,rns0019@auburn.edu,Fa20,Exam 1,86.5,Face to Face,Fa20,34,NA,34,4.56,N,F,Caucasian / White,Pell ineligible filer,4,U,JR,202010,Curtiss,4011034,0.427774272,-2.392343814,0.069695426,2.126756983
+RSL0015,rsl0015@auburn.edu,Fa20,Exam 1,84,Face to Face,Fa20,27,NA,27,4.01,N,M,Asian,Pell ineligible filer,3.19,U,FR,202010,Curtiss,4033871,-0.465519116,1.717988444,0.762976079,-0.511415291
+RZS0107,rzs0107@auburn.edu,Fa20,Exam 1,78,Face to Face,Fa20,29,NA,29,4.45,N,F,Caucasian / White,Pell ineligible filer,4,U,FR,202010,Curtiss,4031142,0.312756117,-0.583423757,0.079813115,0.825462706
+SAB0124,sab0124@auburn.edu,Fa20,Exam 1,84,NA,Fa20,29,NA,29,4.36,N,F,Caucasian / White,Non-filer,3.57,U,FR,202010,Curtiss,3984072,NA,NA,NA,0.639926277
+SAH0078,sah0078@auburn.edu,Su20,Exam 1,75.5,Face to Face,Su20,28,0,28,3.75,N,F,Caucasian / White,,NA,U,FR,202130,Curtiss,3944343,NA,NA,NA,NA
+SAT0048,sat0048@auburn.edu,Fa20,Exam 1,89,Online,Fa20,31,NA,31,3.96,N,M,Caucasian / White,Pell eliglble filer,3.79,U,FR,202010,Curtiss,3970760,-0.028675799,-1.067546,-0.053149931,0.245130939
+SDK0015,sdk0015@auburn.edu,Fa20,Exam 1,82,Online,Fa20,31,NA,31,4.33,N,M,Caucasian / White,Pell ineligible filer,3.08,U,FR,202010,Curtiss,3986648,-0.716609526,-1.584476246,-0.454970214,1.007891813
+SEJ0033,sej0033@auburn.edu,Fa20,Exam 1,47,NA,Fa20,NA,1180,24,2.74,,F,Black or African American,Pell ineligible filer,2.16,U,SO,202010,Curtiss,3933696,NA,NA,NA,-3.774256972
+SEK0047,sek0047@auburn.edu,Fa20,Exam 1,77,Face to Face,Fa20,NA,1340,29,4.45,N,F,Caucasian / White,Pell ineligible filer,4,U,FR,202010,Curtiss,4068039,0.234238912,0.934558977,-0.207954729,0.825462706
+SGH0040,sgh0040@auburn.edu,Fa20,Exam 1,69,Face to Face,Fa20,29,NA,29,4.06,Y,F,Caucasian / White,Pell ineligible filer,3.82,U,FR,202010,Curtiss,4033757,0.855387789,-0.980201122,0.080786128,0.021471515
+SGW0033,sgw0033@auburn.edu,Fa20,Exam 1,69,Face to Face,Fa20,30,NA,30,4.06,N,F,Caucasian / White,Pell ineligible filer,3.53,U,FR,202010,Curtiss,4053221,0.569571838,-0.477583714,-1.306142101,0.236377021
+SHP0019,shp0019@auburn.edu,Fa20,Exam 1,89,Online,Fa20,33,NA,33,4.21,N,M,Caucasian / White,Pell ineligible filer,4,U,SO,202010,Curtiss,3986074,-0.448624921,1.717988444,-0.170286949,1.19032092
+SJW0069,sjw0069@auburn.edu,Fa20,Exam 1,74,Online,Fa20,30,NA,30,4.42,N,F,Caucasian / White,Pell ineligible filer,3.8,U,FR,202010,Curtiss,3971449,0.026940166,0.428970101,-1.962697679,0.978522736
+SKH0050,skh0050@auburn.edu,Fa20,Exam 1,59.5,Online,Fa20,28,NA,28,4.3,N,F,Caucasian / White,Pell ineligible filer,3.57,U,FR,202010,Curtiss,3955316,-0.529081211,1.5632722,0.647144346,0.301329819
+SLC0049,slc0049@auburn.edu,Su20,Exam 1,101.5,Face to Face,Su20,33,0,33,4.4,N,F,Caucasian / White,,NA,U,FR,202130,Curtiss,3820859,NA,NA,NA,NA
+SLO0015,slo0015@auburn.edu,Fa20,Exam 1,63,Face to Face,Fa20,NA,1150,23,4.11,,F,Caucasian / White,Non-filer,3.46,U,FR,202010,Curtiss,4007187,-0.463580031,-0.186646393,0.091431557,-1.164885728
+SMH0089,smh0089@auburn.edu,Fa20,Exam 1,85,Face to Face,Fa20,33,0,33,4.03,Y,F,Caucasian / White,Pell eliglble filer,3.07,U,SO,202010,Curtiss,3811137,-1.014157833,1.408555957,1.31949554,0.819248062
+SML0063,sml0063@auburn.edu,Fa20,Exam 1,69,Online,Fa20,35,NA,35,4.34,N,F,Two or more races,Pell ineligible filer,4,U,SO,202010,Curtiss,4038140,-0.168534279,1.717988444,-0.072459054,1.888128996
+SPK0017,spk0017@auburn.edu,Fa20,Exam 1,96.5,Face to Face,Fa20,30,NA,30,4.31,N,F,Caucasian / White,Pell ineligible filer,4,U,FR,202010,Curtiss,4038098,-0.805011947,-0.020588779,-0.015589628,0.75175599
+SRL0031,srl0031@auburn.edu,Fa20,Exam 1,68,Online,Fa20,31,NA,31,3.79,N,F,Caucasian / White,Non-filer,2.57,U,FR,202010,Curtiss,4068466,-0.107193004,1.717988444,-1.388335195,-0.10532676
+SRS0082,srs0082@auburn.edu,Fa20,Exam 1,97,Online,Fa20,31,NA,31,4.8,Y,F,Caucasian / White,Pell ineligible filer,4,U,FR,202010,Curtiss,3928708,-0.235600864,1.500365423,1.175928298,1.976804275
+TAJ0026,taj0026@auburn.edu,Fa20,Exam 1,59,Face to Face,Fa20,30,NA,30,4.24,N,M,Caucasian / White,Pell ineligible filer,3.5,U,FR,202010,Curtiss,3997970,-0.596147796,0.692497855,-0.166862717,0.607449878
+TBD0020,tbd0020@auburn.edu,Fa20,Exam 1,80,Online,Fa20,26,NA,26,3.84,,M,Non-Resident Alien,Non-filer,3.07,U,FR,202010,Curtiss,4081663,-0.542470917,-0.407240881,1.461210272,-1.076778496
+TBT0009,tbt0009@auburn.edu,Fa20,Exam 1,69,Online,Fa20,0,1290,27,3.86,N,M,Caucasian / White,Non-filer,3,U,FR,202010,Curtiss,3932733,-1.008150788,-0.95873449,-0.994519178,-0.820642673
+THD0012,thd0012@auburn.edu,Fa20,Exam 1,46.5,Online,Fa20,23,NA,23,3.31,Y,F,Asian,Non-filer,2.7,U,FR,202010,Curtiss,4041499,-2.034011941,1.717988444,-0.606743772,-2.814098428
+TJD0039,tjd0039@auburn.edu,Fa20,Exam 1,51,Online,Fa20,25,NA,25,3.81,N,M,Caucasian / White,Pell ineligible filer,2.58,U,FR,202010,Curtiss,4024408,-0.262380275,1.717988444,-0.188231925,-1.353529478
+TKJ0009,tkj0009@auburn.edu,Fa20,Exam 1,85,Face to Face,Fa20,33,NA,33,3.72,N,M,Caucasian / White,Pell ineligible filer,3.6,U,SO,202010,Curtiss,4023440,0.978070339,-1.0431079,-1.725140455,0.180178141
+TMK0024,tmk0024@auburn.edu,Fa20,Exam 1,91,Face to Face,Fa20,31,NA,31,4.46,N,F,Caucasian / White,Pell ineligible filer,3.09,U,FR,202010,Curtiss,3904910,0.094006751,-0.150866922,0.638011774,1.275888877
+TNH0020,tnh0020@auburn.edu,Fa20,Exam 1,74.5,Face to Face,Fa20,24,NA,24,4.54,N,F,Caucasian / White,Pell ineligible filer,3.59,U,FR,202010,Curtiss,3993377,0.226574517,1.321211079,-0.808180725,-0.063528395
+TPB0014,tpb0014@auburn.edu,Fa20,Exam 1,73,Face to Face,Fa20,27,NA,27,3.84,N,M,Caucasian / White,Non-filer,2.58,U,FR,202010,Curtiss,3980664,-0.19881818,-0.2382118,0.636599013,-0.86187299
+TPW0012,tpw0012@auburn.edu,Fa20,Exam 1,46.5,Online,Fa20,20,0,20,3.84,Y,F,Black or African American,Pell eliglble filer,1.92,U,FR,202010,Curtiss,3697988,-0.174259589,1.222524831,-1.41411624,-2.366211532
+TSG0008,tsg0008@auburn.edu,Su20,Exam 1,59.5,Online,Su20,33,NA,33,4.2,N,M,Caucasian / White,,NA,U,FR,202130,Curtiss,3910485,NA,NA,NA,NA
+TWK0005,twk0005@auburn.edu,Fa20,Exam 1,69,Online,Fa20,31,NA,31,4.28,N,M,Caucasian / White,Pell ineligible filer,4,U,FR,202010,Curtiss,4027208,-0.519195996,-1.584476246,-1.09036167,0.904816019
+TXK0002,txk0002@auburn.edu,Fa20,Exam 1,0,NA,Fa20,29,NA,29,3.41,Y,M,Black or African American,Pell ineligible filer,2.08,U,FR,202010,Curtiss,3981496,NA,NA,NA,-1.318513805
+VKB0008,vkb0008@auburn.edu,Fa20,Exam 1,82,Face to Face,Fa20,31,NA,31,4.28,N,F,Caucasian / White,Pell ineligible filer,4,U,FR,202010,Curtiss,3970513,-1.876885585,1.253839714,0.232559686,0.904816019
+VSP0002,vsp0002@auburn.edu,Fa20,Exam 1,63,Online,Fa20,28,NA,28,3.97,N,F,Caucasian / White,Non-filer,3.5,U,FR,202010,Curtiss,4018702,0.151843536,1.717988444,0.655896031,-0.37897042
+VZL0008,vzl0008@auburn.edu,Fa20,Exam 1,61,Online,Fa20,29,NA,29,4.15,N,M,Asian,Pell eliglble filer,3.71,U,FR,202010,Curtiss,4042299,0.368372082,-3.635457424,-0.195630101,0.207007943
+WDM0027,wdm0027@auburn.edu,Su20,Exam 1,67.5,Face to Face,Su20,34,NA,34,4.01,N,M,Caucasian / White,,NA,U,FR,202130,Curtiss,3929303,NA,NA,NA,NA
+WGA0007,wga0007@auburn.edu,Fa20,Exam 1,72,NA,Fa20,30,NA,30,4,N,M,Caucasian / White,Pell ineligible filer,4,U,FR,202010,Curtiss,4043123,NA,NA,NA,0.112686068
+WHR0008,whr0008@auburn.edu,Fa20,Exam 1,74,Online,Fa20,32,NA,32,3.53,N,M,Caucasian / White,Pell ineligible filer,2.33,U,FR,202010,Curtiss,4060360,-0.718830346,1.212399568,-0.351035465,-0.426415382
+WKS0008,wks0008@auburn.edu,Fa20,Exam 1,85,NA,Fa20,31,NA,31,4.41,N,M,Caucasian / White,Non-filer,3.79,U,FR,202010,Curtiss,3960398,NA,NA,NA,1.172813083
+WLP0007,wlp0007@auburn.edu,Su20,Exam 1,58.5,Online,Su20,NA,1330,29,3.71,N,M,Caucasian / White,,NA,U,FR,202130,Curtiss,3993759,NA,NA,NA,NA
+WSP0015,wsp0015@auburn.edu,Fa20,Exam 1,62,NA,Fa20,33,NA,33,3.8,N,M,Caucasian / White,Pell eliglble filer,2.8,U,FR,202010,Curtiss,4010142,NA,NA,NA,0.345099411
+WWT0005,wwt0005@auburn.edu,Fa20,Exam 1,68.5,Online,Fa20,26,NA,26,3.98,N,M,Caucasian / White,Non-filer,3.5,U,FR,202010,Curtiss,4029167,0.318481428,0.741374056,-0.368612051,-0.788166273
+WZH0033,wzh0033@auburn.edu,Fa20,Exam 1,77,Online,Fa20,NA,NA,NA,NA,,M,Non-Resident Alien,Non-filer,2.73,U,FR,202010,Curtiss,3992741,0.368372082,1.717988444,0.981663928,NA
+ZEC0004,zec0004@auburn.edu,Fa20,Exam 1,83,Online,Fa20,NA,1260,27,3.92,N,M,Caucasian / White,Non-filer,3.57,U,FR,202010,Curtiss,4069170,-0.381558336,-1.913882246,0.85426051,-0.69695172
+ZTB0011,ztb0011@auburn.edu,Fa20,Exam 1,66,Face to Face,Fa20,NA,1310,28,4.75,N,M,Caucasian / White,Pell ineligible filer,3.54,U,JR,202010,Curtiss,4023489,-2.012957841,-1.974099816,-2.167240554,1.229011963
+ZZW0050,zzw0050@auburn.edu,Su20,Exam 1,31,Online,Su20,NA,NA,NA,NA,,M,Non-Resident Alien,,NA,U,FR,202130,Curtiss,3911610,NA,NA,NA,NA
+AAP0049,aap0049@auburn.edu,Su20,Exam 2,80,Face to Face,Su20,32,NA,32,4.57,N,F,Caucasian / White,,NA,U,FR,202130,Curtiss,3934831,NA,NA,NA,NA
+AAR0036,aar0036@auburn.edu,Su20,Exam 2,71,Online,Su20,22,0,22,4.07,Y,F,Two or more races,,NA,U,FR,202130,Curtiss,3843719,NA,NA,NA,NA
+AAT0038,aat0038@auburn.edu,Fa20,Exam 2,82,Face to Face,Fa20,26,NA,26,4.05,N,F,Caucasian / White,Pell eliglble filer,3.07,U,FR,202010,Curtiss,4061986,-0.676604087,1.717988444,-0.984354731,-0.643860162
+ABM0054,abm0054@auburn.edu,Fa20,Exam 2,82,NA,Fa20,28,NA,28,NA,N,F,Two or more races,,NA,U,JR,202010,Curtiss,3890541,NA,NA,NA,NA
+ABR0032,abr0032@auburn.edu,Su20,Exam 2,57,Online,Su20,30,NA,30,4.57,N,F,Two or more races,,NA,U,SO,202130,Curtiss,3912438,NA,NA,NA,NA
+ABR0033,abr0033@auburn.edu,Fa20,Exam 2,114,Face to Face,Fa20,34,NA,34,4.4,N,M,Caucasian / White,Pell ineligible filer,4,U,SO,202010,Curtiss,3911101,0.861113099,-1.968156881,1.271331041,1.796914442
+ACA0044,aca0044@auburn.edu,Su20,Exam 2,61.5,Online,Su20,22,NA,22,NA,Y,F,Hispanic,,NA,U,JR,202130,Curtiss,3921197,NA,NA,NA,NA
+ACA0044,aca0044@auburn.edu,Su20,Exam 2,61.5,Online,Su20,NA,NA,NA,NA,,F,Hispanic,,NA,P,P1,202130,Curtiss,3921197,NA,NA,NA,NA
+ACC0130,acc0130@auburn.edu,Fa20,Exam 2,81,Online,Fa20,32,NA,32,4.23,N,F,Caucasian / White,Pell ineligible filer,3.5,U,FR,202010,Curtiss,3954511,-0.040126419,-2.852027956,1.222680035,1.016645732
+ACT0044,act0044@auburn.edu,Su20,Exam 2,76,Face to Face,Su20,31,NA,31,4.5,N,F,Caucasian / White,,NA,U,FR,202130,Curtiss,3960070,NA,NA,NA,NA
+ADH0069,adh0069@auburn.edu,Su20,Exam 2,24,NA,Su20,NA,NA,NA,NA,,F,Caucasian / White,,NA,U,SO,202130,Curtiss,3961041,NA,NA,NA,NA
+ADH0074,adh0074@auburn.edu,Fa20,Exam 2,42,NA,Fa20,33,NA,33,4.14,N,F,Black or African American,Pell ineligible filer,2.4,U,SO,202010,Curtiss,3926027,NA,NA,NA,1.046014809
+ADS0074,ads0074@auburn.edu,Fa20,Exam 2,100.5,Online,Fa20,31,NA,31,4.45,N,F,Caucasian / White,Pell ineligible filer,3.6,U,FR,202010,Curtiss,3995485,0.922454374,-1.805070735,0.715737835,1.255273718
+AEB0128,aeb0128@auburn.edu,Fa20,Exam 2,64,Face to Face,Fa20,26,NA,26,4.09,Y,F,Caucasian / White,Pell ineligible filer,2.71,U,FR,202010,Curtiss,3983545,0.983795649,0.572344975,1.318569285,-0.561399527
+AEB0158,aeb0158@auburn.edu,Fa20,Exam 2,50.5,Online,Fa20,27,NA,27,NA,,F,Caucasian / White,,NA,U,JR,202010,Curtiss,4155399,0.218910122,0.154100977,1.461210272,NA
+AEC0098,aec0098@auburn.edu,Fa20,Exam 2,64,Face to Face,Fa20,29,NA,29,4.55,N,F,Caucasian / White,Pell ineligible filer,3.36,U,FR,202010,Curtiss,4050781,0.776870584,1.717988444,0.762976079,1.031614294
+AEC0121,aec0121@auburn.edu,Fa20,Exam 2,84.5,NA,Fa20,31,NA,31,4.31,N,F,Caucasian / White,,NA,U,SO,202010,Curtiss,3898355,NA,NA,NA,NA
+AEG0055,aeg0055@auburn.edu,Fa20,Exam 2,80.5,Face to Face,Fa20,31,NA,31,4.6,N,F,Caucasian / White,Pell ineligible filer,3.81,U,FR,202010,Curtiss,4006215,0.861113099,-2.907780939,0.011325246,1.5645011
+AEJ0035,aej0035@auburn.edu,Su20,Exam 2,77,Online,Su20,26,0,26,4.37,N,F,Caucasian / White,,NA,U,FR,202130,Curtiss,3934565,NA,NA,NA,NA
+AES0063,aes0063@auburn.edu,Su20,Exam 2,NA,NA,Su20,30,0,30,3.67,N,F,Hispanic,,NA,U,FR,202130,Curtiss,3683985,NA,NA,NA,NA
+AFP0025,afp0025@auburn.edu,Fa20,Exam 2,64.5,Online,Fa20,NA,NA,NA,NA,,F,Caucasian / White,,NA,U,SR,202010,Curtiss,4121140,0.531505484,-0.779580146,-1.273109551,NA
+AGS0071,ags0071@auburn.edu,Fa20,Exam 2,67.5,Online,Fa20,31,NA,31,4.16,N,F,Caucasian / White,Non-filer,3.75,U,FR,202010,Curtiss,3970750,-0.24326526,1.609176933,-0.410877269,0.657434114
+AJM0120,ajm0120@auburn.edu,Fa20,Exam 2,100,Online,Fa20,34,NA,34,4.05,N,M,Caucasian / White,Non-filer,4,U,FR,202010,Curtiss,4024624,-0.162808969,-1.717725857,-0.110992371,1.075383886
+AJO0019,ajo0019@auburn.edu,Fa20,Exam 2,70.5,Face to Face,Fa20,31,NA,31,4.45,Y,F,Caucasian / White,Pell ineligible filer,3.29,U,FR,202010,Curtiss,3910538,-0.448624921,1.057683325,0.165098169,1.255273718
+AJR0053,ajr0053@auburn.edu,Fa20,Exam 2,54.5,Online,Fa20,29,0,29,3.71,N,F,Caucasian / White,Non-filer,2.52,U,FR,202010,Curtiss,3831362,-2.254326712,1.5632722,0.770535072,-0.700059042
+AJW0093,ajw0093@auburn.edu,Fa20,Exam 2,77.5,Face to Face,Fa20,22,NA,22,4.12,N,F,Caucasian / White,Pell ineligible filer,3.33,U,FR,202010,Curtiss,4010083,0.861113099,1.500365423,0.13927589,-1.359176075
+AKH0053,akh0053@auburn.edu,Su20,Exam 2,55,Online,Su20,31,NA,31,3.56,N,F,Two or more races,,NA,U,FR,202130,Curtiss,3955084,NA,NA,NA,NA
+AKL0049,akl0049@auburn.edu,Fa20,Exam 2,100.5,Online,Fa20,29,NA,29,4.08,N,M,Caucasian / White,Non-filer,3.57,U,FR,202010,Curtiss,4053835,0.794046514,-2.114503222,1.030314933,0.062701832
+ALH0137,alh0137@auburn.edu,Fa20,Exam 2,71.5,Online,Fa20,32,NA,32,4.33,,F,Caucasian / White,,NA,U,JR,202010,Curtiss,3997127,0.654188034,1.717988444,-1.803792771,NA
+ALN0030,aln0030@auburn.edu,Fa20,Exam 2,69.5,Online,Fa20,26,NA,26,4.27,N,M,Caucasian / White,Pell ineligible filer,3.5,U,FR,202010,Curtiss,4062619,0.903339359,0.608124445,-0.678309639,-0.190326669
+AMC0166,amc0166@auburn.edu,Fa20,Exam 2,60.5,Face to Face,Fa20,NA,1250,26,4.97,N,F,Caucasian / White,Pell ineligible filer,3.96,U,FR,202010,Curtiss,3875957,0.861113099,-3.635457424,-0.042338161,1.252734444
+AMG0106,amg0106@auburn.edu,Su20,Exam 2,75.5,Online,Su20,25,0,25,4.01,N,F,Caucasian / White,,NA,U,FR,202130,Curtiss,3795747,NA,NA,NA,NA
+AMK0095,amk0095@auburn.edu,Fa20,Exam 2,67.5,Online,Fa20,30,NA,30,4.24,N,F,Two or more races,Pell ineligible filer,4,U,FR,202010,Curtiss,4016670,1.045136924,-3.635457424,1.461210272,0.607449878
+ANC0057,anc0057@auburn.edu,Fa20,Exam 2,50.5,NA,Fa20,27,0,27,3.71,N,F,Caucasian / White,Pell ineligible filer,2.71,U,FR,202010,Curtiss,3930304,NA,NA,NA,-1.129870054
+ANC0070,anc0070@auburn.edu,Fa20,Exam 2,28.5,Online,Fa20,30,NA,30,4.06,Y,F,Caucasian / White,Pell ineligible filer,2.4,U,FR,202010,Curtiss,3978553,0.159507932,0.671031223,-0.170347668,0.236377021
+ANG0047,ang0047@auburn.edu,Fa20,Exam 2,93,Face to Face,Fa20,31,NA,31,4.31,N,F,Caucasian / White,Pell ineligible filer,3.73,U,FR,202010,Curtiss,4024448,0.849662479,-2.488058594,0.483693482,0.966661496
+ANG0049,ang0049@auburn.edu,Su20,Exam 2,62.5,Online,Su20,31,NA,31,4.34,,F,Caucasian / White,,NA,U,SR,202130,Curtiss,3111091,NA,NA,NA,NA
+ANH0062,anh0062@auburn.edu,Su20,Exam 2,15,Online,Su20,34,0,34,3.76,N,F,Caucasian / White,,NA,U,FR,202130,Curtiss,3845174,NA,NA,NA,NA
+ARK0048,ark0048@auburn.edu,Fa20,Exam 2,57,Face to Face,Fa20,NA,1370,30,3.88,N,F,Caucasian / White,Pell ineligible filer,3.45,U,FR,202010,Curtiss,4063498,-1.008150788,1.717988444,1.270404786,-0.134695837
+ART0043,art0043@auburn.edu,Fa20,Exam 2,72.5,Online,Fa20,27,NA,27,4.14,N,F,Caucasian / White,Non-filer,3.5,U,FR,202010,Curtiss,4059870,0.569571838,1.45446069,1.461210272,-0.243418227
+ASH0063,ash0063@auburn.edu,Su20,Exam 2,56,Face to Face,Su20,25,NA,25,3.81,N,F,Caucasian / White,,NA,U,FR,202130,Curtiss,3980767,NA,NA,NA,NA
+ASK0051,ask0051@auburn.edu,Fa20,Exam 2,92,Face to Face,Fa20,31,NA,31,4.19,Y,M,Two or more races,Pell ineligible filer,4,U,SO,202010,Curtiss,4054083,0.715529309,-3.235708591,1.413972028,0.71927959
+ATB0052,atb0052@auburn.edu,Fa20,Exam 2,88.5,Face to Face,Fa20,32,NA,32,4.99,N,F,Caucasian / White,Pell ineligible filer,3.79,U,FR,202010,Curtiss,3928804,-0.732220052,-0.530642242,-0.207468223,2.583397797
+AZA0153,aza0153@auburn.edu,Su20,Exam 2,98,Online,Su20,NA,NA,NA,NA,,M,Non-Resident Alien,,NA,U,FR,202130,Curtiss,3950803,NA,NA,NA,NA
+AZW0109,azw0109@auburn.edu,Su20,Exam 2,45.5,Online,Su20,NA,930,17,3.38,,F,Caucasian / White,,NA,U,FR,202130,Curtiss,3894352,NA,NA,NA,NA
+BAB0089,bab0089@auburn.edu,Su20,Exam 2,21.5,Online,Su20,0,1300,28,4.21,N,F,Caucasian / White,,NA,U,FR,202130,Curtiss,3678955,NA,NA,NA,NA
+BAH0074,bah0074@auburn.edu,Fa20,Exam 2,59,Online,Fa20,29,NA,29,4.19,N,M,Caucasian / White,Pell ineligible filer,3.38,U,FR,202010,Curtiss,3984559,-0.438739705,-0.392928044,-0.562110982,0.289468579
+BAN0019,ban0019@auburn.edu,Fa20,Exam 2,81.5,NA,Fa20,NA,1300,28,4.03,N,F,Caucasian / White,Pell ineligible filer,3.73,U,FR,202010,Curtiss,4049618,NA,NA,NA,-0.255279468
+BDP0041,bdp0041@auburn.edu,Fa20,Exam 2,27,NA,Fa20,NA,NA,NA,3.71,Y,F,Caucasian / White,,NA,U,JR,202010,Curtiss,3915949,NA,NA,NA,NA
+BEC0035,bec0035@auburn.edu,Fa20,Exam 2,110,Online,Fa20,31,NA,31,4.31,N,M,Two or more races,Pell ineligible filer,4,U,FR,202010,Curtiss,4016505,-1.668021435,1.5632722,0.346831804,0.966661496
+BEP0015,bep0015@auburn.edu,Fa20,Exam 2,61,Face to Face,Fa20,28,NA,28,4.16,N,F,Caucasian / White,Pell ineligible filer,3.86,U,SO,202010,Curtiss,3952767,0.190073567,0.431941569,-1.292932452,0.012717596
+BFM0010,bfm0010@auburn.edu,Fa20,Exam 2,49,Online,Fa20,NA,NA,NA,NA,Y,F,Caucasian / White,,NA,U,JR,202010,Curtiss,4117690,0.397372314,-1.192163469,1.032361056,NA
+BGM0020,bgm0020@auburn.edu,Fa20,Exam 2,65,Face to Face,Fa20,25,NA,25,4.03,N,M,Caucasian / White,Pell ineligible filer,3.5,U,FR,202010,Curtiss,4080379,0.021214856,0.801309366,0.484766592,-0.899995986
+BGW0012,bgw0012@auburn.edu,Fa20,Exam 2,49.5,Online,Fa20,NA,1400,31,3.78,N,F,Caucasian / White,Non-filer,4,U,FR,202010,Curtiss,4040566,-0.310331845,0.417628731,-0.477412531,-0.125941919
+BMM0063,bmm0063@auburn.edu,Fa20,Exam 2,68,Online,Fa20,31,NA,31,4.09,N,F,Caucasian / White,Pell ineligible filer,3.25,U,FR,202010,Curtiss,4009922,-0.718830346,-1.296510392,-0.954353421,0.513128003
+BMM0070,bmm0070@auburn.edu,Fa20,Exam 2,117,Face to Face,Fa20,24,NA,24,4.03,N,M,Caucasian / White,Pell ineligible filer,4,U,FR,202010,Curtiss,4079950,0.799771824,-1.594601509,1.461210272,-1.114901492
+BOM0005,bom0005@auburn.edu,Fa20,Exam 2,61,Online,Fa20,32,NA,32,3.76,N,F,Caucasian / White,Non-filer,3.17,U,FR,202010,Curtiss,4041783,-1.428099909,1.717988444,-0.617008316,0.04773327
+BTP0013,btp0013@auburn.edu,Su20,Exam 2,66,Online,Su20,28,0,28,4.05,Y,M,Caucasian / White,,NA,U,FR,202130,Curtiss,3912262,NA,NA,NA,NA
+BVB0006,bvb0006@auburn.edu,Fa20,Exam 2,58.5,Online,Fa20,30,NA,30,4.17,N,F,Caucasian / White,Non-filer,3.21,U,FR,202010,Curtiss,4009675,0.105831052,1.717988444,0.243750485,0.463143767
+BWM0022,bwm0022@auburn.edu,Fa20,Exam 2,85.5,NA,Fa20,30,NA,30,4.05,N,M,Caucasian / White,Non-filer,3.73,U,FR,202010,Curtiss,4028930,NA,NA,NA,0.215761862
+CDC0077,cdc0077@auburn.edu,Fa20,Exam 2,83.5,Face to Face,Fa20,28,NA,28,3.95,N,M,Caucasian / White,Pell ineligible filer,3.77,U,FR,202010,Curtiss,4016513,-1.082881768,-1.693287757,-0.436220422,-0.420200738
+CED0065,ced0065@auburn.edu,Fa20,Exam 2,88,Online,Fa20,31,NA,31,4.41,N,F,Caucasian / White,Pell ineligible filer,3.8,U,FR,202010,Curtiss,3984048,1.045136924,1.609176933,0.991828375,1.172813083
+CEG0054,ceg0054@auburn.edu,Su20,Exam 2,85.5,Face to Face,Su20,32,NA,32,4.43,N,F,Caucasian / White,,NA,U,FR,202130,Curtiss,3985866,NA,NA,NA,NA
+CGG0031,cgg0031@auburn.edu,Fa20,Exam 2,90.5,Online,Fa20,25,NA,25,3.82,N,M,Caucasian / White,Pell ineligible filer,3.53,U,FR,202010,Curtiss,4040330,0.627408623,1.717988444,1.125277928,-1.33291432
+CGJ0018,cgj0018@auburn.edu,Fa20,Exam 2,48.5,Online,Fa20,21,NA,21,3.57,N,F,Black or African American,Pell eliglble filer,2.38,U,FR,202010,Curtiss,3983170,-0.38312374,1.717988444,1.365807529,-2.707915313
+CGL0015,cgl0015@auburn.edu,Fa20,Exam 2,104,Face to Face,Fa20,32,NA,32,4.4,N,F,Caucasian / White,Non-filer,3.5,U,FR,202010,Curtiss,3959800,0.307030807,-0.93429639,0.386877978,1.36710343
+CJK0048,cjk0048@auburn.edu,Fa20,Exam 2,103,Face to Face,Fa20,35,NA,35,4.19,N,M,Caucasian / White,Pell eliglble filer,4,U,FR,202010,Curtiss,3954489,0.103891967,-0.000615266,0.356876668,1.578901614
+CLC0133,clc0133@auburn.edu,Fa20,Exam 2,73,Face to Face,Fa20,27,NA,27,4.04,N,M,Caucasian / White,Pell ineligible filer,3.8,U,FR,202010,Curtiss,3993993,-0.37739843,-1.76363059,0.176188871,-0.449569815
+CLH0103,clh0103@auburn.edu,Su20,Exam 2,95,Face to Face,Su20,25,NA,25,NA,Y,M,Caucasian / White,,NA,U,JR,202130,Curtiss,3795296,NA,NA,NA,NA
+CMB0195,cmb0195@auburn.edu,Fa20,Exam 2,83.5,Face to Face,Fa20,32,NA,32,4.08,N,F,Caucasian / White,Pell ineligible filer,4,U,SO,202010,Curtiss,3928128,0.385548013,-0.351487899,0.59849334,0.70741835
+CMC0195,cmc0195@auburn.edu,Fa20,Exam 2,74.5,Face to Face,Fa20,28,NA,28,4.2,N,F,Caucasian / White,,NA,U,JR,202010,Curtiss,3983573,-0.50580629,1.253839714,-2.701584134,NA
+CML0082,cml0082@auburn.edu,Fa20,Exam 2,82,Face to Face,Fa20,30,NA,30,4.3,N,F,Asian,Pell ineligible filer,3.63,U,FR,202010,Curtiss,4063765,0.032665476,0.28437912,0.011925812,0.731140831
+CMM0216,cmm0216@auburn.edu,Fa20,Exam 2,68.5,Face to Face,Fa20,NA,NA,NA,NA,,M,Caucasian / White,,NA,G,PHD,202010,Curtiss,4152437,0.048276002,0.871652199,0.263959796,NA
+CNF0022,cnf0022@auburn.edu,Fa20,Exam 2,79.5,Online,Fa20,23,NA,23,4.29,N,F,Caucasian / White,Pell ineligible filer,2.45,U,FR,202010,Curtiss,4009775,0.978070339,1.717988444,1.04155249,-0.79381287
+CPM0050,cpm0050@auburn.edu,Fa20,Exam 2,73.5,Face to Face,Fa20,30,NA,30,3.73,N,F,Caucasian / White,Non-filer,2,U,FR,202010,Curtiss,4065927,-0.37167312,0.112660832,-1.870340138,-0.443923219
+CRC0106,crc0106@auburn.edu,Fa20,Exam 2,59,Online,Fa20,NA,1220,25,4.49,N,F,Caucasian / White,Pell ineligible filer,3.5,U,FR,202010,Curtiss,4030830,0.299366412,-0.196771655,0.244236991,0.048301317
+CRJ0025,crj0025@auburn.edu,Su20,Exam 2,92.5,Online,Su20,28,NA,28,4.52,N,M,Caucasian / White,,NA,U,FR,202130,Curtiss,3945555,NA,NA,NA,NA
+CSS0049,css0049@auburn.edu,Su20,Exam 2,59.5,Face to Face,Su20,31,0,31,4.14,N,M,Asian,,NA,U,FR,202130,Curtiss,3695981,NA,NA,NA,NA
+CTC0061,ctc0061@auburn.edu,Fa20,Exam 2,70,Face to Face,Fa20,27,NA,27,3.92,N,M,Caucasian / White,Non-filer,4,U,FR,202010,Curtiss,4068840,1.045136924,-0.477583714,0.873496808,-0.69695172
+CVP0008,cvp0008@auburn.edu,Fa20,Exam 2,58,Online,Fa20,26,NA,26,4.1,N,F,Caucasian / White,Non-filer,3.02,U,FR,202010,Curtiss,3990763,-1.181005728,-1.538571513,-2.694025141,-0.540784368
+CZA0008,cza0008@auburn.edu,Su20,Exam 2,34,Face to Face,Su20,28,0,28,4.12,Y,F,Caucasian / White,,NA,U,FR,202130,Curtiss,2462079,NA,NA,NA,NA
+CZH0106,czh0106@auburn.edu,Fa20,Exam 2,65,Online,Fa20,NA,1290,27,3.5,N,M,Caucasian / White,Pell eliglble filer,3.02,U,FR,202010,Curtiss,3962354,-2.240937007,1.717988444,-2.549971393,-1.562788388
+CZX0017,czx0017@auburn.edu,Fa20,Exam 2,40,NA,Fa20,NA,NA,NA,NA,,M,Non-Resident Alien,Non-filer,1.68,U,FR,202010,Curtiss,4064357,NA,NA,NA,NA
+DAG0040,dag0040@auburn.edu,Fa20,Exam 2,54,Online,Fa20,29,NA,29,3.88,N,F,Caucasian / White,Non-filer,3.54,U,FR,202010,Curtiss,4085948,0.502505253,0.608124445,0.349317675,-0.349601343
+DAS0057,das0057@auburn.edu,Fa20,Exam 2,99.5,Face to Face,Fa20,30,0,30,3.88,N,M,Hispanic,,NA,U,FR,202010,Curtiss,3903480,0.497061678,-3.48074118,0.216953337,NA
+DCR0023,dcr0023@auburn.edu,Su20,Exam 2,102.5,Face to Face,Su20,33,NA,33,4.33,N,M,Caucasian / White,,NA,U,FR,202130,Curtiss,3945132,NA,NA,NA,NA
+DEL0019,del0019@auburn.edu,Fa20,Exam 2,51,Online,Fa20,29,NA,29,4.17,N,F,Caucasian / White,Pell ineligible filer,3.57,U,FR,202010,Curtiss,4064954,-0.187649295,-1.451226635,0.677571443,0.248238261
+DEM0040,dem0040@auburn.edu,Fa20,Exam 2,101.5,Face to Face,Fa20,32,NA,32,4.43,N,F,Caucasian / White,Pell ineligible filer,4,U,FR,202010,Curtiss,3926046,0.861113099,0.20000571,0.762976079,1.428948907
+DGH0020,dgh0020@auburn.edu,Fa20,Exam 2,69,NA,Fa20,30,NA,30,4.03,N,M,Caucasian / White,Non-filer,2.93,U,FR,202010,Curtiss,3982460,NA,NA,NA,0.174531544
+DHK0005,dhk0005@auburn.edu,Fa20,Exam 2,41,NA,Fa20,0,1120,22,2.88,N,M,Asian,Pell ineligible filer,1.86,U,FR,202010,Curtiss,3923789,NA,NA,NA,-3.915455761
+DMD0042,dmd0042@auburn.edu,Fa20,Exam 2,64.5,Online,Fa20,24,NA,24,3.99,N,F,Hispanic,Pell ineligible filer,3,U,FR,202010,Curtiss,4061314,0.978070339,1.408555957,1.029875185,-1.197362127
+DRP0020,drp0020@auburn.edu,Su20,Exam 2,41.5,Online,Su20,0,1310,28,4.23,N,F,Two or more races,,NA,U,FR,202130,Curtiss,3904608,NA,NA,NA,NA
+DRT0012,drt0012@auburn.edu,Fa20,Exam 2,70.5,Face to Face,Fa20,24,NA,24,4.07,N,F,Caucasian / White,Pell eliglble filer,3.42,U,FR,202010,Curtiss,4016831,0.732705239,0.477846301,1.365807529,-1.032440857
+DRW0026,drw0026@auburn.edu,Fa20,Exam 2,65,Online,Fa20,33,NA,33,4.19,N,M,Caucasian / White,Pell ineligible filer,3.83,U,FR,202010,Curtiss,3952791,0.238025137,1.45446069,-1.610601511,1.149090602
+DWC0018,dwc0018@auburn.edu,Fa20,Exam 2,65.5,Face to Face,Fa20,29,NA,29,3.65,N,M,Caucasian / White,Pell eliglble filer,1.92,U,FR,202010,Curtiss,3977477,-0.925473677,0.913092344,1.114026409,-0.823749995
+DWP0019,dwp0019@auburn.edu,Fa20,Exam 2,81.5,Online,Fa20,NA,1310,28,4.86,N,M,Caucasian / White,Non-filer,2.6,U,FR,202010,Curtiss,4049877,1.045136924,1.717988444,1.461210272,1.45577871
+DZW0028,dzw0028@auburn.edu,Fa20,Exam 2,0,NA,Fa20,27,0,27,4.2,N,M,Caucasian / White,Non-filer,2.29,U,FR,202010,Curtiss,3731590,NA,NA,NA,-0.119727275
+EAC0082,eac0082@auburn.edu,Su20,Exam 2,73,Online,Su20,31,NA,31,4.71,N,F,Two or more races,,NA,U,SO,202130,Curtiss,3955414,NA,NA,NA,NA
+EAD0047,ead0047@auburn.edu,Su20,Exam 2,18,Online,Su20,0,1050,20,3.42,,F,Caucasian / White,,NA,U,SO,202130,Curtiss,3624337,NA,NA,NA,NA
+EAS0100,eas0100@auburn.edu,Fa20,Exam 2,72.5,Face to Face,Fa20,NA,1200,25,3.71,N,F,Caucasian / White,Pell ineligible filer,3.6,U,FR,202010,Curtiss,4059863,0.441163978,-0.547644287,0.777607559,-1.559681066
+EBJ0011,ebj0011@auburn.edu,Su20,Exam 2,80,Online,Su20,34,NA,34,4.56,,F,Caucasian / White,,NA,U,FR,202130,Curtiss,4059179,NA,NA,NA,NA
+ECD0037,ecd0037@auburn.edu,Fa20,Exam 2,73.5,Online,Fa20,28,NA,28,4.24,N,F,Caucasian / White,Pell ineligible filer,3.67,U,FR,202010,Curtiss,3994018,0.855387789,1.500365423,-0.17378835,0.177638866
+EGA0010,ega0010@auburn.edu,Fa20,Exam 2,95.5,Online,Fa20,33,NA,33,4.4,N,F,Caucasian / White,Non-filer,4,U,FR,202010,Curtiss,4045201,-0.101467694,0.045289466,1.223166542,1.582008936
+EGL0021,egl0021@auburn.edu,Fa20,Exam 2,74,Online,Fa20,25,NA,25,4.52,N,F,Caucasian / White,Pell ineligible filer,3.57,U,FR,202010,Curtiss,4033877,1.045136924,0.695469323,1.461210272,0.110146794
+EJM0045,ejm0045@auburn.edu,Fa20,Exam 2,100.5,Face to Face,Fa20,32,NA,32,4.4,N,M,Caucasian / White,Pell ineligible filer,4,U,SO,202010,Curtiss,4034090,0.916729064,-2.852027956,1.327760719,1.36710343
+EJZ0003,ejz0003@auburn.edu,Fa20,Exam 2,89,Face to Face,Fa20,33,NA,33,4.56,N,M,Asian,Pell ineligible filer,4,U,FR,202010,Curtiss,4055903,0.861113099,-1.317977024,0.27979793,1.911851477
+ELK0025,elk0025@auburn.edu,Fa20,Exam 2,59.5,NA,Fa20,25,NA,25,3.96,N,F,Caucasian / White,Non-filer,3.57,U,FR,202010,Curtiss,4038113,NA,NA,NA,-1.044302097
+EMN0017,emn0017@auburn.edu,Su20,Exam 2,NA,Face to Face,Su20,31,0,31,4.14,N,F,Caucasian / White,,NA,U,FR,202130,Curtiss,3835124,NA,NA,NA,NA
+EPS0018,eps0018@auburn.edu,Fa20,Exam 2,33.5,Online,Fa20,23,NA,23,4.15,N,F,Caucasian / White,Pell ineligible filer,3.21,U,FR,202010,Curtiss,4024816,0.911003754,1.717988444,0.411187399,-1.082425092
+ERB0062,erb0062@auburn.edu,Fa20,Exam 2,107,Face to Face,Fa20,35,NA,35,4.57,N,F,Caucasian / White,Pell ineligible filer,4,U,FR,202010,Curtiss,3983507,0.732705239,-1.739192489,0.166510931,2.362277647
+ETS0021,ets0021@auburn.edu,Fa20,Exam 2,50.5,Face to Face,Fa20,33,NA,33,4.54,N,M,Caucasian / White,Pell ineligible filer,3.5,U,FR,202010,Curtiss,4056693,-1.775257136,-0.112398245,-2.827474694,1.870621159
+EZH0040,ezh0040@auburn.edu,Fa20,Exam 2,80,Face to Face,Fa20,30,NA,30,4.18,N,F,Caucasian / White,Pell ineligible filer,3.75,U,FR,202010,Curtiss,4013887,-0.596147796,0.871652199,-0.580374267,0.483758926
+FEL0002,fel0002@auburn.edu,Fa20,Exam 2,116.5,Face to Face,Fa20,27,NA,27,4.24,N,F,Caucasian / White,Pell ineligible filer,3.73,U,FR,202010,Curtiss,4018597,1.045136924,0.586657812,1.461210272,-0.03726664
+GCH0021,gch0021@auburn.edu,Su20,Exam 2,81.5,Online,Su20,26,NA,26,3.93,N,M,Caucasian / White,,NA,U,FR,202130,Curtiss,3954180,NA,NA,NA,NA
+GCK0012,gck0012@auburn.edu,Fa20,Exam 2,95,Face to Face,Fa20,24,NA,24,4.03,N,F,Caucasian / White,Pell ineligible filer,3.71,U,FR,202010,Curtiss,3960294,0.782595894,0.847214099,0.86686407,-1.114901492
+GMH0056,gmh0056@auburn.edu,Fa20,Exam 2,39.5,Online,Fa20,22,NA,22,NA,Y,F,Caucasian / White,,NA,U,JR,202010,Curtiss,3975095,-0.246769749,1.067808588,0.406174996,NA
+GMT0015,gmt0015@auburn.edu,Su20,Exam 2,88.5,Face to Face,Su20,27,NA,27,2.83,N,M,Caucasian / White,,NA,U,FR,202130,Curtiss,3991359,NA,NA,NA,NA
+GSM0025,gsm0025@auburn.edu,Fa20,Exam 2,96.5,Face to Face,Fa20,29,NA,29,4.12,N,M,Caucasian / White,Non-filer,3.73,U,FR,202010,Curtiss,3972971,0.861113099,-0.126428822,-1.314228835,0.145162467
+HAP0022,hap0022@auburn.edu,Fa20,Exam 2,0,NA,Fa20,25,NA,25,4.03,N,M,Caucasian / White,Non-filer,1.97,U,FR,202010,Curtiss,3973035,NA,NA,NA,-0.899995986
+HAT0020,hat0020@auburn.edu,Fa20,Exam 2,33,Face to Face,Fa20,34,NA,34,4.11,N,F,Caucasian / White,Pell ineligible filer,3.71,U,FR,202010,Curtiss,4042054,0.721254619,1.717988444,-2.397652466,1.199074838
+HER0043,her0043@auburn.edu,Fa20,Exam 2,65,Online,Fa20,31,NA,31,4.06,N,F,Caucasian / White,Pell ineligible filer,3.8,U,FR,202010,Curtiss,4024755,-1.006211702,-0.443297364,0.111374042,0.451282527
+HKC0013,hkc0013@auburn.edu,Su20,Exam 2,53,Face to Face,Su20,23,0,23,3.87,N,F,Caucasian / White,,NA,U,FR,202130,Curtiss,3781997,NA,NA,NA,NA
+HLB0036,hlb0036@auburn.edu,Fa20,Exam 2,59.5,NA,Fa20,24,NA,24,4.03,N,F,Caucasian / White,Pell ineligible filer,3.57,U,FR,202010,Curtiss,4037502,NA,NA,NA,-1.114901492
+HMB0066,hmb0066@auburn.edu,Fa20,Exam 2,39,Face to Face,Fa20,NA,1170,24,4.03,N,F,Caucasian / White,Pell ineligible filer,3.79,U,FR,202010,Curtiss,4053999,0.496779943,-1.100354003,1.365807529,-1.114901492
+HTS0017,hts0017@auburn.edu,Fa20,Exam 2,69.5,Face to Face,Fa20,31,NA,31,4.45,N,M,Caucasian / White,Non-filer,4,U,SO,202010,Curtiss,3960364,-1.150230088,0.277225325,0.358889995,1.255273718
+HWF0006,hwf0006@auburn.edu,Su20,Exam 2,81.5,Online,Su20,NA,NA,NA,NA,,M,Caucasian / White,,NA,U,FR,202130,Curtiss,4167818,NA,NA,NA,NA
+HZN0021,hzn0021@auburn.edu,Fa20,Exam 2,71,Online,Fa20,NA,NA,NA,NA,,F,Non-Resident Alien,Non-filer,3.24,U,FR,202010,Curtiss,4050421,-2.093414131,-2.124351472,-2.134900227,NA
+HZP0041,hzp0041@auburn.edu,Su20,Exam 2,53.5,Online,Su20,26,NA,26,3.76,N,M,Asian,,NA,U,FR,202130,Curtiss,3995159,NA,NA,NA,NA
+ICM0011,icm0011@auburn.edu,Fa20,Exam 2,78.5,Online,Fa20,23,NA,23,NA,Y,M,Caucasian / White,,NA,U,JR,202010,Curtiss,3911563,0.441163978,1.5632722,-0.265310663,NA
+ILH0002,ilh0002@auburn.edu,Fa20,Exam 2,95.5,Face to Face,Fa20,31,NA,31,4.06,N,M,Caucasian / White,Pell ineligible filer,3.56,U,FR,202010,Curtiss,4034795,0.441163978,-0.375925999,0.309151917,0.451282527
+IMH0007,imh0007@auburn.edu,Fa20,Exam 2,53.5,Online,Fa20,NA,1140,23,3.22,Y,F,Caucasian / White,Non-filer,2.64,U,FR,202010,Curtiss,4088408,NA,NA,1.461210272,-2.999634857
+IML0006,iml0006@auburn.edu,Fa20,Exam 2,53,Online,Fa20,23,0,23,3.81,N,F,Caucasian / White,Non-filer,3.43,U,FR,202010,Curtiss,3932060,-0.25471588,1.717988444,-0.415290963,-1.78334049
+IMP0006,imp0006@auburn.edu,Fa20,Exam 2,48.5,Face to Face,Fa20,29,NA,29,4.15,N,F,Caucasian / White,Pell ineligible filer,3.57,U,FR,202010,Curtiss,4065981,-0.181923985,0.716935955,-0.227691496,0.207007943
+INS0003,ins0003@auburn.edu,Fa20,Exam 2,48.5,Face to Face,Fa20,31,0,31,4.55,N,F,Caucasian / White,Pell ineligible filer,3.3,U,FR,202010,Curtiss,3860431,-0.920030102,1.717988444,-0.701660009,1.461425306
+JAC0151,jac0151@auburn.edu,Su20,Exam 2,94.5,Face to Face,Su20,30,NA,30,4.24,N,F,Hispanic,,NA,U,FR,202130,Curtiss,3983061,NA,NA,NA,NA
+JAG0117,jag0117@auburn.edu,Fa20,Exam 2,85,Face to Face,Fa20,25,NA,25,4.37,N,F,Hispanic,Pell ineligible filer,3.8,U,FR,202010,Curtiss,4041570,0.502505253,-0.474612247,0.398555283,-0.199080588
+JAL0085,jal0085@auburn.edu,Fa20,Exam 2,98.5,Face to Face,Fa20,29,NA,29,4.05,N,F,Caucasian / White,Pell ineligible filer,4,U,FR,202010,Curtiss,3960309,0.861113099,1.057683325,0.539077323,0.000856356
+JBP0055,jbp0055@auburn.edu,Fa20,Exam 2,88,Face to Face,Fa20,33,NA,33,4.4,N,M,Caucasian / White,Non-filer,4,U,SO,202010,Curtiss,3729741,0.274689764,0.789690983,-1.355081109,1.582008936
+JDB0162,jdb0162@auburn.edu,Fa20,Exam 2,75,NA,Fa20,28,NA,28,4,Y,M,Caucasian / White,Pell eliglble filer,2.62,U,FR,202010,Curtiss,4075699,NA,NA,NA,-0.317124944
+JDP0077,jdp0077@auburn.edu,Su20,Exam 2,98.5,Face to Face,Su20,34,NA,34,4.14,Y,M,Caucasian / White,,NA,U,FR,202130,Curtiss,3925948,NA,NA,NA,NA
+JEB0119,jeb0119@auburn.edu,Fa20,Exam 2,67.5,Face to Face,Fa20,30,NA,30,3.98,N,F,Caucasian / White,Non-filer,3.09,U,FR,202010,Curtiss,4046105,-0.174259589,NA,0.194999383,0.071455751
+JHH0057,jhh0057@auburn.edu,Fa20,Exam 2,75,Face to Face,Fa20,28,NA,28,4.17,N,M,Caucasian / White,Non-filer,3.38,U,FR,202010,Curtiss,4018980,0.048276002,1.717988444,0.18630656,0.033332755
+JHL0050,jhl0050@auburn.edu,Fa20,Exam 2,80,Face to Face,Fa20,19,NA,19,NA,N,M,Caucasian / White,,NA,U,JR,202010,Curtiss,3750971,-0.24326526,0.787278788,0.706059895,NA
+JKB0055,jkb0055@auburn.edu,Fa20,Exam 2,82.5,Online,Fa20,30,NA,30,3.95,N,M,Hispanic,Pell ineligible filer,3.79,U,FR,202010,Curtiss,4059133,0.165233242,0.460561996,0.435042477,0.009610274
+JKB0058,jkb0058@auburn.edu,Fa20,Exam 2,46,Face to Face,Fa20,NA,1240,26,3.85,N,F,Black or African American,Pell eliglble filer,3,U,FR,202010,Curtiss,4082771,-0.994761082,0.825747466,-0.408877905,-1.056163337
+JKC0036,jkc0036@auburn.edu,Su20,Exam 2,38,Online,Su20,23,0,23,3.82,N,F,Black or African American,,NA,U,FR,202130,Curtiss,3687703,NA,NA,NA,NA
+JKD0030,jkd0030@auburn.edu,Su20,Exam 2,42,Face to Face,Su20,21,NA,21,3.45,Y,F,Two or more races,,NA,U,SO,202130,Curtiss,3804682,NA,NA,NA,NA
+JKD0031,jkd0031@auburn.edu,Fa20,Exam 2,72.5,Online,Fa20,23,NA,23,3.53,N,F,Black or African American,Pell ineligible filer,3.6,U,FR,202010,Curtiss,4067729,0.983795649,0.045289466,1.128690054,-2.360564936
+JMG0119,jmg0119@auburn.edu,Fa20,Exam 2,55.5,Online,Fa20,28,NA,28,4.17,N,M,Caucasian / White,Pell ineligible filer,3.18,U,FR,202010,Curtiss,4044226,0.861113099,-0.61798712,1.222680035,0.033332755
+JMH0197,jmh0197@auburn.edu,Fa20,Exam 2,54.5,Online,Fa20,30,NA,30,4.05,Y,F,Asian,Pell eliglble filer,3.27,U,FR,202010,Curtiss,4023439,-0.176198675,0.439095364,-2.09506016,0.215761862
+JML0104,jml0104@auburn.edu,Su20,Exam 2,61,Face to Face,Su20,NA,NA,NA,NA,Y,F,Caucasian / White,,NA,U,SR,202130,Curtiss,4052584,NA,NA,NA,NA
+JML0104,jml0104@auburn.edu,Su20,Exam 2,61,Face to Face,Su20,NA,NA,NA,NA,,F,Caucasian / White,,NA,P,P1,202130,Curtiss,4052584,NA,NA,NA,NA
+JPG0040,jpg0040@auburn.edu,Fa20,Exam 2,81.5,Online,Fa20,22,NA,22,4,Y,M,Two or more races,,NA,U,FR,202010,Curtiss,4033571,0.032665476,0.499312934,0.770535072,NA
+JRD0050,jrd0050@auburn.edu,Su20,Exam 2,39.5,Online,Su20,23,0,23,4.38,N,M,Caucasian / White,,NA,U,JR,202130,Curtiss,3572945,NA,NA,NA,NA
+JSC0063,jsc0063@auburn.edu,Fa20,Exam 2,65.5,Online,Fa20,32,NA,32,4.3,N,F,Caucasian / White,Pell ineligible filer,3.33,U,FR,202010,Curtiss,4000624,-0.147198443,0.042317999,-2.299377442,1.160951843
+JTB0094,jtb0094@auburn.edu,Su20,Exam 2,88.5,Face to Face,Su20,26,NA,26,3.71,Y,M,Caucasian / White,,NA,U,FR,202130,Curtiss,3875907,NA,NA,NA,NA
+JTH0096,jth0096@auburn.edu,Fa20,Exam 2,69,Online,Fa20,25,NA,25,3.73,N,M,Caucasian / White,Pell ineligible filer,3.09,U,FR,202010,Curtiss,3970863,0.635073018,-0.196771655,0.790271839,-1.518450748
+JTM0095,jtm0095@auburn.edu,Fa20,Exam 2,94,Online,Fa20,27,NA,27,3.6,N,M,Caucasian / White,,NA,U,SR,202010,Curtiss,3829915,1.045136924,-0.087960145,0.711619523,NA
+JTR0047,jtr0047@auburn.edu,Fa20,Exam 2,43.5,NA,Fa20,27,NA,27,3.68,Y,F,Caucasian / White,Pell ineligible filer,2.33,U,FR,202010,Curtiss,4038471,NA,NA,NA,-1.19171553
+JWB0071,jwb0071@auburn.edu,Fa20,Exam 2,33,Face to Face,Fa20,0,1030,20,3.62,N,M,Caucasian / White,Pell ineligible filer,2.01,U,FR,202010,Curtiss,3789068,-3.0614385,-3.635457424,-2.969189426,-2.819745025
+JWG0024,jwg0024@auburn.edu,Fa20,Exam 2,56.5,NA,Fa20,26,0,26,3.82,Y,F,Caucasian / White,Pell ineligible filer,2.43,U,FR,202010,Curtiss,3824560,NA,NA,NA,-1.118008814
+JWG0033,jwg0033@auburn.edu,Fa20,Exam 2,75.5,Face to Face,Fa20,30,NA,30,4,N,M,Caucasian / White,Pell ineligible filer,2.87,U,FR,202010,Curtiss,3859887,0.165233242,-2.476717224,-0.382009788,0.112686068
+JWP0046,jwp0046@auburn.edu,Fa20,Exam 2,95,Face to Face,Fa20,24,NA,24,3.75,N,M,Caucasian / White,Non-filer,3.79,U,FR,202010,Curtiss,4070728,0.094006751,-3.37192967,1.280522475,-1.692125937
+JZM0094,jzm0094@auburn.edu,Su20,Exam 2,109,Online,Su20,31,0,31,4.41,N,M,Caucasian / White,,NA,U,FR,202130,Curtiss,3805972,NA,NA,NA,NA
+JZP0096,jzp0096@auburn.edu,Fa20,Exam 2,68,NA,Fa20,24,0,24,3.22,N,M,Black or African American,Pell eliglble filer,2.45,U,FR,202010,Curtiss,3917603,NA,NA,NA,-2.784729351
+KBB0042,kbb0042@auburn.edu,Fa20,Exam 2,73,Online,Fa20,27,NA,27,4.41,Y,F,Caucasian / White,Pell ineligible filer,3.6,U,FR,202010,Curtiss,4037473,0.318481428,-0.874361079,0.127537866,0.313191059
+KBH0045,kbh0045@auburn.edu,Fa20,Exam 2,50,NA,Fa20,NA,1210,25,3.83,N,F,Caucasian / White,Pell ineligible filer,2.88,U,FR,202010,Curtiss,4058183,NA,NA,NA,-1.312299161
+KDW0052,kdw0052@auburn.edu,Fa20,Exam 2,56,Online,Fa20,26,NA,26,3.05,N,F,Caucasian / White,Pell eliglble filer,2.14,U,FR,202010,Curtiss,4024941,0.630913113,1.408555957,1.461210272,-2.705376038
+KEG0067,keg0067@auburn.edu,Fa20,Exam 2,76.5,Face to Face,Fa20,0,1310,28,3.92,N,F,Caucasian / White,Pell ineligible filer,3.58,U,FR,202010,Curtiss,3939950,-0.933419807,-3.417834402,-1.263918117,-0.482046214
+KFR0006,kfr0006@auburn.edu,Su20,Exam 2,73,Online,Su20,27,NA,27,4.71,N,F,Caucasian / White,,NA,U,FR,202130,Curtiss,4000314,NA,NA,NA,NA
+KGC0029,kgc0029@auburn.edu,Su20,Exam 2,48,Face to Face,Su20,25,0,25,4.21,N,F,Caucasian / White,,NA,U,FR,202130,Curtiss,3882588,NA,NA,NA,NA
+KHC0026,khc0026@auburn.edu,Fa20,Exam 2,43,Online,Fa20,29,NA,29,4.58,Y,F,Caucasian / White,Non-filer,3.5,U,FR,202010,Curtiss,4006133,0.303526318,0.221472342,-0.194644983,1.09345977
+KJB0059,kjb0059@auburn.edu,Fa20,Exam 2,93.5,Face to Face,Fa20,29,NA,29,4.3,N,F,Caucasian / White,Pell ineligible filer,3.79,U,FR,202010,Curtiss,3993966,0.677089274,-2.076968391,1.461210272,0.516235325
+KJS0049,kjs0049@auburn.edu,Fa20,Exam 2,84.5,NA,Fa20,26,NA,26,3.5,N,M,Caucasian / White,Pell ineligible filer,3.79,U,FR,202010,Curtiss,4063719,NA,NA,NA,-1.777693894
+KMC0130,kmc0130@auburn.edu,Fa20,Exam 2,79.5,Online,Fa20,30,NA,30,4.01,N,F,Caucasian / White,Pell eliglble filer,3.8,U,FR,202010,Curtiss,4039471,-0.310331845,-0.066493512,-0.477412531,0.133301227
+KMJ0048,kmj0048@auburn.edu,Fa20,Exam 2,38,Online,Fa20,NA,1080,21,3.33,,F,Two or more races,Pell ineligible filer,2.5,U,SO,202010,Curtiss,3949688,-0.657489071,1.717988444,-1.592878071,-3.202679123
+KMQ0006,kmq0006@auburn.edu,Fa20,Exam 2,46.5,Online,Fa20,NA,NA,NA,NA,Y,F,Hispanic,Pell ineligible filer,2,U,JR,202010,Curtiss,4082762,-0.310331845,-0.087960145,-1.042683677,NA
+KMR0065,kmr0065@auburn.edu,Su20,Exam 2,89,Online,Su20,30,0,30,4.06,Y,F,Caucasian / White,,NA,U,FR,202130,Curtiss,3915297,NA,NA,NA,NA
+KMR0080,kmr0080@auburn.edu,Su20,Exam 2,67.5,Face to Face,Su20,NA,NA,NA,NA,,F,Caucasian / White,,NA,U,SR,202130,Curtiss,4104965,NA,NA,NA,NA
+KNE0015,kne0015@auburn.edu,Su20,Exam 2,58,Online,Su20,NA,1090,21,3.96,N,F,Black or African American,,NA,U,FR,202130,Curtiss,3990297,NA,NA,NA,NA
+KNF0020,knf0020@auburn.edu,Fa20,Exam 2,89,Face to Face,Fa20,30,NA,30,4.36,Y,F,Caucasian / White,Pell eliglble filer,3.79,U,FR,202010,Curtiss,3904026,0.032665476,0.913092344,1.318569285,0.854831783
+KPS0017,kps0017@auburn.edu,Su20,Exam 2,63,Face to Face,Su20,NA,1230,26,3.79,N,F,Two or more races,,NA,U,FR,202130,Curtiss,3992013,NA,NA,NA,NA
+KRC0066,krc0066@auburn.edu,Fa20,Exam 2,51,Online,Fa20,32,NA,32,4.15,N,F,Caucasian / White,Pell ineligible filer,3.63,U,FR,202010,Curtiss,3994001,-1.485936695,-0.087960145,-2.336676832,0.851724461
+KRM0064,krm0064@auburn.edu,Fa20,Exam 2,85.5,Online,Fa20,NA,1380,30,4.04,N,F,Caucasian / White,Non-filer,3.65,U,FR,202010,Curtiss,4024181,0.916729064,1.04068128,-0.677336626,0.195146703
+KSP0025,ksp0025@auburn.edu,Fa20,Exam 2,83.5,Face to Face,Fa20,31,NA,31,4.04,N,F,Caucasian / White,Pell ineligible filer,4,U,FR,202010,Curtiss,4042396,0.983795649,-0.470424672,-0.213834524,0.410052209
+KSW0029,ksw0029@auburn.edu,Fa20,Exam 2,110,Face to Face,Fa20,35,NA,35,4.99,Y,F,Caucasian / White,Pell ineligible filer,4,U,SO,202010,Curtiss,4043717,-0.095742384,-1.497131368,-1.244020534,3.228114315
+KZA0048,kza0048@auburn.edu,Su20,Exam 2,97,Online,Su20,NA,NA,NA,NA,,M,Non-Resident Alien,,NA,U,FR,202130,Curtiss,3965070,NA,NA,NA,NA
+KZL0075,kzl0075@auburn.edu,Fa20,Exam 2,60.5,Online,Fa20,26,NA,26,3.93,N,F,Caucasian / White,Non-filer,2.79,U,FR,202010,Curtiss,4083392,0.299366412,1.500365423,0.024089623,-0.891242067
+KZP0041,kzp0041@auburn.edu,Su20,Exam 2,73.5,Online,Su20,26,0,26,4.31,Y,F,Hispanic,,NA,U,FR,202130,Curtiss,3867734,NA,NA,NA,NA
+LAC0090,lac0090@auburn.edu,Fa20,Exam 2,73,Face to Face,Fa20,26,NA,26,4.25,Y,F,Caucasian / White,Pell ineligible filer,3.33,U,FR,202010,Curtiss,4033289,0.098166657,-0.330021266,1.461210272,-0.231556987
+LAK0027,lak0027@auburn.edu,Su20,Exam 2,90,Face to Face,Su20,27,0,27,3.58,N,F,Caucasian / White,,NA,U,FR,202130,Curtiss,3931343,NA,NA,NA,NA
+LAS0111,las0111@auburn.edu,Fa20,Exam 2,79,Online,Fa20,31,NA,31,4.06,N,F,Caucasian / White,Pell ineligible filer,3.27,U,FR,202010,Curtiss,4042045,-0.168534279,0.695469323,0.887234198,0.451282527
+LAW0073,law0073@auburn.edu,Fa20,Exam 2,66.5,Face to Face,Fa20,NA,1160,24,3.84,N,F,Two or more races,Pell ineligible filer,3.13,U,FR,202010,Curtiss,4068879,0.922454374,1.717988444,0.865937815,-1.506589508
+LCH0053,lch0053@auburn.edu,Fa20,Exam 2,36,NA,Fa20,27,NA,27,4.08,N,F,Two or more races,Pell ineligible filer,3.54,U,FR,202010,Curtiss,4043361,NA,NA,NA,-0.36710918
+LDW0025,ldw0025@auburn.edu,Fa20,Exam 2,50.5,Face to Face,Fa20,27,NA,27,4.24,N,M,Caucasian / White,Pell ineligible filer,3.69,U,FR,202010,Curtiss,4027721,0.493275453,0.791184103,NA,-0.03726664
+LGB0029,lgb0029@auburn.edu,Fa20,Exam 2,65,Online,Fa20,33,NA,33,4.34,N,F,Caucasian / White,Pell ineligible filer,3.57,U,FR,202010,Curtiss,3993975,-1.288241429,-1.968156881,-0.713337314,1.458317984
+LGT0008,lgt0008@auburn.edu,Fa20,Exam 2,79.5,Online,Fa20,32,NA,32,4.35,N,F,Caucasian / White,Non-filer,4,U,FR,202010,Curtiss,4059868,-1.422374599,0.130878984,-1.1507507,1.264027637
+LLR0008,llr0008@auburn.edu,Fa20,Exam 2,53,Online,Fa20,NA,1190,24,3.68,N,F,Caucasian / White,Pell ineligible filer,2.73,U,FR,202010,Curtiss,3986776,0.707864914,0.245910443,1.049551232,-1.836432048
+LNP0013,lnp0013@auburn.edu,Fa20,Exam 2,75,Face to Face,Fa20,29,NA,29,4.25,N,F,Caucasian / White,Pell ineligible filer,3.77,U,FR,202010,Curtiss,3970695,0.170958552,0.671031223,0.263473289,0.413159531
+LRT0015,lrt0015@auburn.edu,Fa20,Exam 2,66,Online,Fa20,28,NA,28,4.48,N,F,Caucasian / White,Pell ineligible filer,3.7,U,FR,202010,Curtiss,4064601,0.257140153,-1.166232248,-0.948913375,0.672402677
+LRW0023,lrw0023@auburn.edu,Fa20,Exam 2,59.5,Online,Fa20,22,NA,22,4.23,N,F,Caucasian / White,Pell ineligible filer,3.8,U,FR,202010,Curtiss,3972956,-0.32944686,-0.066493512,-0.275355527,-1.132409328
+LSF0014,lsf0014@auburn.edu,Fa20,Exam 2,70.5,Online,Fa20,31,NA,31,4.34,N,F,Caucasian / White,Non-filer,3.38,U,FR,202010,Curtiss,4024441,1.045136924,-0.51902386,1.461210272,1.028506972
+LTG0012,ltg0012@auburn.edu,Fa20,Exam 2,107.5,NA,Fa20,34,NA,34,4.36,N,M,Caucasian / White,Non-filer,4,U,SO,202010,Curtiss,4054751,NA,NA,NA,1.714453807
+MAC0161,mac0161@auburn.edu,Fa20,Exam 2,84,NA,Fa20,33,NA,33,4.07,N,F,Caucasian / White,Pell ineligible filer,4,U,FR,202010,Curtiss,4016512,NA,NA,NA,0.901708697
+MAK0076,mak0076@auburn.edu,Fa20,Exam 2,88.5,NA,Fa20,30,NA,30,4.35,N,M,Caucasian / White,Non-filer,3.38,U,FR,202010,Curtiss,3934972,NA,NA,NA,0.834216625
+MAM0232,mam0232@auburn.edu,Fa20,Exam 2,95.5,NA,Fa20,30,NA,30,3.96,N,F,Hispanic,Pell ineligible filer,3.03,U,FR,202010,Curtiss,3959848,NA,NA,NA,0.030225433
+MAW0110,maw0110@auburn.edu,Su20,Exam 2,82,Face to Face,Su20,33,NA,33,4.55,N,M,Caucasian / White,,NA,U,FR,202130,Curtiss,3935950,NA,NA,NA,NA
+MCH0098,mch0098@auburn.edu,Fa20,Exam 2,51,Face to Face,Fa20,24,NA,24,4.1,N,F,Caucasian / White,Pell eliglble filer,3.41,U,FR,202010,Curtiss,4024485,-2.162419802,1.717988444,-0.11206548,-0.97059538
+MCM0134,mcm0134@auburn.edu,Su20,Exam 2,92.5,Online,Su20,26,NA,26,4.31,N,F,Asian,,NA,U,FR,202130,Curtiss,3946972,NA,NA,NA,NA
+MCM0148,mcm0148@auburn.edu,Fa20,Exam 2,60.5,Face to Face,Fa20,29,NA,29,4,N,F,Caucasian / White,Pell ineligible filer,3.5,U,FR,202010,Curtiss,3904036,-0.162808969,0.958997077,-1.740757053,-0.102219438
+MCT0060,mct0060@auburn.edu,Fa20,Exam 2,93,Face to Face,Fa20,NA,1170,24,4.05,N,F,Caucasian / White,,NA,U,FR,202010,Curtiss,4060181,0.493275453,-0.392928044,1.461210272,NA
+MEB0062,meb0062@auburn.edu,Su20,Exam 2,13,NA,Su20,21,0,21,3.41,Y,F,Caucasian / White,,NA,U,SO,202130,Curtiss,3673765,NA,NA,NA,NA
+MEH0134,meh0134@auburn.edu,Fa20,Exam 2,84,Online,Fa20,32,NA,32,4.31,N,F,Caucasian / White,Pell ineligible filer,4,U,FR,202010,Curtiss,4048923,-0.37739843,1.717988444,-1.398352788,1.181567002
+MEH0137,meh0137@auburn.edu,Fa20,Exam 2,37.5,Face to Face,Fa20,28,NA,28,4.27,N,F,Caucasian / White,Non-filer,3.57,U,FR,202010,Curtiss,4046231,-1.064048488,1.717988444,1.175928298,0.239484343
+MEM0244,mem0244@auburn.edu,Fa20,Exam 2,85.5,Online,Fa20,29,NA,29,3.97,N,F,Caucasian / White,Pell ineligible filer,2.86,U,FR,202010,Curtiss,4057007,0.922454374,1.717988444,0.463530929,-0.164064914
+MGB0048,mgb0048@auburn.edu,Su20,Exam 2,107.5,Face to Face,Su20,NA,1430,32,4.8,N,F,Hispanic,,NA,U,SO,202130,Curtiss,3995002,NA,NA,NA,NA
+MGM0082,mgm0082@auburn.edu,Fa20,Exam 2,49.5,Online,Fa20,29,NA,29,3.72,N,F,Caucasian / White,Pell ineligible filer,3.08,U,FR,202010,Curtiss,4018633,-1.192174613,1.717988444,-1.004636867,-0.679443883
+MGP0033,mgp0033@auburn.edu,Fa20,Exam 2,81,Online,Fa20,27,NA,27,4,N,F,Hispanic,Pell ineligible filer,2.93,U,FR,202010,Curtiss,4028982,0.732705239,-1.666160449,-2.376356083,-0.53203045
+MGS0074,mgs0074@auburn.edu,Fa20,Exam 2,78,Face to Face,Fa20,NA,NA,NA,NA,Y,M,Caucasian / White,,NA,U,JR,202010,Curtiss,4109700,-1.080942683,-0.042055412,-0.141480187,NA
+MGW0028,mgw0028@auburn.edu,Fa20,Exam 2,57.5,Face to Face,Fa20,NA,1370,30,4,N,F,Caucasian / White,Pell ineligible filer,2.94,U,SO,202010,Curtiss,3938605,1.045136924,1.717988444,0.934971053,0.112686068
+MHC0035,mhc0035@auburn.edu,Fa20,Exam 2,97,Face to Face,Fa20,31,NA,31,4.6,N,F,Caucasian / White,Non-filer,4,U,FR,202010,Curtiss,4006136,-0.438739705,-0.846951512,-0.026841146,1.5645011
+MIW0005,miw0005@auburn.edu,Fa20,Exam 2,81,Online,Fa20,27,NA,27,3.75,N,F,Caucasian / White,Pell ineligible filer,3.29,U,FR,202010,Curtiss,4052310,0.226574517,-1.826537368,0.580169335,-1.047409419
+MJK0045,mjk0045@auburn.edu,Su20,Exam 2,39.5,Online,Su20,0,830,15,2.16,,F,Non-Resident Alien,,NA,U,FR,202130,Curtiss,3936385,NA,NA,NA,NA
+MKH0061,mkh0061@auburn.edu,Fa20,Exam 2,34.5,Face to Face,Fa20,26,NA,26,4.22,N,F,Caucasian / White,Pell ineligible filer,2.93,U,FR,202010,Curtiss,4065383,-0.860627912,-0.087960145,-0.484971524,-0.293402463
+MKP0045,mkp0045@auburn.edu,Fa20,Exam 2,99,Face to Face,Fa20,32,NA,32,4.46,N,F,Caucasian / White,Pell ineligible filer,4,U,FR,202010,Curtiss,3926373,0.983795649,-0.327049798,1.220680671,1.490794383
+MLM0132,mlm0132@auburn.edu,Su20,Exam 2,58.5,Online,Su20,24,0,24,3.21,N,F,Caucasian / White,,NA,U,FR,202130,Curtiss,3930541,NA,NA,NA,NA
+MLM0150,mlm0150@auburn.edu,Su20,Exam 2,40.5,Online,Su20,25,NA,25,4.07,N,F,Caucasian / White,,NA,U,FR,202130,Curtiss,3941636,NA,NA,NA,NA
+MMS0121,mms0121@auburn.edu,Fa20,Exam 2,112,Online,Fa20,33,NA,33,4.33,N,F,Caucasian / White,Non-filer,4,U,FR,202010,Curtiss,3956747,0.983795649,-0.175305023,0.232559686,1.437702825
+MNB0025,mnb0025@auburn.edu,Su20,Exam 2,105,Face to Face,Su20,33,NA,33,4.14,N,F,Caucasian / White,,NA,U,FR,202130,Curtiss,3909693,NA,NA,NA,NA
+MNE0008,mne0008@auburn.edu,Fa20,Exam 2,55,NA,Fa20,29,NA,29,3.81,N,F,Caucasian / White,Non-filer,3.07,U,FR,202010,Curtiss,3928452,NA,NA,NA,-0.493907454
+MNM0064,mnm0064@auburn.edu,Fa20,Exam 2,40,Face to Face,Fa20,27,NA,27,4.27,N,F,Caucasian / White,Pell ineligible filer,3,U,FR,202010,Curtiss,4072441,0.312756117,1.717988444,1.080039048,0.024578837
+MNP0022,mnp0022@auburn.edu,Fa20,Exam 2,35,Face to Face,Fa20,29,NA,29,4.01,Y,F,Two or more races,Pell eliglble filer,2.91,U,FR,202010,Curtiss,4038397,-0.107193004,0.231597605,-1.267843448,-0.081604279
+MPB0034,mpb0034@auburn.edu,Fa20,Exam 2,67,Online,Fa20,25,NA,25,3.95,N,F,Caucasian / White,Pell ineligible filer,2.79,U,FR,202010,Curtiss,4028633,-0.131751595,-2.852027956,0.780652761,-1.064917256
+MRK0057,mrk0057@auburn.edu,Fa20,Exam 2,95,Face to Face,Fa20,31,NA,31,4.35,N,F,Caucasian / White,Pell ineligible filer,3.79,U,FR,202010,Curtiss,4052948,0.111556362,-2.730119715,0.089551775,1.049122131
+MRM0120,mrm0120@auburn.edu,Su20,Exam 2,40.5,Face to Face,Su20,30,NA,30,3.95,N,F,Caucasian / White,,NA,U,FR,202130,Curtiss,3998482,NA,NA,NA,NA
+MRW0077,mrw0077@auburn.edu,Fa20,Exam 2,39,Online,Fa20,25,NA,25,4.13,N,F,Caucasian / White,Pell ineligible filer,3.07,U,FR,202010,Curtiss,4037069,0.403097624,1.067808588,-2.214478798,-0.693844398
+MTR0033,mtr0033@auburn.edu,Fa20,Exam 2,81.5,Face to Face,Fa20,27,NA,27,4,N,F,Caucasian / White,Pell ineligible filer,4,U,FR,202010,Curtiss,4018734,-0.10913209,-0.980201122,-0.015589628,-0.53203045
+MWD0021,mwd0021@auburn.edu,Fa20,Exam 2,46.5,Online,Fa20,22,NA,22,3.6,Y,F,Caucasian / White,,NA,U,SO,202010,Curtiss,3974783,-0.582758091,-1.113450733,-0.752530058,NA
+MZB0112,mzb0112@auburn.edu,Su20,Exam 2,49,Online,Su20,25,0,25,3.66,N,F,Caucasian / White,,NA,U,FR,202130,Curtiss,3932493,NA,NA,NA,NA
+NAC0031,nac0031@auburn.edu,Fa20,Exam 2,46.5,Online,Fa20,28,NA,28,3.48,N,M,Two or more races,Pell ineligible filer,2.27,U,FR,202010,Curtiss,4109267,-1.004646298,1.5632722,0.237164504,-1.3891132
+NAJ0018,naj0018@auburn.edu,Fa20,Exam 2,95,Online,Fa20,34,NA,34,4.42,N,F,Caucasian / White,Non-filer,4,U,FR,202010,Curtiss,4056979,0.496779943,1.500365423,0.627407579,1.83814476
+NAS0063,nas0063@auburn.edu,Fa20,Exam 2,68.5,Face to Face,Fa20,NA,1180,24,4.04,N,F,Caucasian / White,Non-filer,4,U,FR,202010,Curtiss,4047734,0.665638654,-2.897932689,-0.82231663,-1.094286333
+NCY0002,ncy0002@auburn.edu,Fa20,Exam 2,86.5,Face to Face,Fa20,28,NA,28,3.88,N,M,Caucasian / White,Non-filer,4,U,FR,202010,Curtiss,4055904,0.788321204,-3.238680059,1.318569285,-0.564506849
+NFJ0003,nfj0003@auburn.edu,Fa20,Exam 2,44,Online,Fa20,25,NA,25,4.17,N,F,Caucasian / White,Pell ineligible filer,3.12,U,FR,202010,Curtiss,3859828,0.721254619,1.717988444,-0.420496347,-0.611383763
+NJK0009,njk0009@auburn.edu,Fa20,Exam 2,97,Online,Fa20,27,NA,27,4.33,N,F,Caucasian / White,Pell eliglble filer,4,U,FR,202010,Curtiss,3985386,0.032665476,0.431941569,-2.011935287,0.148269789
+NPY0001,npy0001@auburn.edu,Su20,Exam 2,83.5,Online,Su20,33,NA,33,4.03,Y,M,Caucasian / White,,NA,U,FR,202130,Curtiss,3993156,NA,NA,NA,NA
+NZB0052,nzb0052@auburn.edu,Su20,Exam 2,60,Face to Face,Su20,NA,NA,NA,NA,,F,Native Hawaiian or Pacific Islander,,NA,U,FR,202130,Curtiss,4137968,NA,NA,NA,NA
+OPF0002,opf0002@auburn.edu,Fa20,Exam 2,46.5,NA,Fa20,24,NA,24,3.41,N,F,Caucasian / White,Non-filer,2.97,U,FR,202010,Curtiss,3991547,NA,NA,NA,-2.393041335
+PAE0007,pae0007@auburn.edu,Fa20,Exam 2,69,Face to Face,Fa20,29,NA,29,4.33,N,M,Hispanic,Pell ineligible filer,3.07,U,FR,202010,Curtiss,4024422,1.045136924,0.958997077,1.269918279,0.578080801
+PTA0003,pta0003@auburn.edu,Fa20,Exam 2,102.5,Online,Fa20,35,NA,35,4.54,N,M,Asian,Pell ineligible filer,4,U,JR,202010,Curtiss,3873301,0.088281441,-2.533963327,1.125277928,2.300432171
+PZX0005,pzx0005@auburn.edu,Su20,Exam 2,43,Online,Su20,NA,NA,NA,NA,,M,Non-Resident Alien,,NA,U,FR,202130,Curtiss,3925226,NA,NA,NA,NA
+RAS0097,ras0097@auburn.edu,Fa20,Exam 2,72,Online,Fa20,28,NA,28,4.48,N,F,Caucasian / White,Pell ineligible filer,3.49,U,FR,202010,Curtiss,3975726,-0.858688827,-1.742163957,-0.939235435,0.672402677
+RBJ0012,rbj0012@auburn.edu,Fa20,Exam 2,81,Online,Fa20,33,NA,33,4.31,N,M,Caucasian / White,Pell ineligible filer,4,U,FR,202010,Curtiss,3984565,-0.011126188,-2.259094203,-0.141480187,1.396472508
+RCS0065,rcs0065@auburn.edu,Fa20,Exam 2,65,NA,Fa20,31,NA,31,3.78,N,M,Caucasian / White,Pell ineligible filer,2.71,U,FR,202010,Curtiss,4026305,NA,NA,NA,-0.125941919
+REC0056,rec0056@auburn.edu,Fa20,Exam 2,55.5,Online,Fa20,28,NA,28,4.31,N,F,Caucasian / White,Pell eliglble filer,2.2,U,FR,202010,Curtiss,3970532,-0.137476905,1.717988444,-0.928484385,0.321944978
+RFS0018,rfs0018@auburn.edu,Su20,Exam 2,83,Face to Face,Su20,35,NA,35,4.19,Y,M,Caucasian / White,,NA,U,SO,202130,Curtiss,3925848,NA,NA,NA,NA
+RMB0072,rmb0072@auburn.edu,Fa20,Exam 2,38.5,Online,Fa20,NA,1230,26,3.85,N,F,Caucasian / White,Pell ineligible filer,2.31,U,FR,202010,Curtiss,4057376,0.226574517,1.717988444,0.674645823,-1.056163337
+RMG0041,rmg0041@auburn.edu,Su20,Exam 2,36.5,Online,Su20,30,0,30,3.86,,F,Caucasian / White,,NA,U,FR,202130,Curtiss,3809697,NA,NA,NA,NA
+RMW0034,rmw0034@auburn.edu,Su20,Exam 2,30.5,Online,Su20,25,0,25,4.19,Y,F,Caucasian / White,,NA,U,SO,202130,Curtiss,3613848,NA,NA,NA,NA
+RNS0019,rns0019@auburn.edu,Fa20,Exam 2,85.5,Face to Face,Fa20,34,NA,34,4.56,N,F,Caucasian / White,Pell ineligible filer,4,U,JR,202010,Curtiss,4011034,0.427774272,-2.392343814,0.069695426,2.126756983
+RSL0015,rsl0015@auburn.edu,Fa20,Exam 2,51,Face to Face,Fa20,27,NA,27,4.01,N,M,Asian,Pell ineligible filer,3.19,U,FR,202010,Curtiss,4033871,-0.465519116,1.717988444,0.762976079,-0.511415291
+RZS0107,rzs0107@auburn.edu,Fa20,Exam 2,104.5,Face to Face,Fa20,29,NA,29,4.45,N,F,Caucasian / White,Pell ineligible filer,4,U,FR,202010,Curtiss,4031142,0.312756117,-0.583423757,0.079813115,0.825462706
+SAB0124,sab0124@auburn.edu,Fa20,Exam 2,96,NA,Fa20,29,NA,29,4.36,N,F,Caucasian / White,Non-filer,3.57,U,FR,202010,Curtiss,3984072,NA,NA,NA,0.639926277
+SAH0078,sah0078@auburn.edu,Su20,Exam 2,43,Face to Face,Su20,28,0,28,3.75,N,F,Caucasian / White,,NA,U,FR,202130,Curtiss,3944343,NA,NA,NA,NA
+SAT0048,sat0048@auburn.edu,Fa20,Exam 2,94.5,Online,Fa20,31,NA,31,3.96,N,M,Caucasian / White,Pell eliglble filer,3.79,U,FR,202010,Curtiss,3970760,-0.028675799,-1.067546,-0.053149931,0.245130939
+SDK0015,sdk0015@auburn.edu,Fa20,Exam 2,74,Online,Fa20,31,NA,31,4.33,N,M,Caucasian / White,Pell ineligible filer,3.08,U,FR,202010,Curtiss,3986648,-0.716609526,-1.584476246,-0.454970214,1.007891813
+SEJ0033,sej0033@auburn.edu,Fa20,Exam 2,22,NA,Fa20,NA,1180,24,2.74,,F,Black or African American,Pell ineligible filer,2.16,U,SO,202010,Curtiss,3933696,NA,NA,NA,-3.774256972
+SEK0047,sek0047@auburn.edu,Fa20,Exam 2,84.5,Face to Face,Fa20,NA,1340,29,4.45,N,F,Caucasian / White,Pell ineligible filer,4,U,FR,202010,Curtiss,4068039,0.234238912,0.934558977,-0.207954729,0.825462706
+SGH0040,sgh0040@auburn.edu,Fa20,Exam 2,34,Face to Face,Fa20,29,NA,29,4.06,Y,F,Caucasian / White,Pell ineligible filer,3.82,U,FR,202010,Curtiss,4033757,0.855387789,-0.980201122,0.080786128,0.021471515
+SGW0033,sgw0033@auburn.edu,Fa20,Exam 2,63,Face to Face,Fa20,30,NA,30,4.06,N,F,Caucasian / White,Pell ineligible filer,3.53,U,FR,202010,Curtiss,4053221,0.569571838,-0.477583714,-1.306142101,0.236377021
+SHP0019,shp0019@auburn.edu,Fa20,Exam 2,74,Online,Fa20,33,NA,33,4.21,N,M,Caucasian / White,Pell ineligible filer,4,U,SO,202010,Curtiss,3986074,-0.448624921,1.717988444,-0.170286949,1.19032092
+SJW0069,sjw0069@auburn.edu,Fa20,Exam 2,63.5,Online,Fa20,30,NA,30,4.42,N,F,Caucasian / White,Pell ineligible filer,3.8,U,FR,202010,Curtiss,3971449,0.026940166,0.428970101,-1.962697679,0.978522736
+SKH0050,skh0050@auburn.edu,Fa20,Exam 2,59.5,Online,Fa20,28,NA,28,4.3,N,F,Caucasian / White,Pell ineligible filer,3.57,U,FR,202010,Curtiss,3955316,-0.529081211,1.5632722,0.647144346,0.301329819
+SLC0049,slc0049@auburn.edu,Su20,Exam 2,95,Face to Face,Su20,33,0,33,4.4,N,F,Caucasian / White,,NA,U,FR,202130,Curtiss,3820859,NA,NA,NA,NA
+SLO0015,slo0015@auburn.edu,Fa20,Exam 2,81.5,Face to Face,Fa20,NA,1150,23,4.11,,F,Caucasian / White,Non-filer,3.46,U,FR,202010,Curtiss,4007187,-0.463580031,-0.186646393,0.091431557,-1.164885728
+SMH0089,smh0089@auburn.edu,Fa20,Exam 2,86.5,Face to Face,Fa20,33,0,33,4.03,Y,F,Caucasian / White,Pell eliglble filer,3.07,U,SO,202010,Curtiss,3811137,-1.014157833,1.408555957,1.31949554,0.819248062
+SML0063,sml0063@auburn.edu,Fa20,Exam 2,49.5,Online,Fa20,35,NA,35,4.34,N,F,Two or more races,Pell ineligible filer,4,U,SO,202010,Curtiss,4038140,-0.168534279,1.717988444,-0.072459054,1.888128996
+SPK0017,spk0017@auburn.edu,Fa20,Exam 2,88.5,Face to Face,Fa20,30,NA,30,4.31,N,F,Caucasian / White,Pell ineligible filer,4,U,FR,202010,Curtiss,4038098,-0.805011947,-0.020588779,-0.015589628,0.75175599
+SRL0031,srl0031@auburn.edu,Fa20,Exam 2,51,Online,Fa20,31,NA,31,3.79,N,F,Caucasian / White,Non-filer,2.57,U,FR,202010,Curtiss,4068466,-0.107193004,1.717988444,-1.388335195,-0.10532676
+SRS0082,srs0082@auburn.edu,Fa20,Exam 2,89.5,Online,Fa20,31,NA,31,4.8,Y,F,Caucasian / White,Pell ineligible filer,4,U,FR,202010,Curtiss,3928708,-0.235600864,1.500365423,1.175928298,1.976804275
+TAJ0026,taj0026@auburn.edu,Fa20,Exam 2,70,Face to Face,Fa20,30,NA,30,4.24,N,M,Caucasian / White,Pell ineligible filer,3.5,U,FR,202010,Curtiss,3997970,-0.596147796,0.692497855,-0.166862717,0.607449878
+TBD0020,tbd0020@auburn.edu,Fa20,Exam 2,99,Online,Fa20,26,NA,26,3.84,,M,Non-Resident Alien,Non-filer,3.07,U,FR,202010,Curtiss,4081663,-0.542470917,-0.407240881,1.461210272,-1.076778496
+TBT0009,tbt0009@auburn.edu,Fa20,Exam 2,65,Face to Face,Fa20,0,1290,27,3.86,N,M,Caucasian / White,Non-filer,3,U,FR,202010,Curtiss,3932733,-1.008150788,-0.95873449,-0.994519178,-0.820642673
+THD0012,thd0012@auburn.edu,Fa20,Exam 2,19,Online,Fa20,23,NA,23,3.31,Y,F,Asian,Non-filer,2.7,U,FR,202010,Curtiss,4041499,-2.034011941,1.717988444,-0.606743772,-2.814098428
+TJD0039,tjd0039@auburn.edu,Fa20,Exam 2,34,Online,Fa20,25,NA,25,3.81,N,M,Caucasian / White,Pell ineligible filer,2.58,U,FR,202010,Curtiss,4024408,-0.262380275,1.717988444,-0.188231925,-1.353529478
+TKJ0009,tkj0009@auburn.edu,Fa20,Exam 2,77.5,Face to Face,Fa20,33,NA,33,3.72,N,M,Caucasian / White,Pell ineligible filer,3.6,U,SO,202010,Curtiss,4023440,0.978070339,-1.0431079,-1.725140455,0.180178141
+TMK0024,tmk0024@auburn.edu,Fa20,Exam 2,104.5,Face to Face,Fa20,31,NA,31,4.46,N,F,Caucasian / White,Pell ineligible filer,3.09,U,FR,202010,Curtiss,3904910,0.094006751,-0.150866922,0.638011774,1.275888877
+TNH0020,tnh0020@auburn.edu,Fa20,Exam 2,53,Face to Face,Fa20,24,NA,24,4.54,N,F,Caucasian / White,Pell ineligible filer,3.59,U,FR,202010,Curtiss,3993377,0.226574517,1.321211079,-0.808180725,-0.063528395
+TPB0014,tpb0014@auburn.edu,Fa20,Exam 2,58,Face to Face,Fa20,27,NA,27,3.84,N,M,Caucasian / White,Non-filer,2.58,U,FR,202010,Curtiss,3980664,-0.19881818,-0.2382118,0.636599013,-0.86187299
+TPW0012,tpw0012@auburn.edu,Fa20,Exam 2,23,Online,Fa20,20,0,20,3.84,Y,F,Black or African American,Pell eliglble filer,1.92,U,FR,202010,Curtiss,3697988,-0.174259589,1.222524831,-1.41411624,-2.366211532
+TSG0008,tsg0008@auburn.edu,Su20,Exam 2,42,Online,Su20,33,NA,33,4.2,N,M,Caucasian / White,,NA,U,FR,202130,Curtiss,3910485,NA,NA,NA,NA
+TWK0005,twk0005@auburn.edu,Fa20,Exam 2,104,Online,Fa20,31,NA,31,4.28,N,M,Caucasian / White,Pell ineligible filer,4,U,FR,202010,Curtiss,4027208,-0.519195996,-1.584476246,-1.09036167,0.904816019
+TXK0002,txk0002@auburn.edu,Fa20,Exam 2,0,NA,Fa20,29,NA,29,3.41,Y,M,Black or African American,Pell ineligible filer,2.08,U,FR,202010,Curtiss,3981496,NA,NA,NA,-1.318513805
+VKB0008,vkb0008@auburn.edu,Fa20,Exam 2,97.5,Face to Face,Fa20,31,NA,31,4.28,N,F,Caucasian / White,Pell ineligible filer,4,U,FR,202010,Curtiss,3970513,-1.876885585,1.253839714,0.232559686,0.904816019
+VSP0002,vsp0002@auburn.edu,Fa20,Exam 2,63,Online,Fa20,28,NA,28,3.97,N,F,Caucasian / White,Non-filer,3.5,U,FR,202010,Curtiss,4018702,0.151843536,1.717988444,0.655896031,-0.37897042
+VZL0008,vzl0008@auburn.edu,Fa20,Exam 2,98,Online,Fa20,29,NA,29,4.15,N,M,Asian,Pell eliglble filer,3.71,U,FR,202010,Curtiss,4042299,0.368372082,-3.635457424,-0.195630101,0.207007943
+WDM0027,wdm0027@auburn.edu,Su20,Exam 2,70,Face to Face,Su20,34,NA,34,4.01,N,M,Caucasian / White,,NA,U,FR,202130,Curtiss,3929303,NA,NA,NA,NA
+WGA0007,wga0007@auburn.edu,Fa20,Exam 2,53,NA,Fa20,30,NA,30,4,N,M,Caucasian / White,Pell ineligible filer,4,U,FR,202010,Curtiss,4043123,NA,NA,NA,0.112686068
+WHR0008,whr0008@auburn.edu,Fa20,Exam 2,69.5,Online,Fa20,32,NA,32,3.53,N,M,Caucasian / White,Pell ineligible filer,2.33,U,FR,202010,Curtiss,4060360,-0.718830346,1.212399568,-0.351035465,-0.426415382
+WKS0008,wks0008@auburn.edu,Fa20,Exam 2,94,NA,Fa20,31,NA,31,4.41,N,M,Caucasian / White,Non-filer,3.79,U,FR,202010,Curtiss,3960398,NA,NA,NA,1.172813083
+WLP0007,wlp0007@auburn.edu,Su20,Exam 2,49,Online,Su20,NA,1330,29,3.71,N,M,Caucasian / White,,NA,U,FR,202130,Curtiss,3993759,NA,NA,NA,NA
+WSP0015,wsp0015@auburn.edu,Fa20,Exam 2,50.5,NA,Fa20,33,NA,33,3.8,N,M,Caucasian / White,Pell eliglble filer,2.8,U,FR,202010,Curtiss,4010142,NA,NA,NA,0.345099411
+WWT0005,wwt0005@auburn.edu,Fa20,Exam 2,81,Online,Fa20,26,NA,26,3.98,N,M,Caucasian / White,Non-filer,3.5,U,FR,202010,Curtiss,4029167,0.318481428,0.741374056,-0.368612051,-0.788166273
+WZH0033,wzh0033@auburn.edu,Fa20,Exam 2,53,Online,Fa20,NA,NA,NA,NA,,M,Non-Resident Alien,Non-filer,2.73,U,FR,202010,Curtiss,3992741,0.368372082,1.717988444,0.981663928,NA
+ZEC0004,zec0004@auburn.edu,Fa20,Exam 2,104,Face to Face,Fa20,NA,1260,27,3.92,N,M,Caucasian / White,Non-filer,3.57,U,FR,202010,Curtiss,4069170,-0.381558336,-1.913882246,0.85426051,-0.69695172
+ZTB0011,ztb0011@auburn.edu,Fa20,Exam 2,79.5,Face to Face,Fa20,NA,1310,28,4.75,N,M,Caucasian / White,Pell ineligible filer,3.54,U,JR,202010,Curtiss,4023489,-2.012957841,-1.974099816,-2.167240554,1.229011963
+ZZW0050,zzw0050@auburn.edu,Su20,Exam 2,33,Online,Su20,NA,NA,NA,NA,,M,Non-Resident Alien,,NA,U,FR,202130,Curtiss,3911610,NA,NA,NA,NA
+AAP0049,aap0049@auburn.edu,Su20,Exam 3,62,Face to Face,Su20,32,NA,32,4.57,N,F,Caucasian / White,,NA,U,FR,202130,Curtiss,3934831,NA,NA,NA,NA
+AAR0036,aar0036@auburn.edu,Su20,Exam 3,72.5,Online,Su20,22,0,22,4.07,Y,F,Two or more races,,NA,U,FR,202130,Curtiss,3843719,NA,NA,NA,NA
+AAT0038,aat0038@auburn.edu,Fa20,Exam 3,40,Face to Face,Fa20,26,NA,26,4.05,N,F,Caucasian / White,Pell eliglble filer,3.07,U,FR,202010,Curtiss,4061986,-0.676604087,1.717988444,-0.984354731,-0.643860162
+ABM0054,abm0054@auburn.edu,Fa20,Exam 3,86,NA,Fa20,28,NA,28,NA,N,F,Two or more races,,NA,U,JR,202010,Curtiss,3890541,NA,NA,NA,NA
+ABR0032,abr0032@auburn.edu,Su20,Exam 3,57,Online,Su20,30,NA,30,4.57,N,F,Two or more races,,NA,U,SO,202130,Curtiss,3912438,NA,NA,NA,NA
+ABR0033,abr0033@auburn.edu,Fa20,Exam 3,102,Face to Face,Fa20,34,NA,34,4.4,N,M,Caucasian / White,Pell ineligible filer,4,U,SO,202010,Curtiss,3911101,0.861113099,-1.968156881,1.271331041,1.796914442
+ACA0044,aca0044@auburn.edu,Su20,Exam 3,53,Online,Su20,22,NA,22,NA,Y,F,Hispanic,,NA,U,JR,202130,Curtiss,3921197,NA,NA,NA,NA
+ACA0044,aca0044@auburn.edu,Su20,Exam 3,53,Online,Su20,NA,NA,NA,NA,,F,Hispanic,,NA,P,P1,202130,Curtiss,3921197,NA,NA,NA,NA
+ACC0130,acc0130@auburn.edu,Fa20,Exam 3,50,Online,Fa20,32,NA,32,4.23,N,F,Caucasian / White,Pell ineligible filer,3.5,U,FR,202010,Curtiss,3954511,-0.040126419,-2.852027956,1.222680035,1.016645732
+ACT0044,act0044@auburn.edu,Su20,Exam 3,63,Face to Face,Su20,31,NA,31,4.5,N,F,Caucasian / White,,NA,U,FR,202130,Curtiss,3960070,NA,NA,NA,NA
+ADH0069,adh0069@auburn.edu,Su20,Exam 3,NA,NA,Su20,NA,NA,NA,NA,,F,Caucasian / White,,NA,U,SO,202130,Curtiss,3961041,NA,NA,NA,NA
+ADH0074,adh0074@auburn.edu,Fa20,Exam 3,16,NA,Fa20,33,NA,33,4.14,N,F,Black or African American,Pell ineligible filer,2.4,U,SO,202010,Curtiss,3926027,NA,NA,NA,1.046014809
+ADS0074,ads0074@auburn.edu,Fa20,Exam 3,70,Online,Fa20,31,NA,31,4.45,N,F,Caucasian / White,Pell ineligible filer,3.6,U,FR,202010,Curtiss,3995485,0.922454374,-1.805070735,0.715737835,1.255273718
+AEB0128,aeb0128@auburn.edu,Fa20,Exam 3,38,Face to Face,Fa20,26,NA,26,4.09,Y,F,Caucasian / White,Pell ineligible filer,2.71,U,FR,202010,Curtiss,3983545,0.983795649,0.572344975,1.318569285,-0.561399527
+AEB0158,aeb0158@auburn.edu,Fa20,Exam 3,70,Online,Fa20,27,NA,27,NA,,F,Caucasian / White,,NA,U,JR,202010,Curtiss,4155399,0.218910122,0.154100977,1.461210272,NA
+AEC0098,aec0098@auburn.edu,Fa20,Exam 3,42.5,Face to Face,Fa20,29,NA,29,4.55,N,F,Caucasian / White,Pell ineligible filer,3.36,U,FR,202010,Curtiss,4050781,0.776870584,1.717988444,0.762976079,1.031614294
+AEC0121,aec0121@auburn.edu,Fa20,Exam 3,70.5,NA,Fa20,31,NA,31,4.31,N,F,Caucasian / White,,NA,U,SO,202010,Curtiss,3898355,NA,NA,NA,NA
+AEG0055,aeg0055@auburn.edu,Fa20,Exam 3,51,Online,Fa20,31,NA,31,4.6,N,F,Caucasian / White,Pell ineligible filer,3.81,U,FR,202010,Curtiss,4006215,0.861113099,-2.907780939,0.011325246,1.5645011
+AEJ0035,aej0035@auburn.edu,Su20,Exam 3,65,Online,Su20,26,0,26,4.37,N,F,Caucasian / White,,NA,U,FR,202130,Curtiss,3934565,NA,NA,NA,NA
+AES0063,aes0063@auburn.edu,Su20,Exam 3,NA,NA,Su20,30,0,30,3.67,N,F,Hispanic,,NA,U,FR,202130,Curtiss,3683985,NA,NA,NA,NA
+AFP0025,afp0025@auburn.edu,Fa20,Exam 3,35,Online,Fa20,NA,NA,NA,NA,,F,Caucasian / White,,NA,U,SR,202010,Curtiss,4121140,0.531505484,-0.779580146,-1.273109551,NA
+AGS0071,ags0071@auburn.edu,Fa20,Exam 3,43,Online,Fa20,31,NA,31,4.16,N,F,Caucasian / White,Non-filer,3.75,U,FR,202010,Curtiss,3970750,-0.24326526,1.609176933,-0.410877269,0.657434114
+AJM0120,ajm0120@auburn.edu,Fa20,Exam 3,92.5,Online,Fa20,34,NA,34,4.05,N,M,Caucasian / White,Non-filer,4,U,FR,202010,Curtiss,4024624,-0.162808969,-1.717725857,-0.110992371,1.075383886
+AJO0019,ajo0019@auburn.edu,Fa20,Exam 3,45.5,Face to Face,Fa20,31,NA,31,4.45,Y,F,Caucasian / White,Pell ineligible filer,3.29,U,FR,202010,Curtiss,3910538,-0.448624921,1.057683325,0.165098169,1.255273718
+AJR0053,ajr0053@auburn.edu,Fa20,Exam 3,19,Online,Fa20,29,0,29,3.71,N,F,Caucasian / White,Non-filer,2.52,U,FR,202010,Curtiss,3831362,-2.254326712,1.5632722,0.770535072,-0.700059042
+AJW0093,ajw0093@auburn.edu,Fa20,Exam 3,42,Face to Face,Fa20,22,NA,22,4.12,N,F,Caucasian / White,Pell ineligible filer,3.33,U,FR,202010,Curtiss,4010083,0.861113099,1.500365423,0.13927589,-1.359176075
+AKH0053,akh0053@auburn.edu,Su20,Exam 3,71.75,Online,Su20,31,NA,31,3.56,N,F,Two or more races,,NA,U,FR,202130,Curtiss,3955084,NA,NA,NA,NA
+AKL0049,akl0049@auburn.edu,Fa20,Exam 3,74,Online,Fa20,29,NA,29,4.08,N,M,Caucasian / White,Non-filer,3.57,U,FR,202010,Curtiss,4053835,0.794046514,-2.114503222,1.030314933,0.062701832
+ALH0137,alh0137@auburn.edu,Fa20,Exam 3,38.5,Online,Fa20,32,NA,32,4.33,,F,Caucasian / White,,NA,U,JR,202010,Curtiss,3997127,0.654188034,1.717988444,-1.803792771,NA
+ALN0030,aln0030@auburn.edu,Fa20,Exam 3,57,Online,Fa20,26,NA,26,4.27,N,M,Caucasian / White,Pell ineligible filer,3.5,U,FR,202010,Curtiss,4062619,0.903339359,0.608124445,-0.678309639,-0.190326669
+AMC0166,amc0166@auburn.edu,Fa20,Exam 3,47.9,Online,Fa20,NA,1250,26,4.97,N,F,Caucasian / White,Pell ineligible filer,3.96,U,FR,202010,Curtiss,3875957,0.861113099,-3.635457424,-0.042338161,1.252734444
+AMG0106,amg0106@auburn.edu,Su20,Exam 3,92.5,Online,Su20,25,0,25,4.01,N,F,Caucasian / White,,NA,U,FR,202130,Curtiss,3795747,NA,NA,NA,NA
+AMK0095,amk0095@auburn.edu,Fa20,Exam 3,32,Online,Fa20,30,NA,30,4.24,N,F,Two or more races,Pell ineligible filer,4,U,FR,202010,Curtiss,4016670,1.045136924,-3.635457424,1.461210272,0.607449878
+ANC0057,anc0057@auburn.edu,Fa20,Exam 3,18.5,NA,Fa20,27,0,27,3.71,N,F,Caucasian / White,Pell ineligible filer,2.71,U,FR,202010,Curtiss,3930304,NA,NA,NA,-1.129870054
+ANC0070,anc0070@auburn.edu,Fa20,Exam 3,28,Online,Fa20,30,NA,30,4.06,Y,F,Caucasian / White,Pell ineligible filer,2.4,U,FR,202010,Curtiss,3978553,0.159507932,0.671031223,-0.170347668,0.236377021
+ANG0047,ang0047@auburn.edu,Fa20,Exam 3,67.5,Face to Face,Fa20,31,NA,31,4.31,N,F,Caucasian / White,Pell ineligible filer,3.73,U,FR,202010,Curtiss,4024448,0.849662479,-2.488058594,0.483693482,0.966661496
+ANG0049,ang0049@auburn.edu,Su20,Exam 3,61,Online,Su20,31,NA,31,4.34,,F,Caucasian / White,,NA,U,SR,202130,Curtiss,3111091,NA,NA,NA,NA
+ANH0062,anh0062@auburn.edu,Su20,Exam 3,32,Online,Su20,34,0,34,3.76,N,F,Caucasian / White,,NA,U,FR,202130,Curtiss,3845174,NA,NA,NA,NA
+ARK0048,ark0048@auburn.edu,Fa20,Exam 3,23,Face to Face,Fa20,NA,1370,30,3.88,N,F,Caucasian / White,Pell ineligible filer,3.45,U,FR,202010,Curtiss,4063498,-1.008150788,1.717988444,1.270404786,-0.134695837
+ART0043,art0043@auburn.edu,Fa20,Exam 3,38.5,Online,Fa20,27,NA,27,4.14,N,F,Caucasian / White,Non-filer,3.5,U,FR,202010,Curtiss,4059870,0.569571838,1.45446069,1.461210272,-0.243418227
+ASH0063,ash0063@auburn.edu,Su20,Exam 3,62,Face to Face,Su20,25,NA,25,3.81,N,F,Caucasian / White,,NA,U,FR,202130,Curtiss,3980767,NA,NA,NA,NA
+ASK0051,ask0051@auburn.edu,Fa20,Exam 3,75,Face to Face,Fa20,31,NA,31,4.19,Y,M,Two or more races,Pell ineligible filer,4,U,SO,202010,Curtiss,4054083,0.715529309,-3.235708591,1.413972028,0.71927959
+ATB0052,atb0052@auburn.edu,Fa20,Exam 3,78.5,Face to Face,Fa20,32,NA,32,4.99,N,F,Caucasian / White,Pell ineligible filer,3.79,U,FR,202010,Curtiss,3928804,-0.732220052,-0.530642242,-0.207468223,2.583397797
+AZA0153,aza0153@auburn.edu,Su20,Exam 3,92.75,Online,Su20,NA,NA,NA,NA,,M,Non-Resident Alien,,NA,U,FR,202130,Curtiss,3950803,NA,NA,NA,NA
+AZW0109,azw0109@auburn.edu,Su20,Exam 3,36.5,Online,Su20,NA,930,17,3.38,,F,Caucasian / White,,NA,U,FR,202130,Curtiss,3894352,NA,NA,NA,NA
+BAB0089,bab0089@auburn.edu,Su20,Exam 3,25,Online,Su20,0,1300,28,4.21,N,F,Caucasian / White,,NA,U,FR,202130,Curtiss,3678955,NA,NA,NA,NA
+BAH0074,bah0074@auburn.edu,Fa20,Exam 3,40.5,Online,Fa20,29,NA,29,4.19,N,M,Caucasian / White,Pell ineligible filer,3.38,U,FR,202010,Curtiss,3984559,-0.438739705,-0.392928044,-0.562110982,0.289468579
+BAN0019,ban0019@auburn.edu,Fa20,Exam 3,81.5,NA,Fa20,NA,1300,28,4.03,N,F,Caucasian / White,Pell ineligible filer,3.73,U,FR,202010,Curtiss,4049618,NA,NA,NA,-0.255279468
+BDP0041,bdp0041@auburn.edu,Fa20,Exam 3,16.5,NA,Fa20,NA,NA,NA,3.71,Y,F,Caucasian / White,,NA,U,JR,202010,Curtiss,3915949,NA,NA,NA,NA
+BEC0035,bec0035@auburn.edu,Fa20,Exam 3,82.5,Online,Fa20,31,NA,31,4.31,N,M,Two or more races,Pell ineligible filer,4,U,FR,202010,Curtiss,4016505,-1.668021435,1.5632722,0.346831804,0.966661496
+BEP0015,bep0015@auburn.edu,Fa20,Exam 3,22.9,Online,Fa20,28,NA,28,4.16,N,F,Caucasian / White,Pell ineligible filer,3.86,U,SO,202010,Curtiss,3952767,0.190073567,0.431941569,-1.292932452,0.012717596
+BFM0010,bfm0010@auburn.edu,Fa20,Exam 3,29.5,Online,Fa20,NA,NA,NA,NA,Y,F,Caucasian / White,,NA,U,JR,202010,Curtiss,4117690,0.397372314,-1.192163469,1.032361056,NA
+BGM0020,bgm0020@auburn.edu,Fa20,Exam 3,45,Face to Face,Fa20,25,NA,25,4.03,N,M,Caucasian / White,Pell ineligible filer,3.5,U,FR,202010,Curtiss,4080379,0.021214856,0.801309366,0.484766592,-0.899995986
+BGW0012,bgw0012@auburn.edu,Fa20,Exam 3,53.5,Online,Fa20,NA,1400,31,3.78,N,F,Caucasian / White,Non-filer,4,U,FR,202010,Curtiss,4040566,-0.310331845,0.417628731,-0.477412531,-0.125941919
+BMM0063,bmm0063@auburn.edu,Fa20,Exam 3,32,Online,Fa20,31,NA,31,4.09,N,F,Caucasian / White,Pell ineligible filer,3.25,U,FR,202010,Curtiss,4009922,-0.718830346,-1.296510392,-0.954353421,0.513128003
+BMM0070,bmm0070@auburn.edu,Fa20,Exam 3,106,Face to Face,Fa20,24,NA,24,4.03,N,M,Caucasian / White,Pell ineligible filer,4,U,FR,202010,Curtiss,4079950,0.799771824,-1.594601509,1.461210272,-1.114901492
+BOM0005,bom0005@auburn.edu,Fa20,Exam 3,38.5,Online,Fa20,32,NA,32,3.76,N,F,Caucasian / White,Non-filer,3.17,U,FR,202010,Curtiss,4041783,-1.428099909,1.717988444,-0.617008316,0.04773327
+BTP0013,btp0013@auburn.edu,Su20,Exam 3,55.5,Online,Su20,28,0,28,4.05,Y,M,Caucasian / White,,NA,U,FR,202130,Curtiss,3912262,NA,NA,NA,NA
+BVB0006,bvb0006@auburn.edu,Fa20,Exam 3,40.5,Online,Fa20,30,NA,30,4.17,N,F,Caucasian / White,Non-filer,3.21,U,FR,202010,Curtiss,4009675,0.105831052,1.717988444,0.243750485,0.463143767
+BWM0022,bwm0022@auburn.edu,Fa20,Exam 3,54,NA,Fa20,30,NA,30,4.05,N,M,Caucasian / White,Non-filer,3.73,U,FR,202010,Curtiss,4028930,NA,NA,NA,0.215761862
+CDC0077,cdc0077@auburn.edu,Fa20,Exam 3,60.5,NA,Fa20,28,NA,28,3.95,N,M,Caucasian / White,Pell ineligible filer,3.77,U,FR,202010,Curtiss,4016513,-1.082881768,-1.693287757,-0.436220422,-0.420200738
+CED0065,ced0065@auburn.edu,Fa20,Exam 3,29,Online,Fa20,31,NA,31,4.41,N,F,Caucasian / White,Pell ineligible filer,3.8,U,FR,202010,Curtiss,3984048,1.045136924,1.609176933,0.991828375,1.172813083
+CEG0054,ceg0054@auburn.edu,Su20,Exam 3,76.5,Face to Face,Su20,32,NA,32,4.43,N,F,Caucasian / White,,NA,U,FR,202130,Curtiss,3985866,NA,NA,NA,NA
+CGG0031,cgg0031@auburn.edu,Fa20,Exam 3,45.5,Online,Fa20,25,NA,25,3.82,N,M,Caucasian / White,Pell ineligible filer,3.53,U,FR,202010,Curtiss,4040330,0.627408623,1.717988444,1.125277928,-1.33291432
+CGJ0018,cgj0018@auburn.edu,Fa20,Exam 3,23.5,Online,Fa20,21,NA,21,3.57,N,F,Black or African American,Pell eliglble filer,2.38,U,FR,202010,Curtiss,3983170,-0.38312374,1.717988444,1.365807529,-2.707915313
+CGL0015,cgl0015@auburn.edu,Fa20,Exam 3,74.5,Face to Face,Fa20,32,NA,32,4.4,N,F,Caucasian / White,Non-filer,3.5,U,FR,202010,Curtiss,3959800,0.307030807,-0.93429639,0.386877978,1.36710343
+CJK0048,cjk0048@auburn.edu,Fa20,Exam 3,83.5,Face to Face,Fa20,35,NA,35,4.19,N,M,Caucasian / White,Pell eliglble filer,4,U,FR,202010,Curtiss,3954489,0.103891967,-0.000615266,0.356876668,1.578901614
+CLC0133,clc0133@auburn.edu,Fa20,Exam 3,81,Face to Face,Fa20,27,NA,27,4.04,N,M,Caucasian / White,Pell ineligible filer,3.8,U,FR,202010,Curtiss,3993993,-0.37739843,-1.76363059,0.176188871,-0.449569815
+CLH0103,clh0103@auburn.edu,Su20,Exam 3,90.5,Face to Face,Su20,25,NA,25,NA,Y,M,Caucasian / White,,NA,U,JR,202130,Curtiss,3795296,NA,NA,NA,NA
+CMB0195,cmb0195@auburn.edu,Fa20,Exam 3,89,Face to Face,Fa20,32,NA,32,4.08,N,F,Caucasian / White,Pell ineligible filer,4,U,SO,202010,Curtiss,3928128,0.385548013,-0.351487899,0.59849334,0.70741835
+CMC0195,cmc0195@auburn.edu,Fa20,Exam 3,39,Face to Face,Fa20,28,NA,28,4.2,N,F,Caucasian / White,,NA,U,JR,202010,Curtiss,3983573,-0.50580629,1.253839714,-2.701584134,NA
+CML0082,cml0082@auburn.edu,Fa20,Exam 3,61.5,Face to Face,Fa20,30,NA,30,4.3,N,F,Asian,Pell ineligible filer,3.63,U,FR,202010,Curtiss,4063765,0.032665476,0.28437912,0.011925812,0.731140831
+CMM0216,cmm0216@auburn.edu,Fa20,Exam 3,34,Face to Face,Fa20,NA,NA,NA,NA,,M,Caucasian / White,,NA,G,PHD,202010,Curtiss,4152437,0.048276002,0.871652199,0.263959796,NA
+CNF0022,cnf0022@auburn.edu,Fa20,Exam 3,58.5,Online,Fa20,23,NA,23,4.29,N,F,Caucasian / White,Pell ineligible filer,2.45,U,FR,202010,Curtiss,4009775,0.978070339,1.717988444,1.04155249,-0.79381287
+CPM0050,cpm0050@auburn.edu,Fa20,Exam 3,32,Face to Face,Fa20,30,NA,30,3.73,N,F,Caucasian / White,Non-filer,2,U,FR,202010,Curtiss,4065927,-0.37167312,0.112660832,-1.870340138,-0.443923219
+CRC0106,crc0106@auburn.edu,Fa20,Exam 3,58,Online,Fa20,NA,1220,25,4.49,N,F,Caucasian / White,Pell ineligible filer,3.5,U,FR,202010,Curtiss,4030830,0.299366412,-0.196771655,0.244236991,0.048301317
+CRJ0025,crj0025@auburn.edu,Su20,Exam 3,72,Online,Su20,28,NA,28,4.52,N,M,Caucasian / White,,NA,U,FR,202130,Curtiss,3945555,NA,NA,NA,NA
+CSS0049,css0049@auburn.edu,Su20,Exam 3,55,Face to Face,Su20,31,0,31,4.14,N,M,Asian,,NA,U,FR,202130,Curtiss,3695981,NA,NA,NA,NA
+CTC0061,ctc0061@auburn.edu,Fa20,Exam 3,63.5,Face to Face,Fa20,27,NA,27,3.92,N,M,Caucasian / White,Non-filer,4,U,FR,202010,Curtiss,4068840,1.045136924,-0.477583714,0.873496808,-0.69695172
+CVP0008,cvp0008@auburn.edu,Fa20,Exam 3,46.5,Online,Fa20,26,NA,26,4.1,N,F,Caucasian / White,Non-filer,3.02,U,FR,202010,Curtiss,3990763,-1.181005728,-1.538571513,-2.694025141,-0.540784368
+CZA0008,cza0008@auburn.edu,Su20,Exam 3,38,Online,Su20,28,0,28,4.12,Y,F,Caucasian / White,,NA,U,FR,202130,Curtiss,2462079,NA,NA,NA,NA
+CZH0106,czh0106@auburn.edu,Fa20,Exam 3,25,Online,Fa20,NA,1290,27,3.5,N,M,Caucasian / White,Pell eliglble filer,3.02,U,FR,202010,Curtiss,3962354,-2.240937007,1.717988444,-2.549971393,-1.562788388
+CZX0017,czx0017@auburn.edu,Fa20,Exam 3,26.5,NA,Fa20,NA,NA,NA,NA,,M,Non-Resident Alien,Non-filer,1.68,U,FR,202010,Curtiss,4064357,NA,NA,NA,NA
+DAG0040,dag0040@auburn.edu,Fa20,Exam 3,62.5,Online,Fa20,29,NA,29,3.88,N,F,Caucasian / White,Non-filer,3.54,U,FR,202010,Curtiss,4085948,0.502505253,0.608124445,0.349317675,-0.349601343
+DAS0057,das0057@auburn.edu,Fa20,Exam 3,77,Face to Face,Fa20,30,0,30,3.88,N,M,Hispanic,,NA,U,FR,202010,Curtiss,3903480,0.497061678,-3.48074118,0.216953337,NA
+DCR0023,dcr0023@auburn.edu,Su20,Exam 3,98,Face to Face,Su20,33,NA,33,4.33,N,M,Caucasian / White,,NA,U,FR,202130,Curtiss,3945132,NA,NA,NA,NA
+DEL0019,del0019@auburn.edu,Fa20,Exam 3,68,Online,Fa20,29,NA,29,4.17,N,F,Caucasian / White,Pell ineligible filer,3.57,U,FR,202010,Curtiss,4064954,-0.187649295,-1.451226635,0.677571443,0.248238261
+DEM0040,dem0040@auburn.edu,Fa20,Exam 3,92.5,Face to Face,Fa20,32,NA,32,4.43,N,F,Caucasian / White,Pell ineligible filer,4,U,FR,202010,Curtiss,3926046,0.861113099,0.20000571,0.762976079,1.428948907
+DGH0020,dgh0020@auburn.edu,Fa20,Exam 3,43.6,NA,Fa20,30,NA,30,4.03,N,M,Caucasian / White,Non-filer,2.93,U,FR,202010,Curtiss,3982460,NA,NA,NA,0.174531544
+DHK0005,dhk0005@auburn.edu,Fa20,Exam 3,8.5,NA,Fa20,0,1120,22,2.88,N,M,Asian,Pell ineligible filer,1.86,U,FR,202010,Curtiss,3923789,NA,NA,NA,-3.915455761
+DMD0042,dmd0042@auburn.edu,Fa20,Exam 3,39,Online,Fa20,24,NA,24,3.99,N,F,Hispanic,Pell ineligible filer,3,U,FR,202010,Curtiss,4061314,0.978070339,1.408555957,1.029875185,-1.197362127
+DRP0020,drp0020@auburn.edu,Su20,Exam 3,61,Online,Su20,0,1310,28,4.23,N,F,Two or more races,,NA,U,FR,202130,Curtiss,3904608,NA,NA,NA,NA
+DRT0012,drt0012@auburn.edu,Fa20,Exam 3,45.5,Face to Face,Fa20,24,NA,24,4.07,N,F,Caucasian / White,Pell eliglble filer,3.42,U,FR,202010,Curtiss,4016831,0.732705239,0.477846301,1.365807529,-1.032440857
+DRW0026,drw0026@auburn.edu,Fa20,Exam 3,67.5,Online,Fa20,33,NA,33,4.19,N,M,Caucasian / White,Pell ineligible filer,3.83,U,FR,202010,Curtiss,3952791,0.238025137,1.45446069,-1.610601511,1.149090602
+DWC0018,dwc0018@auburn.edu,Fa20,Exam 3,40,Face to Face,Fa20,29,NA,29,3.65,N,M,Caucasian / White,Pell eliglble filer,1.92,U,FR,202010,Curtiss,3977477,-0.925473677,0.913092344,1.114026409,-0.823749995
+DWP0019,dwp0019@auburn.edu,Fa20,Exam 3,51.5,Online,Fa20,NA,1310,28,4.86,N,M,Caucasian / White,Non-filer,2.6,U,FR,202010,Curtiss,4049877,1.045136924,1.717988444,1.461210272,1.45577871
+DZW0028,dzw0028@auburn.edu,Fa20,Exam 3,0,NA,Fa20,27,0,27,4.2,N,M,Caucasian / White,Non-filer,2.29,U,FR,202010,Curtiss,3731590,NA,NA,NA,-0.119727275
+EAC0082,eac0082@auburn.edu,Su20,Exam 3,78,Online,Su20,31,NA,31,4.71,N,F,Two or more races,,NA,U,SO,202130,Curtiss,3955414,NA,NA,NA,NA
+EAD0047,ead0047@auburn.edu,Su20,Exam 3,20,Online,Su20,0,1050,20,3.42,,F,Caucasian / White,,NA,U,SO,202130,Curtiss,3624337,NA,NA,NA,NA
+EAS0100,eas0100@auburn.edu,Fa20,Exam 3,55.5,Face to Face,Fa20,NA,1200,25,3.71,N,F,Caucasian / White,Pell ineligible filer,3.6,U,FR,202010,Curtiss,4059863,0.441163978,-0.547644287,0.777607559,-1.559681066
+EBJ0011,ebj0011@auburn.edu,Su20,Exam 3,63,Online,Su20,34,NA,34,4.56,,F,Caucasian / White,,NA,U,FR,202130,Curtiss,4059179,NA,NA,NA,NA
+ECD0037,ecd0037@auburn.edu,Fa20,Exam 3,51.5,Online,Fa20,28,NA,28,4.24,N,F,Caucasian / White,Pell ineligible filer,3.67,U,FR,202010,Curtiss,3994018,0.855387789,1.500365423,-0.17378835,0.177638866
+EGA0010,ega0010@auburn.edu,Fa20,Exam 3,77,Online,Fa20,33,NA,33,4.4,N,F,Caucasian / White,Non-filer,4,U,FR,202010,Curtiss,4045201,-0.101467694,0.045289466,1.223166542,1.582008936
+EGL0021,egl0021@auburn.edu,Fa20,Exam 3,61,Online,Fa20,25,NA,25,4.52,N,F,Caucasian / White,Pell ineligible filer,3.57,U,FR,202010,Curtiss,4033877,1.045136924,0.695469323,1.461210272,0.110146794
+EJM0045,ejm0045@auburn.edu,Fa20,Exam 3,85,Face to Face,Fa20,32,NA,32,4.4,N,M,Caucasian / White,Pell ineligible filer,4,U,SO,202010,Curtiss,4034090,0.916729064,-2.852027956,1.327760719,1.36710343
+EJZ0003,ejz0003@auburn.edu,Fa20,Exam 3,89,Face to Face,Fa20,33,NA,33,4.56,N,M,Asian,Pell ineligible filer,4,U,FR,202010,Curtiss,4055903,0.861113099,-1.317977024,0.27979793,1.911851477
+ELK0025,elk0025@auburn.edu,Fa20,Exam 3,71.5,NA,Fa20,25,NA,25,3.96,N,F,Caucasian / White,Non-filer,3.57,U,FR,202010,Curtiss,4038113,NA,NA,NA,-1.044302097
+EMN0017,emn0017@auburn.edu,Su20,Exam 3,34.5,Online,Su20,31,0,31,4.14,N,F,Caucasian / White,,NA,U,FR,202130,Curtiss,3835124,NA,NA,NA,NA
+EPS0018,eps0018@auburn.edu,Fa20,Exam 3,56,Online,Fa20,23,NA,23,4.15,N,F,Caucasian / White,Pell ineligible filer,3.21,U,FR,202010,Curtiss,4024816,0.911003754,1.717988444,0.411187399,-1.082425092
+ERB0062,erb0062@auburn.edu,Fa20,Exam 3,85,Online,Fa20,35,NA,35,4.57,N,F,Caucasian / White,Pell ineligible filer,4,U,FR,202010,Curtiss,3983507,0.732705239,-1.739192489,0.166510931,2.362277647
+ETS0021,ets0021@auburn.edu,Fa20,Exam 3,31.48,Online,Fa20,33,NA,33,4.54,N,M,Caucasian / White,Pell ineligible filer,3.5,U,FR,202010,Curtiss,4056693,-1.775257136,-0.112398245,-2.827474694,1.870621159
+EZH0040,ezh0040@auburn.edu,Fa20,Exam 3,62.3,Face to Face,Fa20,30,NA,30,4.18,N,F,Caucasian / White,Pell ineligible filer,3.75,U,FR,202010,Curtiss,4013887,-0.596147796,0.871652199,-0.580374267,0.483758926
+FEL0002,fel0002@auburn.edu,Fa20,Exam 3,106,Face to Face,Fa20,27,NA,27,4.24,N,F,Caucasian / White,Pell ineligible filer,3.73,U,FR,202010,Curtiss,4018597,1.045136924,0.586657812,1.461210272,-0.03726664
+GCH0021,gch0021@auburn.edu,Su20,Exam 3,53,Online,Su20,26,NA,26,3.93,N,M,Caucasian / White,,NA,U,FR,202130,Curtiss,3954180,NA,NA,NA,NA
+GCK0012,gck0012@auburn.edu,Fa20,Exam 3,68,Face to Face,Fa20,24,NA,24,4.03,N,F,Caucasian / White,Pell ineligible filer,3.71,U,FR,202010,Curtiss,3960294,0.782595894,0.847214099,0.86686407,-1.114901492
+GMH0056,gmh0056@auburn.edu,Fa20,Exam 3,28,Online,Fa20,22,NA,22,NA,Y,F,Caucasian / White,,NA,U,JR,202010,Curtiss,3975095,-0.246769749,1.067808588,0.406174996,NA
+GMT0015,gmt0015@auburn.edu,Su20,Exam 3,75.5,Face to Face,Su20,27,NA,27,2.83,N,M,Caucasian / White,,NA,U,FR,202130,Curtiss,3991359,NA,NA,NA,NA
+GSM0025,gsm0025@auburn.edu,Fa20,Exam 3,75.5,Face to Face,Fa20,29,NA,29,4.12,N,M,Caucasian / White,Non-filer,3.73,U,FR,202010,Curtiss,3972971,0.861113099,-0.126428822,-1.314228835,0.145162467
+HAP0022,hap0022@auburn.edu,Fa20,Exam 3,0,NA,Fa20,25,NA,25,4.03,N,M,Caucasian / White,Non-filer,1.97,U,FR,202010,Curtiss,3973035,NA,NA,NA,-0.899995986
+HAT0020,hat0020@auburn.edu,Fa20,Exam 3,58,Online,Fa20,34,NA,34,4.11,N,F,Caucasian / White,Pell ineligible filer,3.71,U,FR,202010,Curtiss,4042054,0.721254619,1.717988444,-2.397652466,1.199074838
+HER0043,her0043@auburn.edu,Fa20,Exam 3,57,Online,Fa20,31,NA,31,4.06,N,F,Caucasian / White,Pell ineligible filer,3.8,U,FR,202010,Curtiss,4024755,-1.006211702,-0.443297364,0.111374042,0.451282527
+HKC0013,hkc0013@auburn.edu,Su20,Exam 3,34,Face to Face,Su20,23,0,23,3.87,N,F,Caucasian / White,,NA,U,FR,202130,Curtiss,3781997,NA,NA,NA,NA
+HLB0036,hlb0036@auburn.edu,Fa20,Exam 3,27.5,NA,Fa20,24,NA,24,4.03,N,F,Caucasian / White,Pell ineligible filer,3.57,U,FR,202010,Curtiss,4037502,NA,NA,NA,-1.114901492
+HMB0066,hmb0066@auburn.edu,Fa20,Exam 3,53.5,Face to Face,Fa20,NA,1170,24,4.03,N,F,Caucasian / White,Pell ineligible filer,3.79,U,FR,202010,Curtiss,4053999,0.496779943,-1.100354003,1.365807529,-1.114901492
+HTS0017,hts0017@auburn.edu,Fa20,Exam 3,79.5,Face to Face,Fa20,31,NA,31,4.45,N,M,Caucasian / White,Non-filer,4,U,SO,202010,Curtiss,3960364,-1.150230088,0.277225325,0.358889995,1.255273718
+HWF0006,hwf0006@auburn.edu,Su20,Exam 3,70.5,Online,Su20,NA,NA,NA,NA,,M,Caucasian / White,,NA,U,FR,202130,Curtiss,4167818,NA,NA,NA,NA
+HZN0021,hzn0021@auburn.edu,Fa20,Exam 3,44,Online,Fa20,NA,NA,NA,NA,,F,Non-Resident Alien,Non-filer,3.24,U,FR,202010,Curtiss,4050421,-2.093414131,-2.124351472,-2.134900227,NA
+HZP0041,hzp0041@auburn.edu,Su20,Exam 3,58,Online,Su20,26,NA,26,3.76,N,M,Asian,,NA,U,FR,202130,Curtiss,3995159,NA,NA,NA,NA
+ICM0011,icm0011@auburn.edu,Fa20,Exam 3,41,Online,Fa20,23,NA,23,NA,Y,M,Caucasian / White,,NA,U,JR,202010,Curtiss,3911563,0.441163978,1.5632722,-0.265310663,NA
+ILH0002,ilh0002@auburn.edu,Fa20,Exam 3,67.5,Face to Face,Fa20,31,NA,31,4.06,N,M,Caucasian / White,Pell ineligible filer,3.56,U,FR,202010,Curtiss,4034795,0.441163978,-0.375925999,0.309151917,0.451282527
+IMH0007,imh0007@auburn.edu,Fa20,Exam 3,30.5,Online,Fa20,NA,1140,23,3.22,Y,F,Caucasian / White,Non-filer,2.64,U,FR,202010,Curtiss,4088408,NA,NA,1.461210272,-2.999634857
+IML0006,iml0006@auburn.edu,Fa20,Exam 3,43,Online,Fa20,23,0,23,3.81,N,F,Caucasian / White,Non-filer,3.43,U,FR,202010,Curtiss,3932060,-0.25471588,1.717988444,-0.415290963,-1.78334049
+IMP0006,imp0006@auburn.edu,Fa20,Exam 3,71,Online,Fa20,29,NA,29,4.15,N,F,Caucasian / White,Pell ineligible filer,3.57,U,FR,202010,Curtiss,4065981,-0.181923985,0.716935955,-0.227691496,0.207007943
+INS0003,ins0003@auburn.edu,Fa20,Exam 3,33.5,Face to Face,Fa20,31,0,31,4.55,N,F,Caucasian / White,Pell ineligible filer,3.3,U,FR,202010,Curtiss,3860431,-0.920030102,1.717988444,-0.701660009,1.461425306
+JAC0151,jac0151@auburn.edu,Su20,Exam 3,78,Face to Face,Su20,30,NA,30,4.24,N,F,Hispanic,,NA,U,FR,202130,Curtiss,3983061,NA,NA,NA,NA
+JAG0117,jag0117@auburn.edu,Fa20,Exam 3,84,Face to Face,Fa20,25,NA,25,4.37,N,F,Hispanic,Pell ineligible filer,3.8,U,FR,202010,Curtiss,4041570,0.502505253,-0.474612247,0.398555283,-0.199080588
+JAL0085,jal0085@auburn.edu,Fa20,Exam 3,98.5,Face to Face,Fa20,29,NA,29,4.05,N,F,Caucasian / White,Pell ineligible filer,4,U,FR,202010,Curtiss,3960309,0.861113099,1.057683325,0.539077323,0.000856356
+JBP0055,jbp0055@auburn.edu,Fa20,Exam 3,44.5,Face to Face,Fa20,33,NA,33,4.4,N,M,Caucasian / White,Non-filer,4,U,SO,202010,Curtiss,3729741,0.274689764,0.789690983,-1.355081109,1.582008936
+JDB0162,jdb0162@auburn.edu,Fa20,Exam 3,50,NA,Fa20,28,NA,28,4,Y,M,Caucasian / White,Pell eliglble filer,2.62,U,FR,202010,Curtiss,4075699,NA,NA,NA,-0.317124944
+JDP0077,jdp0077@auburn.edu,Su20,Exam 3,86.5,Face to Face,Su20,34,NA,34,4.14,Y,M,Caucasian / White,,NA,U,FR,202130,Curtiss,3925948,NA,NA,NA,NA
+JEB0119,jeb0119@auburn.edu,Fa20,Exam 3,52,Face to Face,Fa20,30,NA,30,3.98,N,F,Caucasian / White,Non-filer,3.09,U,FR,202010,Curtiss,4046105,-0.174259589,NA,0.194999383,0.071455751
+JHH0057,jhh0057@auburn.edu,Fa20,Exam 3,47,Face to Face,Fa20,28,NA,28,4.17,N,M,Caucasian / White,Non-filer,3.38,U,FR,202010,Curtiss,4018980,0.048276002,1.717988444,0.18630656,0.033332755
+JHL0050,jhl0050@auburn.edu,Fa20,Exam 3,73,Face to Face,Fa20,19,NA,19,NA,N,M,Caucasian / White,,NA,U,JR,202010,Curtiss,3750971,-0.24326526,0.787278788,0.706059895,NA
+JKB0055,jkb0055@auburn.edu,Fa20,Exam 3,76,Online,Fa20,30,NA,30,3.95,N,M,Hispanic,Pell ineligible filer,3.79,U,FR,202010,Curtiss,4059133,0.165233242,0.460561996,0.435042477,0.009610274
+JKB0058,jkb0058@auburn.edu,Fa20,Exam 3,16,Face to Face,Fa20,NA,1240,26,3.85,N,F,Black or African American,Pell eliglble filer,3,U,FR,202010,Curtiss,4082771,-0.994761082,0.825747466,-0.408877905,-1.056163337
+JKC0036,jkc0036@auburn.edu,Su20,Exam 3,53,Online,Su20,23,0,23,3.82,N,F,Black or African American,,NA,U,FR,202130,Curtiss,3687703,NA,NA,NA,NA
+JKD0030,jkd0030@auburn.edu,Su20,Exam 3,35,Face to Face,Su20,21,NA,21,3.45,Y,F,Two or more races,,NA,U,SO,202130,Curtiss,3804682,NA,NA,NA,NA
+JKD0031,jkd0031@auburn.edu,Fa20,Exam 3,55.5,Online,Fa20,23,NA,23,3.53,N,F,Black or African American,Pell ineligible filer,3.6,U,FR,202010,Curtiss,4067729,0.983795649,0.045289466,1.128690054,-2.360564936
+JMG0119,jmg0119@auburn.edu,Fa20,Exam 3,62,Online,Fa20,28,NA,28,4.17,N,M,Caucasian / White,Pell ineligible filer,3.18,U,FR,202010,Curtiss,4044226,0.861113099,-0.61798712,1.222680035,0.033332755
+JMH0197,jmh0197@auburn.edu,Fa20,Exam 3,40,Online,Fa20,30,NA,30,4.05,Y,F,Asian,Pell eliglble filer,3.27,U,FR,202010,Curtiss,4023439,-0.176198675,0.439095364,-2.09506016,0.215761862
+JML0104,jml0104@auburn.edu,Su20,Exam 3,53,Face to Face,Su20,NA,NA,NA,NA,Y,F,Caucasian / White,,NA,U,SR,202130,Curtiss,4052584,NA,NA,NA,NA
+JML0104,jml0104@auburn.edu,Su20,Exam 3,53,Face to Face,Su20,NA,NA,NA,NA,,F,Caucasian / White,,NA,P,P1,202130,Curtiss,4052584,NA,NA,NA,NA
+JPG0040,jpg0040@auburn.edu,Fa20,Exam 3,64,Online,Fa20,22,NA,22,4,Y,M,Two or more races,,NA,U,FR,202010,Curtiss,4033571,0.032665476,0.499312934,0.770535072,NA
+JRD0050,jrd0050@auburn.edu,Su20,Exam 3,36.5,Online,Su20,23,0,23,4.38,N,M,Caucasian / White,,NA,U,JR,202130,Curtiss,3572945,NA,NA,NA,NA
+JSC0063,jsc0063@auburn.edu,Fa20,Exam 3,51,Online,Fa20,32,NA,32,4.3,N,F,Caucasian / White,Pell ineligible filer,3.33,U,FR,202010,Curtiss,4000624,-0.147198443,0.042317999,-2.299377442,1.160951843
+JTB0094,jtb0094@auburn.edu,Su20,Exam 3,87.5,Face to Face,Su20,26,NA,26,3.71,Y,M,Caucasian / White,,NA,U,FR,202130,Curtiss,3875907,NA,NA,NA,NA
+JTH0096,jth0096@auburn.edu,Fa20,Exam 3,41.5,Online,Fa20,25,NA,25,3.73,N,M,Caucasian / White,Pell ineligible filer,3.09,U,FR,202010,Curtiss,3970863,0.635073018,-0.196771655,0.790271839,-1.518450748
+JTM0095,jtm0095@auburn.edu,Fa20,Exam 3,74.5,Online,Fa20,27,NA,27,3.6,N,M,Caucasian / White,,NA,U,SR,202010,Curtiss,3829915,1.045136924,-0.087960145,0.711619523,NA
+JTR0047,jtr0047@auburn.edu,Fa20,Exam 3,43.5,NA,Fa20,27,NA,27,3.68,Y,F,Caucasian / White,Pell ineligible filer,2.33,U,FR,202010,Curtiss,4038471,NA,NA,NA,-1.19171553
+JWB0071,jwb0071@auburn.edu,Fa20,Exam 3,12,Online,Fa20,0,1030,20,3.62,N,M,Caucasian / White,Pell ineligible filer,2.01,U,FR,202010,Curtiss,3789068,-3.0614385,-3.635457424,-2.969189426,-2.819745025
+JWG0024,jwg0024@auburn.edu,Fa20,Exam 3,55.5,NA,Fa20,26,0,26,3.82,Y,F,Caucasian / White,Pell ineligible filer,2.43,U,FR,202010,Curtiss,3824560,NA,NA,NA,-1.118008814
+JWG0033,jwg0033@auburn.edu,Fa20,Exam 3,51,Face to Face,Fa20,30,NA,30,4,N,M,Caucasian / White,Pell ineligible filer,2.87,U,FR,202010,Curtiss,3859887,0.165233242,-2.476717224,-0.382009788,0.112686068
+JWP0046,jwp0046@auburn.edu,Fa20,Exam 3,64,Face to Face,Fa20,24,NA,24,3.75,N,M,Caucasian / White,Non-filer,3.79,U,FR,202010,Curtiss,4070728,0.094006751,-3.37192967,1.280522475,-1.692125937
+JZM0094,jzm0094@auburn.edu,Su20,Exam 3,87.5,Online,Su20,31,0,31,4.41,N,M,Caucasian / White,,NA,U,FR,202130,Curtiss,3805972,NA,NA,NA,NA
+JZP0096,jzp0096@auburn.edu,Fa20,Exam 3,54,NA,Fa20,24,0,24,3.22,N,M,Black or African American,Pell eliglble filer,2.45,U,FR,202010,Curtiss,3917603,NA,NA,NA,-2.784729351
+KBB0042,kbb0042@auburn.edu,Fa20,Exam 3,76.5,Online,Fa20,27,NA,27,4.41,Y,F,Caucasian / White,Pell ineligible filer,3.6,U,FR,202010,Curtiss,4037473,0.318481428,-0.874361079,0.127537866,0.313191059
+KBH0045,kbh0045@auburn.edu,Fa20,Exam 3,51,NA,Fa20,NA,1210,25,3.83,N,F,Caucasian / White,Pell ineligible filer,2.88,U,FR,202010,Curtiss,4058183,NA,NA,NA,-1.312299161
+KDW0052,kdw0052@auburn.edu,Fa20,Exam 3,81,Online,Fa20,26,NA,26,3.05,N,F,Caucasian / White,Pell eliglble filer,2.14,U,FR,202010,Curtiss,4024941,0.630913113,1.408555957,1.461210272,-2.705376038
+KEG0067,keg0067@auburn.edu,Fa20,Exam 3,55,Face to Face,Fa20,0,1310,28,3.92,N,F,Caucasian / White,Pell ineligible filer,3.58,U,FR,202010,Curtiss,3939950,-0.933419807,-3.417834402,-1.263918117,-0.482046214
+KFR0006,kfr0006@auburn.edu,Su20,Exam 3,65.5,Online,Su20,27,NA,27,4.71,N,F,Caucasian / White,,NA,U,FR,202130,Curtiss,4000314,NA,NA,NA,NA
+KGC0029,kgc0029@auburn.edu,Su20,Exam 3,67,Online,Su20,25,0,25,4.21,N,F,Caucasian / White,,NA,U,FR,202130,Curtiss,3882588,NA,NA,NA,NA
+KHC0026,khc0026@auburn.edu,Fa20,Exam 3,32.5,Online,Fa20,29,NA,29,4.58,Y,F,Caucasian / White,Non-filer,3.5,U,FR,202010,Curtiss,4006133,0.303526318,0.221472342,-0.194644983,1.09345977
+KJB0059,kjb0059@auburn.edu,Fa20,Exam 3,95,Face to Face,Fa20,29,NA,29,4.3,N,F,Caucasian / White,Pell ineligible filer,3.79,U,FR,202010,Curtiss,3993966,0.677089274,-2.076968391,1.461210272,0.516235325
+KJS0049,kjs0049@auburn.edu,Fa20,Exam 3,59.5,NA,Fa20,26,NA,26,3.5,N,M,Caucasian / White,Pell ineligible filer,3.79,U,FR,202010,Curtiss,4063719,NA,NA,NA,-1.777693894
+KMC0130,kmc0130@auburn.edu,Fa20,Exam 3,52.5,Online,Fa20,30,NA,30,4.01,N,F,Caucasian / White,Pell eliglble filer,3.8,U,FR,202010,Curtiss,4039471,-0.310331845,-0.066493512,-0.477412531,0.133301227
+KMJ0048,kmj0048@auburn.edu,Fa20,Exam 3,32.5,Online,Fa20,NA,1080,21,3.33,,F,Two or more races,Pell ineligible filer,2.5,U,SO,202010,Curtiss,3949688,-0.657489071,1.717988444,-1.592878071,-3.202679123
+KMQ0006,kmq0006@auburn.edu,Fa20,Exam 3,48.5,Online,Fa20,NA,NA,NA,NA,Y,F,Hispanic,Pell ineligible filer,2,U,JR,202010,Curtiss,4082762,-0.310331845,-0.087960145,-1.042683677,NA
+KMR0065,kmr0065@auburn.edu,Su20,Exam 3,80.5,Online,Su20,30,0,30,4.06,Y,F,Caucasian / White,,NA,U,FR,202130,Curtiss,3915297,NA,NA,NA,NA
+KMR0080,kmr0080@auburn.edu,Su20,Exam 3,67.5,Face to Face,Su20,NA,NA,NA,NA,,F,Caucasian / White,,NA,U,SR,202130,Curtiss,4104965,NA,NA,NA,NA
+KNE0015,kne0015@auburn.edu,Su20,Exam 3,52.75,Online,Su20,NA,1090,21,3.96,N,F,Black or African American,,NA,U,FR,202130,Curtiss,3990297,NA,NA,NA,NA
+KNF0020,knf0020@auburn.edu,Fa20,Exam 3,77.5,Face to Face,Fa20,30,NA,30,4.36,Y,F,Caucasian / White,Pell eliglble filer,3.79,U,FR,202010,Curtiss,3904026,0.032665476,0.913092344,1.318569285,0.854831783
+KPS0017,kps0017@auburn.edu,Su20,Exam 3,60,Face to Face,Su20,NA,1230,26,3.79,N,F,Two or more races,,NA,U,FR,202130,Curtiss,3992013,NA,NA,NA,NA
+KRC0066,krc0066@auburn.edu,Fa20,Exam 3,44,Online,Fa20,32,NA,32,4.15,N,F,Caucasian / White,Pell ineligible filer,3.63,U,FR,202010,Curtiss,3994001,-1.485936695,-0.087960145,-2.336676832,0.851724461
+KRM0064,krm0064@auburn.edu,Fa20,Exam 3,67,Online,Fa20,NA,1380,30,4.04,N,F,Caucasian / White,Non-filer,3.65,U,FR,202010,Curtiss,4024181,0.916729064,1.04068128,-0.677336626,0.195146703
+KSP0025,ksp0025@auburn.edu,Fa20,Exam 3,66.5,Face to Face,Fa20,31,NA,31,4.04,N,F,Caucasian / White,Pell ineligible filer,4,U,FR,202010,Curtiss,4042396,0.983795649,-0.470424672,-0.213834524,0.410052209
+KSW0029,ksw0029@auburn.edu,Fa20,Exam 3,111,Face to Face,Fa20,35,NA,35,4.99,Y,F,Caucasian / White,Pell ineligible filer,4,U,SO,202010,Curtiss,4043717,-0.095742384,-1.497131368,-1.244020534,3.228114315
+KZA0048,kza0048@auburn.edu,Su20,Exam 3,99.75,Online,Su20,NA,NA,NA,NA,,M,Non-Resident Alien,,NA,U,FR,202130,Curtiss,3965070,NA,NA,NA,NA
+KZL0075,kzl0075@auburn.edu,Fa20,Exam 3,41.5,Online,Fa20,26,NA,26,3.93,N,F,Caucasian / White,Non-filer,2.79,U,FR,202010,Curtiss,4083392,0.299366412,1.500365423,0.024089623,-0.891242067
+KZP0041,kzp0041@auburn.edu,Su20,Exam 3,53.25,Online,Su20,26,0,26,4.31,Y,F,Hispanic,,NA,U,FR,202130,Curtiss,3867734,NA,NA,NA,NA
+LAC0090,lac0090@auburn.edu,Fa20,Exam 3,30,Face to Face,Fa20,26,NA,26,4.25,Y,F,Caucasian / White,Pell ineligible filer,3.33,U,FR,202010,Curtiss,4033289,0.098166657,-0.330021266,1.461210272,-0.231556987
+LAK0027,lak0027@auburn.edu,Su20,Exam 3,68,Face to Face,Su20,27,0,27,3.58,N,F,Caucasian / White,,NA,U,FR,202130,Curtiss,3931343,NA,NA,NA,NA
+LAS0111,las0111@auburn.edu,Fa20,Exam 3,43.5,Online,Fa20,31,NA,31,4.06,N,F,Caucasian / White,Pell ineligible filer,3.27,U,FR,202010,Curtiss,4042045,-0.168534279,0.695469323,0.887234198,0.451282527
+LAW0073,law0073@auburn.edu,Fa20,Exam 3,45.5,Face to Face,Fa20,NA,1160,24,3.84,N,F,Two or more races,Pell ineligible filer,3.13,U,FR,202010,Curtiss,4068879,0.922454374,1.717988444,0.865937815,-1.506589508
+LCH0053,lch0053@auburn.edu,Fa20,Exam 3,8,NA,Fa20,27,NA,27,4.08,N,F,Two or more races,Pell ineligible filer,3.54,U,FR,202010,Curtiss,4043361,NA,NA,NA,-0.36710918
+LDW0025,ldw0025@auburn.edu,Fa20,Exam 3,35.1,Face to Face,Fa20,27,NA,27,4.24,N,M,Caucasian / White,Pell ineligible filer,3.69,U,FR,202010,Curtiss,4027721,0.493275453,0.791184103,NA,-0.03726664
+LGB0029,lgb0029@auburn.edu,Fa20,Exam 3,49.5,Online,Fa20,33,NA,33,4.34,N,F,Caucasian / White,Pell ineligible filer,3.57,U,FR,202010,Curtiss,3993975,-1.288241429,-1.968156881,-0.713337314,1.458317984
+LGT0008,lgt0008@auburn.edu,Fa20,Exam 3,46,Online,Fa20,32,NA,32,4.35,N,F,Caucasian / White,Non-filer,4,U,FR,202010,Curtiss,4059868,-1.422374599,0.130878984,-1.1507507,1.264027637
+LLR0008,llr0008@auburn.edu,Fa20,Exam 3,25.5,Online,Fa20,NA,1190,24,3.68,N,F,Caucasian / White,Pell ineligible filer,2.73,U,FR,202010,Curtiss,3986776,0.707864914,0.245910443,1.049551232,-1.836432048
+LNP0013,lnp0013@auburn.edu,Fa20,Exam 3,77,Online,Fa20,29,NA,29,4.25,N,F,Caucasian / White,Pell ineligible filer,3.77,U,FR,202010,Curtiss,3970695,0.170958552,0.671031223,0.263473289,0.413159531
+LRT0015,lrt0015@auburn.edu,Fa20,Exam 3,54.5,Online,Fa20,28,NA,28,4.48,N,F,Caucasian / White,Pell ineligible filer,3.7,U,FR,202010,Curtiss,4064601,0.257140153,-1.166232248,-0.948913375,0.672402677
+LRW0023,lrw0023@auburn.edu,Fa20,Exam 3,48,Online,Fa20,22,NA,22,4.23,N,F,Caucasian / White,Pell ineligible filer,3.8,U,FR,202010,Curtiss,3972956,-0.32944686,-0.066493512,-0.275355527,-1.132409328
+LSF0014,lsf0014@auburn.edu,Fa20,Exam 3,71.5,Online,Fa20,31,NA,31,4.34,N,F,Caucasian / White,Non-filer,3.38,U,FR,202010,Curtiss,4024441,1.045136924,-0.51902386,1.461210272,1.028506972
+LTG0012,ltg0012@auburn.edu,Fa20,Exam 3,50,NA,Fa20,34,NA,34,4.36,N,M,Caucasian / White,Non-filer,4,U,SO,202010,Curtiss,4054751,NA,NA,NA,1.714453807
+MAC0161,mac0161@auburn.edu,Fa20,Exam 3,65,NA,Fa20,33,NA,33,4.07,N,F,Caucasian / White,Pell ineligible filer,4,U,FR,202010,Curtiss,4016512,NA,NA,NA,0.901708697
+MAK0076,mak0076@auburn.edu,Fa20,Exam 3,84,NA,Fa20,30,NA,30,4.35,N,M,Caucasian / White,Non-filer,3.38,U,FR,202010,Curtiss,3934972,NA,NA,NA,0.834216625
+MAM0232,mam0232@auburn.edu,Fa20,Exam 3,83,NA,Fa20,30,NA,30,3.96,N,F,Hispanic,Pell ineligible filer,3.03,U,FR,202010,Curtiss,3959848,NA,NA,NA,0.030225433
+MAW0110,maw0110@auburn.edu,Su20,Exam 3,69,Face to Face,Su20,33,NA,33,4.55,N,M,Caucasian / White,,NA,U,FR,202130,Curtiss,3935950,NA,NA,NA,NA
+MCH0098,mch0098@auburn.edu,Fa20,Exam 3,22,Online,Fa20,24,NA,24,4.1,N,F,Caucasian / White,Pell eliglble filer,3.41,U,FR,202010,Curtiss,4024485,-2.162419802,1.717988444,-0.11206548,-0.97059538
+MCM0134,mcm0134@auburn.edu,Su20,Exam 3,67,Online,Su20,26,NA,26,4.31,N,F,Asian,,NA,U,FR,202130,Curtiss,3946972,NA,NA,NA,NA
+MCM0148,mcm0148@auburn.edu,Fa20,Exam 3,33,Face to Face,Fa20,29,NA,29,4,N,F,Caucasian / White,Pell ineligible filer,3.5,U,FR,202010,Curtiss,3904036,-0.162808969,0.958997077,-1.740757053,-0.102219438
+MCT0060,mct0060@auburn.edu,Fa20,Exam 3,77,Face to Face,Fa20,NA,1170,24,4.05,N,F,Caucasian / White,,NA,U,FR,202010,Curtiss,4060181,0.493275453,-0.392928044,1.461210272,NA
+MEB0062,meb0062@auburn.edu,Su20,Exam 3,NA,NA,Su20,21,0,21,3.41,Y,F,Caucasian / White,,NA,U,SO,202130,Curtiss,3673765,NA,NA,NA,NA
+MEH0134,meh0134@auburn.edu,Fa20,Exam 3,71,Online,Fa20,32,NA,32,4.31,N,F,Caucasian / White,Pell ineligible filer,4,U,FR,202010,Curtiss,4048923,-0.37739843,1.717988444,-1.398352788,1.181567002
+MEH0137,meh0137@auburn.edu,Fa20,Exam 3,26,Online,Fa20,28,NA,28,4.27,N,F,Caucasian / White,Non-filer,3.57,U,FR,202010,Curtiss,4046231,-1.064048488,1.717988444,1.175928298,0.239484343
+MEM0244,mem0244@auburn.edu,Fa20,Exam 3,63,Online,Fa20,29,NA,29,3.97,N,F,Caucasian / White,Pell ineligible filer,2.86,U,FR,202010,Curtiss,4057007,0.922454374,1.717988444,0.463530929,-0.164064914
+MGB0048,mgb0048@auburn.edu,Su20,Exam 3,107,Face to Face,Su20,NA,1430,32,4.8,N,F,Hispanic,,NA,U,SO,202130,Curtiss,3995002,NA,NA,NA,NA
+MGM0082,mgm0082@auburn.edu,Fa20,Exam 3,30,Online,Fa20,29,NA,29,3.72,N,F,Caucasian / White,Pell ineligible filer,3.08,U,FR,202010,Curtiss,4018633,-1.192174613,1.717988444,-1.004636867,-0.679443883
+MGP0033,mgp0033@auburn.edu,Fa20,Exam 3,51,Online,Fa20,27,NA,27,4,N,F,Hispanic,Pell ineligible filer,2.93,U,FR,202010,Curtiss,4028982,0.732705239,-1.666160449,-2.376356083,-0.53203045
+MGS0074,mgs0074@auburn.edu,Fa20,Exam 3,65.5,Face to Face,Fa20,NA,NA,NA,NA,Y,M,Caucasian / White,,NA,U,JR,202010,Curtiss,4109700,-1.080942683,-0.042055412,-0.141480187,NA
+MGW0028,mgw0028@auburn.edu,Fa20,Exam 3,66.5,Face to Face,Fa20,NA,1370,30,4,N,F,Caucasian / White,Pell ineligible filer,2.94,U,SO,202010,Curtiss,3938605,1.045136924,1.717988444,0.934971053,0.112686068
+MHC0035,mhc0035@auburn.edu,Fa20,Exam 3,45.5,Online,Fa20,31,NA,31,4.6,N,F,Caucasian / White,Non-filer,4,U,FR,202010,Curtiss,4006136,-0.438739705,-0.846951512,-0.026841146,1.5645011
+MIW0005,miw0005@auburn.edu,Fa20,Exam 3,60,Online,Fa20,27,NA,27,3.75,N,F,Caucasian / White,Pell ineligible filer,3.29,U,FR,202010,Curtiss,4052310,0.226574517,-1.826537368,0.580169335,-1.047409419
+MJK0045,mjk0045@auburn.edu,Su20,Exam 3,65,Online,Su20,0,830,15,2.16,,F,Non-Resident Alien,,NA,U,FR,202130,Curtiss,3936385,NA,NA,NA,NA
+MKH0061,mkh0061@auburn.edu,Fa20,Exam 3,34.5,Face to Face,Fa20,26,NA,26,4.22,N,F,Caucasian / White,Pell ineligible filer,2.93,U,FR,202010,Curtiss,4065383,-0.860627912,-0.087960145,-0.484971524,-0.293402463
+MKP0045,mkp0045@auburn.edu,Fa20,Exam 3,84.5,Face to Face,Fa20,32,NA,32,4.46,N,F,Caucasian / White,Pell ineligible filer,4,U,FR,202010,Curtiss,3926373,0.983795649,-0.327049798,1.220680671,1.490794383
+MLM0132,mlm0132@auburn.edu,Su20,Exam 3,35,Online,Su20,24,0,24,3.21,N,F,Caucasian / White,,NA,U,FR,202130,Curtiss,3930541,NA,NA,NA,NA
+MLM0150,mlm0150@auburn.edu,Su20,Exam 3,38.5,Online,Su20,25,NA,25,4.07,N,F,Caucasian / White,,NA,U,FR,202130,Curtiss,3941636,NA,NA,NA,NA
+MMS0121,mms0121@auburn.edu,Fa20,Exam 3,102.5,Online,Fa20,33,NA,33,4.33,N,F,Caucasian / White,Non-filer,4,U,FR,202010,Curtiss,3956747,0.983795649,-0.175305023,0.232559686,1.437702825
+MNB0025,mnb0025@auburn.edu,Su20,Exam 3,84.5,Face to Face,Su20,33,NA,33,4.14,N,F,Caucasian / White,,NA,U,FR,202130,Curtiss,3909693,NA,NA,NA,NA
+MNE0008,mne0008@auburn.edu,Fa20,Exam 3,47,NA,Fa20,29,NA,29,3.81,N,F,Caucasian / White,Non-filer,3.07,U,FR,202010,Curtiss,3928452,NA,NA,NA,-0.493907454
+MNM0064,mnm0064@auburn.edu,Fa20,Exam 3,43,Face to Face,Fa20,27,NA,27,4.27,N,F,Caucasian / White,Pell ineligible filer,3,U,FR,202010,Curtiss,4072441,0.312756117,1.717988444,1.080039048,0.024578837
+MNP0022,mnp0022@auburn.edu,Fa20,Exam 3,28.5,Face to Face,Fa20,29,NA,29,4.01,Y,F,Two or more races,Pell eliglble filer,2.91,U,FR,202010,Curtiss,4038397,-0.107193004,0.231597605,-1.267843448,-0.081604279
+MPB0034,mpb0034@auburn.edu,Fa20,Exam 3,41.5,Online,Fa20,25,NA,25,3.95,N,F,Caucasian / White,Pell ineligible filer,2.79,U,FR,202010,Curtiss,4028633,-0.131751595,-2.852027956,0.780652761,-1.064917256
+MRK0057,mrk0057@auburn.edu,Fa20,Exam 3,81,Face to Face,Fa20,31,NA,31,4.35,N,F,Caucasian / White,Pell ineligible filer,3.79,U,FR,202010,Curtiss,4052948,0.111556362,-2.730119715,0.089551775,1.049122131
+MRM0120,mrm0120@auburn.edu,Su20,Exam 3,29.5,Face to Face,Su20,30,NA,30,3.95,N,F,Caucasian / White,,NA,U,FR,202130,Curtiss,3998482,NA,NA,NA,NA
+MRW0077,mrw0077@auburn.edu,Fa20,Exam 3,32.5,Online,Fa20,25,NA,25,4.13,N,F,Caucasian / White,Pell ineligible filer,3.07,U,FR,202010,Curtiss,4037069,0.403097624,1.067808588,-2.214478798,-0.693844398
+MTR0033,mtr0033@auburn.edu,Fa20,Exam 3,105.5,Face to Face,Fa20,27,NA,27,4,N,F,Caucasian / White,Pell ineligible filer,4,U,FR,202010,Curtiss,4018734,-0.10913209,-0.980201122,-0.015589628,-0.53203045
+MWD0021,mwd0021@auburn.edu,Fa20,Exam 3,31,Online,Fa20,22,NA,22,3.6,Y,F,Caucasian / White,,NA,U,SO,202010,Curtiss,3974783,-0.582758091,-1.113450733,-0.752530058,NA
+MZB0112,mzb0112@auburn.edu,Su20,Exam 3,65,Online,Su20,25,0,25,3.66,N,F,Caucasian / White,,NA,U,FR,202130,Curtiss,3932493,NA,NA,NA,NA
+NAC0031,nac0031@auburn.edu,Fa20,Exam 3,5.5,Online,Fa20,28,NA,28,3.48,N,M,Two or more races,Pell ineligible filer,2.27,U,FR,202010,Curtiss,4109267,-1.004646298,1.5632722,0.237164504,-1.3891132
+NAJ0018,naj0018@auburn.edu,Fa20,Exam 3,59,Online,Fa20,34,NA,34,4.42,N,F,Caucasian / White,Non-filer,4,U,FR,202010,Curtiss,4056979,0.496779943,1.500365423,0.627407579,1.83814476
+NAS0063,nas0063@auburn.edu,Fa20,Exam 3,88.5,Face to Face,Fa20,NA,1180,24,4.04,N,F,Caucasian / White,Non-filer,4,U,FR,202010,Curtiss,4047734,0.665638654,-2.897932689,-0.82231663,-1.094286333
+NCY0002,ncy0002@auburn.edu,Fa20,Exam 3,85,Face to Face,Fa20,28,NA,28,3.88,N,M,Caucasian / White,Non-filer,4,U,FR,202010,Curtiss,4055904,0.788321204,-3.238680059,1.318569285,-0.564506849
+NFJ0003,nfj0003@auburn.edu,Fa20,Exam 3,33,Online,Fa20,25,NA,25,4.17,N,F,Caucasian / White,Pell ineligible filer,3.12,U,FR,202010,Curtiss,3859828,0.721254619,1.717988444,-0.420496347,-0.611383763
+NJK0009,njk0009@auburn.edu,Fa20,Exam 3,68,Online,Fa20,27,NA,27,4.33,N,F,Caucasian / White,Pell eliglble filer,4,U,FR,202010,Curtiss,3985386,0.032665476,0.431941569,-2.011935287,0.148269789
+NPY0001,npy0001@auburn.edu,Su20,Exam 3,69,Online,Su20,33,NA,33,4.03,Y,M,Caucasian / White,,NA,U,FR,202130,Curtiss,3993156,NA,NA,NA,NA
+NZB0052,nzb0052@auburn.edu,Su20,Exam 3,70,Face to Face,Su20,NA,NA,NA,NA,,F,Native Hawaiian or Pacific Islander,,NA,U,FR,202130,Curtiss,4137968,NA,NA,NA,NA
+OPF0002,opf0002@auburn.edu,Fa20,Exam 3,49,NA,Fa20,24,NA,24,3.41,N,F,Caucasian / White,Non-filer,2.97,U,FR,202010,Curtiss,3991547,NA,NA,NA,-2.393041335
+PAE0007,pae0007@auburn.edu,Fa20,Exam 3,41.5,Face to Face,Fa20,29,NA,29,4.33,N,M,Hispanic,Pell ineligible filer,3.07,U,FR,202010,Curtiss,4024422,1.045136924,0.958997077,1.269918279,0.578080801
+PTA0003,pta0003@auburn.edu,Fa20,Exam 3,69.5,Online,Fa20,35,NA,35,4.54,N,M,Asian,Pell ineligible filer,4,U,JR,202010,Curtiss,3873301,0.088281441,-2.533963327,1.125277928,2.300432171
+PZX0005,pzx0005@auburn.edu,Su20,Exam 3,60.5,Online,Su20,NA,NA,NA,NA,,M,Non-Resident Alien,,NA,U,FR,202130,Curtiss,3925226,NA,NA,NA,NA
+RAS0097,ras0097@auburn.edu,Fa20,Exam 3,43.5,Online,Fa20,28,NA,28,4.48,N,F,Caucasian / White,Pell ineligible filer,3.49,U,FR,202010,Curtiss,3975726,-0.858688827,-1.742163957,-0.939235435,0.672402677
+RBJ0012,rbj0012@auburn.edu,Fa20,Exam 3,84,Online,Fa20,33,NA,33,4.31,N,M,Caucasian / White,Pell ineligible filer,4,U,FR,202010,Curtiss,3984565,-0.011126188,-2.259094203,-0.141480187,1.396472508
+RCS0065,rcs0065@auburn.edu,Fa20,Exam 3,24,NA,Fa20,31,NA,31,3.78,N,M,Caucasian / White,Pell ineligible filer,2.71,U,FR,202010,Curtiss,4026305,NA,NA,NA,-0.125941919
+REC0056,rec0056@auburn.edu,Fa20,Exam 3,24.5,Online,Fa20,28,NA,28,4.31,N,F,Caucasian / White,Pell eliglble filer,2.2,U,FR,202010,Curtiss,3970532,-0.137476905,1.717988444,-0.928484385,0.321944978
+RFS0018,rfs0018@auburn.edu,Su20,Exam 3,81.5,Face to Face,Su20,35,NA,35,4.19,Y,M,Caucasian / White,,NA,U,SO,202130,Curtiss,3925848,NA,NA,NA,NA
+RMB0072,rmb0072@auburn.edu,Fa20,Exam 3,35.5,Online,Fa20,NA,1230,26,3.85,N,F,Caucasian / White,Pell ineligible filer,2.31,U,FR,202010,Curtiss,4057376,0.226574517,1.717988444,0.674645823,-1.056163337
+RMG0041,rmg0041@auburn.edu,Su20,Exam 3,15,Online,Su20,30,0,30,3.86,,F,Caucasian / White,,NA,U,FR,202130,Curtiss,3809697,NA,NA,NA,NA
+RMW0034,rmw0034@auburn.edu,Su20,Exam 3,37.75,Online,Su20,25,0,25,4.19,Y,F,Caucasian / White,,NA,U,SO,202130,Curtiss,3613848,NA,NA,NA,NA
+RNS0019,rns0019@auburn.edu,Fa20,Exam 3,77,Face to Face,Fa20,34,NA,34,4.56,N,F,Caucasian / White,Pell ineligible filer,4,U,JR,202010,Curtiss,4011034,0.427774272,-2.392343814,0.069695426,2.126756983
+RSL0015,rsl0015@auburn.edu,Fa20,Exam 3,37,Face to Face,Fa20,27,NA,27,4.01,N,M,Asian,Pell ineligible filer,3.19,U,FR,202010,Curtiss,4033871,-0.465519116,1.717988444,0.762976079,-0.511415291
+RZS0107,rzs0107@auburn.edu,Fa20,Exam 3,66.5,Face to Face,Fa20,29,NA,29,4.45,N,F,Caucasian / White,Pell ineligible filer,4,U,FR,202010,Curtiss,4031142,0.312756117,-0.583423757,0.079813115,0.825462706
+SAB0124,sab0124@auburn.edu,Fa20,Exam 3,63.5,NA,Fa20,29,NA,29,4.36,N,F,Caucasian / White,Non-filer,3.57,U,FR,202010,Curtiss,3984072,NA,NA,NA,0.639926277
+SAH0078,sah0078@auburn.edu,Su20,Exam 3,34.5,Face to Face,Su20,28,0,28,3.75,N,F,Caucasian / White,,NA,U,FR,202130,Curtiss,3944343,NA,NA,NA,NA
+SAT0048,sat0048@auburn.edu,Fa20,Exam 3,59,Online,Fa20,31,NA,31,3.96,N,M,Caucasian / White,Pell eliglble filer,3.79,U,FR,202010,Curtiss,3970760,-0.028675799,-1.067546,-0.053149931,0.245130939
+SDK0015,sdk0015@auburn.edu,Fa20,Exam 3,49.5,Online,Fa20,31,NA,31,4.33,N,M,Caucasian / White,Pell ineligible filer,3.08,U,FR,202010,Curtiss,3986648,-0.716609526,-1.584476246,-0.454970214,1.007891813
+SEJ0033,sej0033@auburn.edu,Fa20,Exam 3,0,NA,Fa20,NA,1180,24,2.74,,F,Black or African American,Pell ineligible filer,2.16,U,SO,202010,Curtiss,3933696,NA,NA,NA,-3.774256972
+SEK0047,sek0047@auburn.edu,Fa20,Exam 3,46.5,Online,Fa20,NA,1340,29,4.45,N,F,Caucasian / White,Pell ineligible filer,4,U,FR,202010,Curtiss,4068039,0.234238912,0.934558977,-0.207954729,0.825462706
+SGH0040,sgh0040@auburn.edu,Fa20,Exam 3,26,Face to Face,Fa20,29,NA,29,4.06,Y,F,Caucasian / White,Pell ineligible filer,3.82,U,FR,202010,Curtiss,4033757,0.855387789,-0.980201122,0.080786128,0.021471515
+SGW0033,sgw0033@auburn.edu,Fa20,Exam 3,43,Face to Face,Fa20,30,NA,30,4.06,N,F,Caucasian / White,Pell ineligible filer,3.53,U,FR,202010,Curtiss,4053221,0.569571838,-0.477583714,-1.306142101,0.236377021
+SHP0019,shp0019@auburn.edu,Fa20,Exam 3,49.5,Online,Fa20,33,NA,33,4.21,N,M,Caucasian / White,Pell ineligible filer,4,U,SO,202010,Curtiss,3986074,-0.448624921,1.717988444,-0.170286949,1.19032092
+SJW0069,sjw0069@auburn.edu,Fa20,Exam 3,50.5,Online,Fa20,30,NA,30,4.42,N,F,Caucasian / White,Pell ineligible filer,3.8,U,FR,202010,Curtiss,3971449,0.026940166,0.428970101,-1.962697679,0.978522736
+SKH0050,skh0050@auburn.edu,Fa20,Exam 3,58,Online,Fa20,28,NA,28,4.3,N,F,Caucasian / White,Pell ineligible filer,3.57,U,FR,202010,Curtiss,3955316,-0.529081211,1.5632722,0.647144346,0.301329819
+SLC0049,slc0049@auburn.edu,Su20,Exam 3,96.5,Face to Face,Su20,33,0,33,4.4,N,F,Caucasian / White,,NA,U,FR,202130,Curtiss,3820859,NA,NA,NA,NA
+SLO0015,slo0015@auburn.edu,Fa20,Exam 3,40,Face to Face,Fa20,NA,1150,23,4.11,,F,Caucasian / White,Non-filer,3.46,U,FR,202010,Curtiss,4007187,-0.463580031,-0.186646393,0.091431557,-1.164885728
+SMH0089,smh0089@auburn.edu,Fa20,Exam 3,56,Face to Face,Fa20,33,0,33,4.03,Y,F,Caucasian / White,Pell eliglble filer,3.07,U,SO,202010,Curtiss,3811137,-1.014157833,1.408555957,1.31949554,0.819248062
+SML0063,sml0063@auburn.edu,Fa20,Exam 3,58.5,Online,Fa20,35,NA,35,4.34,N,F,Two or more races,Pell ineligible filer,4,U,SO,202010,Curtiss,4038140,-0.168534279,1.717988444,-0.072459054,1.888128996
+SPK0017,spk0017@auburn.edu,Fa20,Exam 3,62.5,Face to Face,Fa20,30,NA,30,4.31,N,F,Caucasian / White,Pell ineligible filer,4,U,FR,202010,Curtiss,4038098,-0.805011947,-0.020588779,-0.015589628,0.75175599
+SRL0031,srl0031@auburn.edu,Fa20,Exam 3,40.5,Online,Fa20,31,NA,31,3.79,N,F,Caucasian / White,Non-filer,2.57,U,FR,202010,Curtiss,4068466,-0.107193004,1.717988444,-1.388335195,-0.10532676
+SRS0082,srs0082@auburn.edu,Fa20,Exam 3,79,Online,Fa20,31,NA,31,4.8,Y,F,Caucasian / White,Pell ineligible filer,4,U,FR,202010,Curtiss,3928708,-0.235600864,1.500365423,1.175928298,1.976804275
+TAJ0026,taj0026@auburn.edu,Fa20,Exam 3,50,Face to Face,Fa20,30,NA,30,4.24,N,M,Caucasian / White,Pell ineligible filer,3.5,U,FR,202010,Curtiss,3997970,-0.596147796,0.692497855,-0.166862717,0.607449878
+TBD0020,tbd0020@auburn.edu,Fa20,Exam 3,52.5,Online,Fa20,26,NA,26,3.84,,M,Non-Resident Alien,Non-filer,3.07,U,FR,202010,Curtiss,4081663,-0.542470917,-0.407240881,1.461210272,-1.076778496
+TBT0009,tbt0009@auburn.edu,Fa20,Exam 3,72.5,Face to Face,Fa20,0,1290,27,3.86,N,M,Caucasian / White,Non-filer,3,U,FR,202010,Curtiss,3932733,-1.008150788,-0.95873449,-0.994519178,-0.820642673
+THD0012,thd0012@auburn.edu,Fa20,Exam 3,18,Online,Fa20,23,NA,23,3.31,Y,F,Asian,Non-filer,2.7,U,FR,202010,Curtiss,4041499,-2.034011941,1.717988444,-0.606743772,-2.814098428
+TJD0039,tjd0039@auburn.edu,Fa20,Exam 3,24,Online,Fa20,25,NA,25,3.81,N,M,Caucasian / White,Pell ineligible filer,2.58,U,FR,202010,Curtiss,4024408,-0.262380275,1.717988444,-0.188231925,-1.353529478
+TKJ0009,tkj0009@auburn.edu,Fa20,Exam 3,39.5,Face to Face,Fa20,33,NA,33,3.72,N,M,Caucasian / White,Pell ineligible filer,3.6,U,SO,202010,Curtiss,4023440,0.978070339,-1.0431079,-1.725140455,0.180178141
+TMK0024,tmk0024@auburn.edu,Fa20,Exam 3,83,Online,Fa20,31,NA,31,4.46,N,F,Caucasian / White,Pell ineligible filer,3.09,U,FR,202010,Curtiss,3904910,0.094006751,-0.150866922,0.638011774,1.275888877
+TNH0020,tnh0020@auburn.edu,Fa20,Exam 3,45,Online,Fa20,24,NA,24,4.54,N,F,Caucasian / White,Pell ineligible filer,3.59,U,FR,202010,Curtiss,3993377,0.226574517,1.321211079,-0.808180725,-0.063528395
+TPB0014,tpb0014@auburn.edu,Fa20,Exam 3,36,Face to Face,Fa20,27,NA,27,3.84,N,M,Caucasian / White,Non-filer,2.58,U,FR,202010,Curtiss,3980664,-0.19881818,-0.2382118,0.636599013,-0.86187299
+TPW0012,tpw0012@auburn.edu,Fa20,Exam 3,9.5,Online,Fa20,20,0,20,3.84,Y,F,Black or African American,Pell eliglble filer,1.92,U,FR,202010,Curtiss,3697988,-0.174259589,1.222524831,-1.41411624,-2.366211532
+TSG0008,tsg0008@auburn.edu,Su20,Exam 3,29,Online,Su20,33,NA,33,4.2,N,M,Caucasian / White,,NA,U,FR,202130,Curtiss,3910485,NA,NA,NA,NA
+TWK0005,twk0005@auburn.edu,Fa20,Exam 3,72,Online,Fa20,31,NA,31,4.28,N,M,Caucasian / White,Pell ineligible filer,4,U,FR,202010,Curtiss,4027208,-0.519195996,-1.584476246,-1.09036167,0.904816019
+TXK0002,txk0002@auburn.edu,Fa20,Exam 3,0,NA,Fa20,29,NA,29,3.41,Y,M,Black or African American,Pell ineligible filer,2.08,U,FR,202010,Curtiss,3981496,NA,NA,NA,-1.318513805
+VKB0008,vkb0008@auburn.edu,Fa20,Exam 3,42.5,Face to Face,Fa20,31,NA,31,4.28,N,F,Caucasian / White,Pell ineligible filer,4,U,FR,202010,Curtiss,3970513,-1.876885585,1.253839714,0.232559686,0.904816019
+VSP0002,vsp0002@auburn.edu,Fa20,Exam 3,33.5,Online,Fa20,28,NA,28,3.97,N,F,Caucasian / White,Non-filer,3.5,U,FR,202010,Curtiss,4018702,0.151843536,1.717988444,0.655896031,-0.37897042
+VZL0008,vzl0008@auburn.edu,Fa20,Exam 3,80.5,Online,Fa20,29,NA,29,4.15,N,M,Asian,Pell eliglble filer,3.71,U,FR,202010,Curtiss,4042299,0.368372082,-3.635457424,-0.195630101,0.207007943
+WDM0027,wdm0027@auburn.edu,Su20,Exam 3,32.5,Face to Face,Su20,34,NA,34,4.01,N,M,Caucasian / White,,NA,U,FR,202130,Curtiss,3929303,NA,NA,NA,NA
+WGA0007,wga0007@auburn.edu,Fa20,Exam 3,33,NA,Fa20,30,NA,30,4,N,M,Caucasian / White,Pell ineligible filer,4,U,FR,202010,Curtiss,4043123,NA,NA,NA,0.112686068
+WHR0008,whr0008@auburn.edu,Fa20,Exam 3,44.5,Online,Fa20,32,NA,32,3.53,N,M,Caucasian / White,Pell ineligible filer,2.33,U,FR,202010,Curtiss,4060360,-0.718830346,1.212399568,-0.351035465,-0.426415382
+WKS0008,wks0008@auburn.edu,Fa20,Exam 3,48.5,NA,Fa20,31,NA,31,4.41,N,M,Caucasian / White,Non-filer,3.79,U,FR,202010,Curtiss,3960398,NA,NA,NA,1.172813083
+WLP0007,wlp0007@auburn.edu,Su20,Exam 3,43,Online,Su20,NA,1330,29,3.71,N,M,Caucasian / White,,NA,U,FR,202130,Curtiss,3993759,NA,NA,NA,NA
+WSP0015,wsp0015@auburn.edu,Fa20,Exam 3,45.5,NA,Fa20,33,NA,33,3.8,N,M,Caucasian / White,Pell eliglble filer,2.8,U,FR,202010,Curtiss,4010142,NA,NA,NA,0.345099411
+WWT0005,wwt0005@auburn.edu,Fa20,Exam 3,50,Online,Fa20,26,NA,26,3.98,N,M,Caucasian / White,Non-filer,3.5,U,FR,202010,Curtiss,4029167,0.318481428,0.741374056,-0.368612051,-0.788166273
+WZH0033,wzh0033@auburn.edu,Fa20,Exam 3,24.5,Online,Fa20,NA,NA,NA,NA,,M,Non-Resident Alien,Non-filer,2.73,U,FR,202010,Curtiss,3992741,0.368372082,1.717988444,0.981663928,NA
+ZEC0004,zec0004@auburn.edu,Fa20,Exam 3,80,Face to Face,Fa20,NA,1260,27,3.92,N,M,Caucasian / White,Non-filer,3.57,U,FR,202010,Curtiss,4069170,-0.381558336,-1.913882246,0.85426051,-0.69695172
+ZTB0011,ztb0011@auburn.edu,Fa20,Exam 3,46.5,Face to Face,Fa20,NA,1310,28,4.75,N,M,Caucasian / White,Pell ineligible filer,3.54,U,JR,202010,Curtiss,4023489,-2.012957841,-1.974099816,-2.167240554,1.229011963
+ZZW0050,zzw0050@auburn.edu,Su20,Exam 3,50.5,Online,Su20,NA,NA,NA,NA,,M,Non-Resident Alien,,NA,U,FR,202130,Curtiss,3911610,NA,NA,NA,NA
