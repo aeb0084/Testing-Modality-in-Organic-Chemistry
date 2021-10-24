@@ -19,11 +19,10 @@ TheBigTable-MetaData.csv             |Meta Data                            | [Me
 
 ## Supplementary Materials: 
 
-<img src="Amniota_tree.jpeg" width="600">
+<img src="TableS1.JPG" width="600">
 
-<img src="Table_S1.jpg" width="1200">
+<img src="TableS2.JPG" width="600">
 
-<img src="Table_S2.jpg" width="1200">
 
 ## Statistical and Data Visualization Code
 ```ruby
