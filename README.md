@@ -19,7 +19,7 @@ CHEM-master-file_Deidentified.xlsb   |Excel File Containing All Raw Survey Data 
 CHEM_deidentified.csv                |CSV File Use in R Statistical Analysis     | [CSV used in Statistical Analysis](CHEM_deidentified.csv)
 
 
-## Supplementary Materials: 
+## Supplementary Tables: 
 
 <img src="TableS1.JPG" width="1200">
 
@@ -28,9 +28,38 @@ CHEM_deidentified.csv                |CSV File Use in R Statistical Analysis    
 
 ## Statistical and Data Visualization Code
 ```ruby
-
+#Load all necessary Packages
+library(reshape2)
+library(nlme)
+library(ggplot2)
+library(plyr)
+library(emmeans)
+library(devtools)
+library(tidyverse)
+library(corrplot)
+library(GPArotation)
+library(semPlot)
+library(lavaan)
+library(cowplot)
+library(readr)
+library(tidyr)
+library(Hmisc)
+library(RColorBrewer)
+library(PupillometryR)
 ```
 
+```ruby
+#Load data files containing latent variables and institutional information. Merge the two data sets into a single data frame.
+chem.cfa.raw=read.csv("CHEM_CFA.csv", header=T, na.strings = c("", "NA"))
+chem.cfa.raw$GID<-toupper(chem.cfa.raw$GID) 
+
+institut=read.csv("Institutional_info.csv")
+#Institutional data was then used to merge with survey data. Note: ACTcalc is raw ACT values when available, and SAT values converted to ACT when no ACT was reported but SAT was.
+
+chem.cfa <- merge(chem.cfa.raw,institut, by="GID", all=TRUE, incomparables = FALSE)
+```
+> Data is often scewed to the right. Only a couple of the data columns are normal. So data will need to be transformed. Go to this website to see alternitives to normalizing data within the cfa model: https://lavaan.ugent.be/tutorial/est.html
+> "MLM": maximum likelihood estimation with robust standard errors and a Satorra-Bentler scaled test statistic. For complete data only.See this pub for justification of test statistic choice: https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.382.6856&rep=rep1&type=pdf
 
 
 
