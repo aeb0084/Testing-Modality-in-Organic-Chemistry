@@ -17,7 +17,8 @@ Analysis and File Names| Brief Description | Link to File
 -------------------------------------|------------------------------------ | -----------------------------------------------------
 CHEM-master-file_Deidentified.xlsb   |Excel File Containing All Raw Survey Data  | [Raw Survey Data](CHEM-master-file_Deidentified.xlsb)
 CHEM_deidentified.csv                |CSV File Use in R Statistical Analysis     | [CSV used in Statistical Analysis](CHEM_deidentified.csv)
-
+Chem_Exam_Ballen_annotated_GitHub.Rmd  | Rmarkdown File Containing All Statistical and Visualization Code |  [Rmarkdown Code File](Chem_Exam_Ballen_annotated_GitHub.Rmd)
+Chem_Exam_Ballen_annotated_GitHub.html | HTML Output of Rmarkdown Analysis File  | [HTML Code/Analysis Results](Chem_Exam_Ballen_annotated_GitHub.html)
 
 ## Supplementary Tables: 
 
