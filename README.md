@@ -27,12 +27,7 @@ CHEM_deidentified.csv                |CSV File Use in R Statistical Analysis    
 
 
 ## Statistical and Data Visualization Code
----
-title: "Students who prefer face-to-face tests outperform their online peers in organic chemistry"
-author: "Abby Beatty"
-date: "5/23/2021"
-output: html_document
----
+
 
 # Load all Necessary Packages
 ```ruby
