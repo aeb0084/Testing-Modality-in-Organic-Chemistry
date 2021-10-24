@@ -19,9 +19,9 @@ TheBigTable-MetaData.csv             |Meta Data                            | [Me
 
 ## Supplementary Materials: 
 
-<img src="TableS1.JPG" width="600">
+<img src="TableS1.JPG" width="1200">
 
-<img src="TableS2.JPG" width="600">
+<img src="TableS2.JPG" width="800">
 
 
 ## Statistical and Data Visualization Code
