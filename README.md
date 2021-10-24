@@ -27,8 +27,15 @@ CHEM_deidentified.csv                |CSV File Use in R Statistical Analysis    
 
 
 ## Statistical and Data Visualization Code
-```ruby
-#Load all necessary Packages
+---
+title: "Students who prefer face-to-face tests outperform their online peers in organic chemistry"
+author: "Abby Beatty"
+date: "5/23/2021"
+output: html_document
+---
+
+# Load all Necessary Packages
+```{r, error=F, message=F, warning=F}
 library(reshape2)
 library(nlme)
 library(ggplot2)
@@ -46,25 +53,37 @@ library(tidyr)
 library(Hmisc)
 library(RColorBrewer)
 library(PupillometryR)
+library(car)
+library(Rmisc)
+library(psych)
+library(janitor)
 ```
 
-```ruby
-#Load data files containing latent variables and institutional information. Merge the two data sets into a single data frame.
+# Read in Survey data and Institutional Data
+## Merge the two data files for use in analysis
+
+```{r}
 chem.cfa.raw=read.csv("CHEM_CFA.csv", header=T, na.strings = c("", "NA"))
 chem.cfa.raw$GID<-toupper(chem.cfa.raw$GID) 
 
 institut=read.csv("Institutional_info.csv")
-#Institutional data was then used to merge with survey data. Note: ACTcalc is raw ACT values when available, and SAT values converted to ACT when no ACT was reported but SAT was.
 
+#Institutional data was then used to merge with survey data. Note: ACTcalc is raw ACT values when available, and SAT values converted to ACT when no ACT was reported but SAT was.
+#Merge data using GID variable, which is present in both data sets.
 chem.cfa <- merge(chem.cfa.raw,institut, by="GID", all=TRUE, incomparables = FALSE)
+
 ```
+
 > Data is often scewed to the right. Only a couple of the data columns are normal. So data will need to be transformed. Go to this website to see alternitives to normalizing data within the cfa model: https://lavaan.ugent.be/tutorial/est.html
 > "MLM": maximum likelihood estimation with robust standard errors and a Satorra-Bentler scaled test statistic. For complete data only.See this pub for justification of test statistic choice: https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.382.6856&rep=rep1&type=pdf
 
 # CONFIRMATORY FACTOR ANALYSIS OF PREVIOUSLY VALIDATED CONSTRUCTS
-## CFA of Grit Measures
-```ruby
-#Grit alone
+
+> Really helpful youtube tutorial showing cfa function and semPlot: https://www.youtube.com/watch?v=KirEhSRSVI8
+
+## CFA of Instrinsic Goal Orientation (written as grit in code) Measures
+```{r}
+#Intrinsic Goal Orientation
 
 #Create model that contains all questions related to grit
 (c1.model <- '
@@ -85,8 +104,8 @@ semPlot::semPaths(solution1, "std", edge.label.cex =1, label.cex=1)
 > Grit Measures did not meet the standard for CFA success using all variables. This will be redone, removing the lowest fit variable (V1)
 
 ### Try improving Model 1 by removing V1 (high variance and low estimate)
-```ruby
-#Grit
+```{r}
+#Intrinsic Goal Orientation
 (c1b.model <- '
 grit =~ G2 + G3 + G4 + G5')
 
@@ -110,11 +129,11 @@ head(chem.cfa)
 > Improvement of Model 1 was successful. These are the values that will be used for all future analyses. All parameters are within the cutoff when Variable 1 for grit is removed.
 
 
-## CFA of Value Measures
-```ruby
+## CFA of Perceived Value of Chemistry (written as value in code) Measures
+```{r}
 #See code above for annotation details.
 
-#Values
+#Perceived Value of Chemistry 
 (c3.model <- '
 values =~ V1 + V2 + V3 + V4 + V5 + V6')
 
@@ -148,8 +167,9 @@ http://sachaepskamp.com/documentation/semPlot/semPaths.html
 
 > See this publication and references within on reporting CFA results properly: https://www.researchgate.net/publication/24187223_Reporting_Practices_in_Confirmatory_Factor_Analysis_An_Overview_and_Some_Recommendations
 
+
 ## Incoming Preparation Measures
-```ruby
+```{r}
 #Design a data set for PCA analysis. The goal of this is to combine multiple highly correlated variables of incoming preparation.
 #subset whole data to include all data points which have ACT and High school GPA measures available. Cumulative GPA when entering class was also available, and included in the data set.
 
@@ -178,35 +198,42 @@ PCA3=cbind(PCA3, perf$scores)
 PCA4=select(PCA3, GID, Comp.1)
 chem.cfa <- merge(chem.cfa,PCA4, by="GID", all=TRUE)
 ```
-```ruby#Rename Comp.1 from PCA to "Prep"
+```{r, print=F, results=F}
+#Rename Comp.1 from PCA to "Prep"
 rename(chem.cfa, Prep = Comp.1)
 ```
 
 
 ## Write new data frame with Loaded Latent Variable Values
-```ruby
+```{r}
 write.csv(chem.cfa,"CFA_Loadings.csv", row.names = FALSE)
 
-#This data was exported to have a grit, anxiety, values, and incoming preparation score for each student. That data was then converted to "long" format in excel, and extraneous variables were removed from the data set.
+#This data was exported to have a grit, values, and incoming preparation score for each student. That data was then converted to "long" format in excel, and extraneous variables were removed from the data set.
 
 ```
 
-# Determine that performance does not differ between fall and summer semesters before combining data. 
+# Assess Appropriateness of combining Fall and Summer Performance Measures
+
 ```{r}
 chem=read.csv("CHEM_long2.csv")
 table(chem$Exam, chem$Format)
 ID.unique=as.data.frame(table(chem$ID))
 
+#Does performance differ by semester... before combining the two data sets 
 anova(lme(Performance~ semester.x, random= ~1|ID, data=chem, na.action=na.omit))
 ```
 
 > There is not a statistical difference between the two semesters, and they are therefore combined.
 
 # Test for Outliers, and retrieve statistical measures of data quality for latent variables
-```ruby
+```{r}
+
 #outlier test
+
 outlierTest(lm(Performance~ Format+ Exam + Grit + Anxiety + Values, data=chem, na.action=na.omit))
 
+
+#Calculate mean, SD, SE, CI, skewness and kurtosis for each variable
 summarySE(data=chem, measurevar="Grit", groupvars="Format", na.rm=T, conf.interval=0.95)
 summarySE(data=chem, measurevar="Values", groupvars="Format", na.rm=T, conf.interval=0.95)
 summarySE(data=chem, measurevar="Prep", groupvars="Format", na.rm=T, conf.interval=0.95)
@@ -226,15 +253,16 @@ skew(online$Values)
 kurtosi(online$Values)
 skew(online$Prep)
 kurtosi(online$Prep)
+
 ```
+
 # Quantitative Analysis
-```ruby
+```{r}
 #read in longitudinal repeated measures data set including all data
 chem=read.csv("CHEM_long2.csv")
 table(chem$Exam, chem$Format)
 ID.unique=as.data.frame(table(chem$ID))
 
-table(ID.unique$Var2)
 
 #Set dodge positions for plotting
 dodge <- position_dodge(width = 0.6)
@@ -243,11 +271,11 @@ dodge <- position_dodge(width = 0.6)
 #Research Question 2: Were there differences in affective measures between the two groups and based on performance?
 
 #run linear model to determine which available variables may affect performance in the course
-chem.lm=(lme(Performance~ Format+ Exam + Grit + Anxiety + Values + Prep, random= ~1|ID/semester.x, data=chem, na.action=na.omit))
+chem.lm=(lme(Performance~ Format+ Exam + Grit  + Values + Prep, random= ~1|ID/semester.x, data=chem, na.action=na.omit))
 anova(chem.lm)
 summary(chem.lm)
 
-chem.lm2=(lme(Performance~ Format+ Exam + Grit + Anxiety + Values, random=list(~1|ID, ~1|Prep), data=chem, na.action=na.omit))
+chem.lm2=(lme(Performance~ Format+ Exam + Grit  + Values, random=list(~1|ID, ~1|Prep), data=chem, na.action=na.omit))
 anova(chem.lm2)
 summary(chem.lm2)
 
@@ -265,9 +293,10 @@ summary(chem.lm3)
 
 ```
 
-> Class form, exam number, grit, anxiety, values, and incoming preparation all significantly effected performance in the course when taking "ID" into account as a repeated measure.  Because incoming prepartion has a clear affect on performance, and our focus is on how the two testing formats effect performance, a second linear model was performed examining the effect of testing format on performance when incominging preparation is taken into account.  Even when incoming preparation is taken into account, testing format significantly effected class performance. 
+> Class form, exam number, grit, values, and incoming preparation all significantly effected performance in the course when taking "ID" into account as a repeated measure.  Because incoming prepartion has a clear affect on performance, and our focus is on how the two testing formats effect performance, a second linear model was performed examining the effect of testing format on performance when incominging preparation is taken into account.  Even when incoming preparation is taken into account, testing format significantly effected class performance. 
 
-```ruby
+# Visualization of Performance Data by Exam and Testing Modality 
+```{r}
 #make a data frame that includes all student data for which we have testing format designations. 
 format= chem %>% drop_na(Format)
 
@@ -314,7 +343,7 @@ rain2
 
 ggsave(rain2, file="rain_perf_average.png", height=8, width=4, dpi = 300)
 
-
+#Multipanel plot by exam number
 
 rain=ggplot(data = format, aes(y = Performance, x = Format, fill = Format)) +
 geom_flat_violin(position = position_nudge(x = .2, y = 0), alpha = .8, width=.4) +
@@ -330,22 +359,24 @@ raincloud_theme +
   coord_flip()+
   facet_wrap(~Exam,   dir = "v")
 
-
+rain
 ggsave(rain, file="rain_perf.png", height=8, width=8, dpi = 300)
 ```
 
-# Multipanel Figure of Affective measures
-```ruby
+# Affect Measure Data Frame Manipulation
+```{r}
+#affective measures were collected at one time. To avoid pseudoreplication, the values were subsetted to occur only one time (exam 1). In other words, the students took the survey one time and a measure of perceived value and intrinsic goal orientation was calculated as a single value, then applied to each student at each of the three time points. One time point was chosen for analysis to not inflate the sample size by using the same value at three time points. 
 
 aff=subset(chem, Exam== "Exam 1")
+#Select columns containing measured variables of interest.
 aff=chem[, c(2,6,22,24:25)]
 
 df_melted = melt(aff, id.vars=c("ID", "Format"), variable.name="Construct", value.name="Value")
 df_melted=df_melted[complete.cases(df_melted),]
 ```
 
-
-```ruby
+# Analysis of Intrinsic Goal Orientation, Perceived Value of Chemistry, and Incoming Preparation
+```{r}
 anova(lme(Grit~ Format, data=aff, random=~1|ID, na.action=na.omit))
 anova(lme(Prep~ Format, data=aff, random=~1|ID, na.action=na.omit))
 anova(lme(Values~ Format, data=aff, random=~1|ID, na.action=na.omit))
@@ -367,7 +398,7 @@ p1
 
 ```
 
-```ruby
+```{r}
 
 cor.test(format$Values, format$Performance)
 cor.test(format$Grit, format$Performance)
@@ -403,8 +434,8 @@ ggsave(cor.prep, file="cor.prep.png", height=2, width=3, dpi = 300)
 
 ```
 
-# Create visual depiction of categorical engagement by performance effects
-```ruby
+# Engagement by Performance Outcomes Analysis
+```{r}
 #Upload long data including additional variables for visual analysis only
 sec_var=read.csv("CHEM_long.csv")
 
@@ -425,8 +456,6 @@ ggsave(eng.pl, file="eng.png", height=6, width=4, dpi = 300)
 
 eng.lm=(lme(Performance~ engagement*Format, random= ~1|ID, data=eng, na.action=na.omit))
 anova(eng.lm)
-
-emmeans(eng.lm, list(Format~engagement), adjust = "tukey")
 
 eng1=subset(eng, engagement== "<10%")
 eng2=subset(eng, engagement== "10-30%")
@@ -461,14 +490,14 @@ his=ggplot(eng, aes(x=engagement, fill=Format)) +
 his 
 ggsave(his, file="his.eng.png", height=2, width=6, dpi = 300)
 ```
-# Calculate Descriptive Demographic Statistics 
-```ruby
+
+# Descriptive Statistics for Demographics Analysis
+```{r}
 
 demo.o=subset(chem, Format=="Online")
 demo.f=subset(chem, Format == "Face to Face")
   
 
-library(janitor)
 
 tabyl(chem, gender, Format) %>%
   adorn_percentages("col") %>%
